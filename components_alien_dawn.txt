@@ -1,0 +1,4 @@
+UI/Icons/Items/electronic_components
+UI/Icons/Items/scrap_electronics
+UI/Icons/Items/cpu_cores
+UI/Icons/Items/power_cell

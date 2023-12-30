@@ -1,0 +1,19 @@
+return PlaceObj('ModDef', {
+	'title', "Mass Printing",
+	'description', "Provides a Research and multiple 3D Printer Recipes that are used to automate the production of fuel, synthetic armour, and all weapons (including upgraded) from raw resources and with little user intervention straight on the 3d Printer",
+	'last_changes', "Tested this on the Mod Editor map and seems to work fine.",
+	'id', "H5Xfcfc",
+	'author', "unknown",
+	'version_major', 1,
+	'version_minor', 1,
+	'version', 92,
+	'lua_revision', 233360,
+	'saved_with_revision', 330017,
+	'code', {
+		"Building/FarmField_MassPrint_Oreleaf.lua",
+	},
+	'saved', 1681642516,
+	'code_hash', 1936228022067445759,
+	'steam_id', "2958775360",
+	'TagResearch', true,
+})

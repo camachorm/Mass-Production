@@ -1,0 +1,387 @@
+sep=,
+ID,Text,Translation,VoiceActor,Context
+506681593529,Weapons,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+860238613790,Task the survivors to mass print weapons.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+700283137714,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+643319721120,Summer clothes,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+916885632966,Task the survivors to mass print summer clothing on the clothing 3D Printer.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+158347728143,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+829251546886,Electronics,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+725919166666,Task the survivors to mass print electronic components.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+910746042489,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+823865793114,Mid-season clothes,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+342496824886,Task the survivors to mass print mid-season clothing on the clothing 3D Printer.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+599958141416,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+126337284740,Mass Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+919688467905,Task the survivors to mass print items on the 3D Printer.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+326065687137,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+418802269476,Winter clothes,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+736538742571,Task the survivors to mass print winter clothing on the clothing 3D Printer.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+561521501190,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+279728722725,Basic Armor,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+833100052967,Task the survivors to mass print leather armor sets.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+625856490922,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+871696790039,Adv. Armour,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+724415242793,Task the survivors to mass print advanced armor sets.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+410553372868,Print,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants
+851881177315,Large veggie leather drying rack,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name
+760660778806,"Dries raw resources over time. Has built-in roof which slows down the drying process but allows products to be stored longer before spoiling.
+
+Transforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meatt' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>.",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory description
+193860343794,Upgraded Drying Rack,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory menu_display_name
+325463903134,Large veggie leather drying rack,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name_pl
+509805845341,Turn on,,,
+260039650689,Turn off,,,
+990839282043,Waiting to be turned on,,,
+781314539632,Waiting to be turned off,,,
+918818234579,Task the survivors to turn on this device.,,,
+771412305217,"Task the survivors to turn off this device, disconnecting it from the power grid.",,,
+722832053382,Decide who gets to own this device.,,,
+298604142459,Select an owner,,,
+746254364821,Drying,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory TransformDisplayName
+835180311853,Upgraded drying rack,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name
+166547613165,"Dries raw resources over time.
+
+Transforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meatt' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>.",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory description
+127145040149,Scrap metal,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory menu_display_name
+185583703032,Upgraded drying racks,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name_pl
+541376552256,Small upgraded drying rack,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name_short
+509805845341,Turn on,,,
+260039650689,Turn off,,,
+990839282043,Waiting to be turned on,,,
+781314539632,Waiting to be turned off,,,
+918818234579,Task the survivors to turn on this device.,,,
+771412305217,"Task the survivors to turn off this device, disconnecting it from the power grid.",,,
+722832053382,Decide who gets to own this device.,,,
+298604142459,Select an owner,,,
+322227383443,Drying,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory TransformDisplayName
+761238860058,Oreleaf field,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name
+650072546239,Oreleaf,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory menu_display_name
+765751970328,Oreleaf fields,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name_pl
+509805845341,Turn on,,,
+260039650689,Turn off,,,
+990839282043,Waiting to be turned on,,,
+781314539632,Waiting to be turned off,,,
+918818234579,Task the survivors to turn on this device.,,,
+771412305217,"Task the survivors to turn off this device, disconnecting it from the power grid.",,,
+722832053382,Decide who gets to own this device.,,,
+298604142459,Select an owner,,,
+629053432995,Transformation,,,
+973343350700,Clothing 3D Printer,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name
+191927030981,"Used for production of:
+ - <color TextEmphasis>Summer clothing</color> x10<image 'UI/Icons/Items/tshirt' 1100>
+ - <color TextEmphasis>Basic Weapons</color><image 'UI/Icons/Items/spear' 1100>
+ - <color TextEmphasis>Advanced Weapons</color><image 'UI/Icons/Items/railgun_sniper_improved' 1100>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory description
+434302521833,Clothing 3D Printer,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name_pl
+509805845341,Turn on,,,
+260039650689,Turn off,,,
+990839282043,Waiting to be turned on,,,
+781314539632,Waiting to be turned off,,,
+918818234579,Task the survivors to turn on this device.,,,
+771412305217,"Task the survivors to turn off this device, disconnecting it from the power grid.",,,
+722832053382,Decide who gets to own this device.,,,
+298604142459,Select an owner,,,
+629053432995,Transformation,,,
+723068958824,3D Equipment Printer,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name
+706683093785,"Used for production of:
+ - <color TextEmphasis>Basic Armor</color><image 'UI/Icons/Items/leather_armor' 1100>
+ - <color TextEmphasis>Advanced Armor</color><image 'UI/Icons/Items/synthetic_armor' 1100>
+ - <color TextEmphasis>Basic Weapons</color><image 'UI/Icons/Items/spear' 1100>
+ - <color TextEmphasis>Advanced Weapons</color><image 'UI/Icons/Items/railgun_sniper_improved' 1100>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory description
+183575090856,3D Equipment Printer,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name_pl
+509805845341,Turn on,,,
+260039650689,Turn off,,,
+990839282043,Waiting to be turned on,,,
+781314539632,Waiting to be turned off,,,
+918818234579,Task the survivors to turn on this device.,,,
+771412305217,"Task the survivors to turn off this device, disconnecting it from the power grid.",,,
+722832053382,Decide who gets to own this device.,,,
+298604142459,Select an owner,,,
+629053432995,Transformation,,,
+269335545664,Oreleaf,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+392170617402,Oreleaves,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNamePl
+892221306398,Grows quickly in all soil types.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+106399464768,T-shirt,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+760785593804,Sew a light textile T-shirt.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+431144972811,Carbon boots,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+259533137026,Craft a durable armor piece from carbon.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+467913714982,Carbon boots 2.0,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+470779141765,Craft a durable armor piece from carbon.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+736952712876,Carbon boots 2.0,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+707672982913,Craft an improved version of the Carbon boots.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+528725886163,Spear x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+136060042052,Smith a crude spear with wooden handle and scrap metal blade.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+845626107959,Railgun sniper 2.0 x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+480219072574,Print an improved version of the Railgun sniper.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+665776627507,Straw hat,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+516283025466,Sew a light straw hat.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+938271666042,Synthetic leggings,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+705358225588,Craft a durable armor piece from synthetic textiles reinforced with metal frame.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+594786287630,Pulse rifle 2.0 x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+253419489618,Craft an improved version of the Pulse rifle.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+113881428831,Pacifier x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+523974426782,Craft a short-range crossbow capable of delivering tranquilizer bolts.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+744096164644,Metal alloys from scrap,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+805869277757,Scrap metals,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+124833718020,Smelt scrap metals into refined metal alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+913946271895,Leather boots,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+596153208265,Craft a light armor piece from leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+133739609064,Mass Print Electronics,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+484446531839,Solder circuit boards.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+808531157637,Laser pistol 2.0,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+526553011195,Craft an improved version of the Laser pistol.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+386072296713,Fur coat,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+184396012037,Sew a leather coat padded with textile.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+477867126652,Carbon helm,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+418362028045,Craft a durable armor piece from carbon nanotubes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+510795929361,Carbon helm 2.0,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+561207992266,Craft a durable armor piece from carbon nanotubes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+901427704018,Synthetic helm,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+774965939223,Craft a durable armor piece from synthetic textiles reinforced with metal frame.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+145625462958,Scrap Metal from Alloys,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+488663997124,Metal Alloys,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+348226014245,Smelt Scrap Metal from Metal Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+436349073048,Synthetic boots,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+152316657487,Craft a durable armor piece from synthetic textiles reinforced with metal frame.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+647580325020,Short bow x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+381877026616,Craft a crude bow with sticks and fabric tendon.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+161903839495,Pulse rifle x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+970035250511,Craft a massive pulse rifle from metal and power cells.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+276984444463,Metal alloys from ore,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+277631291072,Ore,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+627793301522,Smelt ore into refined metal alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+103756165941,Synthetic Textiles from Grain,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+442434084199,Print Synthetics x100,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+284804360513,Print Synthetic Textiles from Grain,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+877024447271,Synthetic Textiles from Grain,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+702454430366,Mass Print Synthetics x1000,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+499295947823,Print Synthetic Textiles from Grain,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+300280567066,Leather leggings,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+144875165590,Craft a light armor piece from leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+304262589576,Coat,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+227853386493,Sew a warm coat.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+588075221247,Mass Print Power cells,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+300280402437,Solder Power cells from energy crystals and electronics.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+680856505747,Liquid Fuel,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+287964620253,Print Liquid Fuel from Grain.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+623719757844,Synthetic textiles,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+380656010542,Print Synthetic textiles from Grain.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+499550554082,Carbon Nanotubes,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+967423072417,Mass print carbon nanotubes from raw grain and ore.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+249795933486,Mass Print Scrap Metal,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+532073728328,Print Scrap Metal from Metal Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+613925888586,Scrap Metal from Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+445051111253,Metal Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+495314026005,Smelt Scrap Metal from Metal Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+745896505651,Ore from Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+730125860560,Ore.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+922568898607,Smelt Ore from Metal Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+635235008930,Ore from Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+834006036493,Ore.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+211223732315,Smelt Ore from Metal Alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+831524538750,Ore from Scrap Metal.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+601807642971,Ore.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+256057660231,Smelt Ore from Scrap Metal.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+765235672740,Ore from Scrap Metal.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+188514448239,Ore.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayNameMenu
+914263947958,Smelt Ore from Scrap Metal.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+226110739900,Shirt,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+645410021205,Sew a light textile shirt.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+919856742425,Veggie boots,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+951116524161,Craft a light armor piece from veggie leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+958190345377,Jacket,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+945790532665,Sew a light jacket.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+632916292527,Veggie leggings,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+506638880210,Craft a light armor piece from veggie leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+555036916508,Laser pistol x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+164320229305,"Craft a light pistol with metal, power cells and CPU Cores.",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+191547743734,Fur cap,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+614126646542,Sew a warm leather cap padded with textile.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+690739763894,Mass Print CPU Cores,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+730586525513,Print CPU Cores from Silicon and metal alloys.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+116859072783,Railgun sniper x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+743875178104,"Craft a light long-range sniper from carbon nanotubes, power cells and CPU Cores.",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+933966765080,Carbon vest,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+395114981122,Craft a durable armor piece from carbon nanotubes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+433655231238,Carbon vest 2.0,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+389499214512,Craft a durable armor piece from carbon nanotubes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+692244237036,Sweater,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+984738167768,Sew a warm textile sweater.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+348568027914,Carbon leggings,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+478046479929,Craft a durable armor piece from carbon nanotubes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+882599838333,Carbon leggings 2.0,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+538067626693,Craft a durable armor piece from carbon nanotubes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+563794887224,Baseball cap,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+769453150879,Sew a light baseball cap.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+769625577559,Trousers,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+341453998916,Sew light textile trousers.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+473471265901,Summer pants,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+237262204493,Sew light textile pants.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+136649988411,Summer shoes,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+165434583913,Sew light shoes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+611908650976,Laser pike x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+910352431803,Rig several power cells to a carbon nanotube handle to make a laser pike.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+491421038536,Laser Sword x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+978228002869,Rig several power cells to a carbon nanotube handle to make a laser sword,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+448327386974,Thermal pants,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+898546351234,Sew warm leather pants padded with textile.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+342683536343,Veggie vest,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+292040488984,Craft a light armor piece from veggie leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+401611628030,Synthetic vest,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+977997413249,Craft a durable armor piece from synthetic textiles reinforced with metal frame.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+281457811296,Boots,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+466800570412,Sew warm leather shoes padded with textile.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+185889864265,Beanie,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+573537598584,Sew a warm beanie.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+921986928327,Crossbow x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+735265384852,Craft a crude crossbow from wood and refined metal.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+104848092154,Carbon crossbow x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+504404948071,Craft an advanced crossbow from carbon nanotubes and synthetics.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+509924615850,Veggie helmet,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+429161151736,Craft a light armor piece from veggie leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+475121065555,Liquid Fuel x1000,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+470811585889,Print Liquid Fuel from Grain.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+983759928406,Carbon nanotubes x1000,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+375755742313,Mass print carbon nanotubes from raw grain and ore.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+695151253087,Synthetic textiles x1000,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+795475170744,Mass print Synthetic Textiles from raw grain,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+832186088026,Sneakers,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+422801931408,Sew sturdier light shoes.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+427402431882,Leather helmet,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+127979311446,Craft a light armor piece from leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+663796423828,Leather vest,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+517290484567,Craft a light armor piece from leather.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+866056629522,Rapid Pulse-Rifle,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+706950222283,Craft an improved version of the Pulse rifle.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+129673732886,Rapid Pulse-Rifle x10,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+859109273038,Craft an improved version of the Pulse rifle.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+727382848332,Mass Printing Winter Clothing,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+525046372910,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Electronics</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Items/electronic_components' 1100>
+   <color TextEmphasis>CPU Cores</color>: 50<image 'UI/Icons/Items/ore' 1100> & 250<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Resources/res_oil' 1100>
+   <color TextEmphasis>Power Cells</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> & 100<image 'UI/Icons/Items/energy_crystals' 1100> -> 10<image 'UI/Icons/Resources/power_cell' 1100>
+   * Manufactured in the Clothing 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+717464955815,Skinbark Drying,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+298201823589,"With minor improvements to the drying rack, we will be able to also dry Skinbark into Veggie Leather.
+
+<style TechSubtitleBlue>Unlocks</style>
+<color TextEmphasis>Upgraded drying racks, both Large and Small</color>
+   <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>
+   * Manufactured in the upgraded drying racks",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+101267019119,Mass Print Leather Armor sets,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+948144081810,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Mass Synthetic Helm</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_helm' 1100>
+   <color TextEmphasis>Mass Synthetic Armor</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_armor' 1100>
+   <color TextEmphasis>Mass Synthetic Pants</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_pants' 1100>
+   <color TextEmphasis>Mass Synthetic Pants</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_boots' 1100>
+   * Manufactured in the 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+687686685459,Mass Print Weaponry,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+444826456269,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <image 'UI/Icons/Infopanels/device_craft_weapons' 1100><color TextEmphasis>Basic Weapons</color> x10
+   <image 'UI/Icons/Items/railgun_sniper_improved' 1100><color TextEmphasis>Advanced Weapons</color>: x10
+   * Manufactured in the 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+338319629393,Oreleaf Plant ,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+270900304503,"Mutation breeding - the process of exposing seeds to chemicals, radiation, or enzymes in order to generate mutants with desirable traits - has been in mass use since the beginning of the 21st century. The discovery how to turn most plants into mutant crops that grow ore tumors, called oreleaf plants, kick-started a revolution in the ore industry on Earth. The exact recipe has been taught in history classes ever since.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Planting of Oreleaf <image 'UI/Icons/Items/ore' 1100></color>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+484438417393,Mass Printing MidSeason Clothing,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+916632645243,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Electronics</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Items/electronic_components' 1100>
+   <color TextEmphasis>CPU Cores</color>: 50<image 'UI/Icons/Items/ore' 1100> & 250<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Resources/res_oil' 1100>
+   <color TextEmphasis>Power Cells</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> & 100<image 'UI/Icons/Items/energy_crystals' 1100> -> 10<image 'UI/Icons/Resources/power_cell' 1100>
+   * Manufactured in the Clothing 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+600267308762,Mass Print Synthetics,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+442758927050,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Mass Synthetic Helm</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_helm' 1100>
+   <color TextEmphasis>Mass Synthetic Armor</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_armor' 1100>
+   <color TextEmphasis>Mass Synthetic Pants</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_pants' 1100>
+   <color TextEmphasis>Mass Synthetic Pants</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_boots' 1100>
+   * Manufactured in the 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+804358417927,Mass Print Carbons,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+712718754325,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Mass Synthetic Helm</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_helm' 1100>
+   <color TextEmphasis>Mass Synthetic Armor</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_armor' 1100>
+   <color TextEmphasis>Mass Synthetic Pants</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_pants' 1100>
+   <color TextEmphasis>Mass Synthetic Pants</color>: 100<image 'UI/Icons/Resources/res_synthetics' 1100> & 100<image 'UI/Icons/Resources/res_metal_ingot' 1100> -> 10<image 'UI/Icons/Items/synthetic_boots' 1100>
+   * Manufactured in the 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+165845421565,Mass Printing Electronics,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+952008972582,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Electronics</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Items/electronic_components' 1100>
+   <color TextEmphasis>CPU Cores</color>: 50<image 'UI/Icons/Items/ore' 1100> & 250<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Resources/res_oil' 1100>
+   <color TextEmphasis>Power Cells</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> & 100<image 'UI/Icons/Items/energy_crystals' 1100> -> 10<image 'UI/Icons/Resources/power_cell' 1100>
+   * Manufactured in the 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+937718846766,Mass Printing,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+542348049144,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Liquid fuel</color>: 100<image 'UI/Icons/Resources/res_grains' 1100> -> 100<image 'UI/Icons/Items/oil' 1100>
+   <color TextEmphasis>Mass Liquid fuel</color>: 1000<image 'UI/Icons/Resources/res_grains' 1100> -> 1000<image 'UI/Icons/Items/oil' 1100>
+   * Manufactured in the 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+911548992500,Mass Printing Summer Clothing,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+544666715254,"With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Electronics</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Items/electronic_components' 1100>
+   <color TextEmphasis>CPU Cores</color>: 50<image 'UI/Icons/Items/ore' 1100> & 250<image 'UI/Icons/Items/silicon' 1100> -> 10<image 'UI/Icons/Resources/res_oil' 1100>
+   <color TextEmphasis>Power Cells</color>: 100<image 'UI/Icons/Items/ore' 1100> & 100<image 'UI/Icons/Items/silicon' 1100> & 100<image 'UI/Icons/Items/energy_crystals' 1100> -> 10<image 'UI/Icons/Resources/power_cell' 1100>
+   * Manufactured in the Clothing 3D Printer",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+500050169581,Rapid Pulse Rifle,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+544639366147,"Rapid Pulse Rifle use the electric energy of a power cell to magnetize and shoot out concentrated beam of energy at high velocity. The CPU Core-controlled targeting assistance provides longer range and deadlier accuracy and high firing rate.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Pulse rifle</color>: 10<image 'UI/Icons/Resources/res_metal_ingot' 1100> 2<image 'UI/Icons/Resources/res_power_cell' 1100> -> 1<image 'UI/Icons/Resources/res_pulse_riffle' 1100>
+   * crafted on Soldering benches",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+943348719648,Fabricator matrixes,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+221024910168,"The fabricator matrices are intricate components that can transform energy into matter. The precise workings of these matrices are only known to a select few, but a 500-page manual on how to produce them is available in most semi-decent emergency survival kits. All we need is someone willing to sit down and read the manual.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Fabricator matrix</color>: 50<image 'UI/Icons/Resources/res_metal_ingot' 1100> 5<image 'UI/Icons/Resources/res_cpu_cores' 1100> -> 1<image 'UI/Icons/Resources/res_matter_generator' 1100>
+   * crafted on Soldering benches",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+213686680837,MP Food fabricators,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+609909698438,"Food fabricators utilize highly complex matter-generating matrices that can transform energy into hot meals. Acquiring such a matrix is the most complicated aspect, as the remaining tasks involve designing the machine's frame and user interface. The matrix itself already contains the necessary routines to produce several simple meals.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Food fabricator</color>: 1<image 'UI/Icons/Resources/res_matter_generator' 1100> 10<image 'UI/Icons/Resources/res_metal_ingot' 1100> 20<image 'UI/Icons/Resources/res_electricity' 1100>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+837987031110,MP Material fabricators,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+863261167824,"Material fabricators utilize complex matter-generating matrices to produce raw materials such as stone, wood, and metal from energy. While obtaining the matrix can be challenging, designing the device and user interface is relatively simple. The matrix contains algorithms for creating basic materials, but programming is necessary for more intricate ones. Despite its intricacy, the fabricator is exceptionally advantageous in numerous industries.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Material fabricator</color>: 1<image 'UI/Icons/Resources/res_matter_generator' 1100> 10<image 'UI/Icons/Resources/res_metal_ingot' 1100> 30<image 'UI/Icons/Resources/res_electricity' 1100>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+791702653676,Liquid fuel fabrication,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+115587472089,"Material fabricators are like the handymen of the future. They're great at building basic stuff, but don't expect them to whip up a batch of liquid fuel anytime soon. That's like asking your grandma to make sushi - it's just not in her wheelhouse. Crafting a routine for a fabricator to make liquid fuel takes serious brain power, like rocket scientist-level smarts.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Liquid fuel</color>: -> 50<image 'UI/Icons/Resources/res_oil' 1100>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+425216614979,MP Silicon fabrication,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+148551101497,"Material fabricators can't make everything, but they can produce silicon, a crucial ingredient in cutting-edge tech. Crafting a program for the fabricator to create silicon takes serious technical knowledge. Don't expect your average Joe to whip up a recipe for the fabricator, or you might end up with low-grade sand instead!
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Silicon</color>: -> 30<image 'UI/Icons/Resources/res_silicon' 1100>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+392095381479,MP Chef's meals fabrication,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+439017613690,"Let's spend some more time on writing routines for the fabricator matrixes and teach them how to generate the most exquisite meals!
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Generating Chef's meals in Food fabricators</color>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+193779741951,MP Tasty meals fabrication,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName
+158452570044,"Simply knowing how to construct food fabricators is not sufficient. People will quickly tire of the limited meal options provided by the fabricator matrix. To satisfy everyone's preferences, we should invest time in developing new routines for the matrix, which will allow for the creation of more complex and flavorful meals.
+
+<style TechSubtitleBlue>Unlocks</style>
+   <color TextEmphasis>Generating tasty meals in Food fabricators</color>",,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description
+321479866395,Rapid Pulse Rifle,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name
+923808479884,Rapid Pulse Rifle,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory display_name_pl
+514844234453,Advanced ranged weapon. Deals a lot of damage with high attack rate.,,,ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory description

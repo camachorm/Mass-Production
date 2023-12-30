@@ -1,0 +1,9 @@
+UI/Icons/Items/carbon_helm
+UI/Icons/Items/carbon_armor
+UI/Icons/Items/carbon_pants
+UI/Icons/Items/carbon_boots
+
+UI/Icons/Items/carbon_helm_improved
+UI/Icons/Items/carbon_armor_improved
+UI/Icons/Items/carbon_pants_improved
+UI/Icons/Items/carbon_boots_improved

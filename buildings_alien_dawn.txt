@@ -1,0 +1,4 @@
+UI/Icons/Build Menu/production_large_drying_rack_scrap
+UI/Icons/Build Menu/small_drying_rack_scrap
+UI/Icons/Build Menu/Plants/plant_siliconleaf
+UI/Icons/Build Menu/3d_printer
