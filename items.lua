@@ -9538,13 +9538,71 @@ PlaceObj('ModItemTech', {
 		Class = "ModItemBuildingCompositeDef",
 		Group = "Power",
 		LockState = "hidden",
-		PresetId = "MassPrint_Carbon_Wind_Smart",
+		PresetId = "MassPrint_DieselGenerator_Smart",
 	}),
 	PlaceObj('RemoveLockedState', {
 		Class = "ModItemBuildingCompositeDef",
 		Group = "Power",
 		LockState = "locked",
-		PresetId = "MassPrint_Carbon_Wind_Smart",
+		PresetId = "MassPrint_DieselGenerator_Smart",
+	}),
+}),
+PlaceObj('ModItemTech', {
+	BuildMenuCategoryHighlights = {
+		"MassPrint_ImprovedPowerMenu",
+	},
+	Description = T(338221154021, --[[ModItemTech MassPrint_PowerCellGenerator_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Power Cell Generator efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Power Cell Generator:</style>\n\n  Generates <color TextEmphasis>500 </color><image 'UI/Icons/Resources/res_electricity' 1100> whilst burning off <image 'UI/Icons/Resources/res_power_cell' 1100>."),
+	DisplayName = T(229220652596, --[[ModItemTech MassPrint_PowerCellGenerator_Smart DisplayName]] "Smart Power Cell generators"),
+	Icon = "UI/Icons/Build Menu/power_cell_generator",
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "PowerCells",
+		}),
+		PlaceObj('CheckTech', {
+			Tech = "CPUCores",
+		}),
+		PlaceObj('CheckTech', {
+			Tech = "Electronics",
+		}),
+		PlaceObj('CheckSurvivorsWithSkillLevels', {
+			Skills = {
+				Construction = 4,
+			},
+		}),
+		PlaceObj('CheckSurvivorsWithSkillLevels', {
+			Skills = {
+				Intellectual = 5,
+			},
+		}),
+		PlaceObj('CheckResourceUnlocked', {
+			Resource = "CPUCore",
+			ResourceGroup = "ElectronicComponents",
+		}),
+		PlaceObj('CheckResourceUnlocked', {
+			Resource = "PowerCell",
+			ResourceGroup = "ElectronicComponents",
+		}),
+		PlaceObj('CheckResourceUnlocked', {
+			Resource = "ScrapElectronics",
+			ResourceGroup = "ElectronicComponents",
+		}),
+	},
+	ResearchPoints = 48000,
+	SortKey = 9,
+	group = "Power",
+	id = "MassPrint_PowerCellGenerator_Smart",
+	money_value = 30000000,
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemBuildingCompositeDef",
+		Group = "Power",
+		LockState = "hidden",
+		PresetId = "MassPrint_PowerCellGenerator_Smart",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemBuildingCompositeDef",
+		Group = "Power",
+		LockState = "locked",
+		PresetId = "MassPrint_PowerCellGenerator_Smart",
 	}),
 }),
 PlaceObj('ModItemTech', {
