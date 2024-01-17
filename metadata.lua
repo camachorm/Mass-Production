@@ -6,7 +6,7 @@ return PlaceObj('ModDef', {
 	'author', "Godboss",
 	'version_major', 1,
 	'version_minor', 1,
-	'version', 980,
+	'version', 981,
 	'lua_revision', 233360,
 	'saved_with_revision', 347716,
 	'code', {
@@ -33,7 +33,7 @@ return PlaceObj('ModDef', {
 		"Building/MassPrint_MotionSensor_Smart.lua",
 	},
 	'has_data', true,
-	'saved', 1705489828,
+	'saved', 1705490657,
 	'code_hash', -443844276660700520,
 	'steam_id', "2958775360",
 	'TagBuildings', true,
