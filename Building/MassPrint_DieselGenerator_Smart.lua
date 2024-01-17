@@ -4,18 +4,17 @@ DefineClass.MassPrint_DieselGenerator_Smart = {
 	__generated_by_class = "ModItemBuildingCompositeDef",
 
 
-	__copy_group = "Power",
 	object_class = "Building",
 	LockState = "hidden",
 	unload_anim_hands = "standing_DropDown_Hands",
 	load_anim_hands = "standing_PickUp_Hands",
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(350604950864, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name]] "Smart Diesel generator"),
-	description = T(923423716248, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you will be able to increase Power Production & Durability & Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
-	menu_display_name = T(156692433620, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart menu_display_name]] "Smart Diesel Generator"),
+	display_name = T(530150406710, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name]] "Smart Diesel generator"),
+	description = T(979051348768, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you will be able to increase Power Production & Durability & Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
+	menu_display_name = T(102376608126, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart menu_display_name]] "Smart Diesel Generator"),
 	BuildMenuIcon = "UI/Icons/Build Menu/diesel_generator",
 	BuildMenuPos = 8,
-	display_name_pl = T(998986571551, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name_pl]] "Smart Diesel generators"),
+	display_name_pl = T(816754139726, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name_pl]] "Smart Diesel generators"),
 	entity = "DieselGenerator",
 	labels = {
 		"PowerSources",
