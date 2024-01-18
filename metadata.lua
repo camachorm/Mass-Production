@@ -1,11 +1,12 @@
 return PlaceObj('ModDef', {
 	'title', "Mass Production",
 	'description', "Mostly late game QoL enhancement that enables more character autonomy through mass production and automated production.\nIntroduces multiple new buildings and devices, including granting access to fabricators outside of the military outpost scenario, albeit requiring a high level intellect and construction skills in your survivors (10 each) to research.",
-	'last_changes', "- Moved technology researches out of Breakthroughs group\n- Added Smart Motion Sensor (Radius 1.5x)\n- Made sure you cannot move Underground Storages\n- Increased durability of Smart Power buildings\n- Increased durability of Composter\n- Adjusted durability variation between metal and wood counterparts of composter\n- Added Smart Power Cell Generator\n- Added smart diesel generator",
+	'last_changes', "- Introducing Genetically Engineered Crops",
 	'id', "H5Xfcfc",
 	'author', "Godboss",
 	'version_major', 2,
-	'version', 1034,
+	'version_minor', 1,
+	'version', 1037,
 	'lua_revision', 233360,
 	'saved_with_revision', 347716,
 	'code', {
@@ -35,7 +36,7 @@ return PlaceObj('ModDef', {
 		"Building/MassPrint_MotionSensor_Smart.lua",
 	},
 	'has_data', true,
-	'saved', 1705582681,
+	'saved', 1705582823,
 	'code_hash', -6445147931153593762,
 	'steam_id', "2958775360",
 	'TagBuildings', true,
