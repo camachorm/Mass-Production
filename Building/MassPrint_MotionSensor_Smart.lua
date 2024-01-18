@@ -4,7 +4,6 @@ DefineClass.MassPrint_MotionSensor_Smart = {
 	__generated_by_class = "ModItemBuildingCompositeDef",
 
 
-	__copy_group = "Power",
 	object_class = "Building",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -24,12 +23,12 @@ DefineClass.MassPrint_MotionSensor_Smart = {
 		}),
 	},
 	BuildMenuCategory = "Defense",
-	display_name = T(219609159957, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name]] "Smart Motion sensor"),
-	description = T(861143533366, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart description]] "Activates when there are hostile animals in range.\n"),
-	menu_display_name = T(735027251029, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart menu_display_name]] "Smart Motion Sensor"),
+	display_name = T(204855534780, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name]] "Smart Motion sensor"),
+	description = T(344976080682, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart description]] "Activates when there are hostile animals in range.\n"),
+	menu_display_name = T(943741118692, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart menu_display_name]] "Smart Motion Sensor"),
 	BuildMenuIcon = "UI/Icons/Build Menu/infrared_detector",
 	BuildMenuPos = 91,
-	display_name_pl = T(733271633537, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name_pl]] "Smart Motion sensors"),
+	display_name_pl = T(794087262240, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name_pl]] "Smart Motion sensors"),
 	entity = "MotionSensor",
 	labels = {
 		"SolarFlareShieldedTargets",
@@ -79,8 +78,8 @@ DefineClass.MassPrint_MotionSensor_Smart = {
 	PowerComponent = true,
 	ProximitySwitchComponent = true,
 	TurnOnDelay = 0,
-	StatusTextWorking = T(709033625823, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextWorking]] "<color TextNegative>Detecting threats</color>"),
-	StatusTextNotWorking = T(337767986741, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextNotWorking]] "<color TextPositive>No threats are detected</color>"),
+	StatusTextWorking = T(223663196423, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextWorking]] "<color TextNegative>Detecting threats</color>"),
+	StatusTextNotWorking = T(391235322870, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextNotWorking]] "<color TextPositive>No threats are detected</color>"),
 	StateIndicatorAttachId = "SignalLamp",
 	NonWorkingIndState = "idle",
 	ActiveIndState = "working_Special",

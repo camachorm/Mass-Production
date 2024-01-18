@@ -4,16 +4,15 @@ DefineClass.MassPrint_PowerCellGenerator_Smart = {
 	__generated_by_class = "ModItemBuildingCompositeDef",
 
 
-	__copy_group = "Power",
 	object_class = "Building",
 	unload_anim_hands = "standing_DropDown_Hands",
 	load_anim_hands = "standing_PickUp_Hands",
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(630493956619, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name]] "Smart Power cell generator"),
-	description = T(852537308953, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you will be able to increase Power Production & Durability & Resource Consumption.\n\nGenerates <color TextEmphasis>Electricity</color> <image 'UI/Icons/Resources/res_electricity' 1100> while depleting a power cell."),
+	display_name = T(206256377981, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name]] "Smart Power cell generator"),
+	description = T(717160015337, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you will be able to increase Power Production & Durability & Resource Consumption.\n\nGenerates <color TextEmphasis>Electricity</color> <image 'UI/Icons/Resources/res_electricity' 1100> while depleting a power cell."),
 	BuildMenuIcon = "UI/Icons/Build Menu/power_cell_generator",
 	BuildMenuPos = 9,
-	display_name_pl = T(103415180809, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name_pl]] "Smart Power cell generators"),
+	display_name_pl = T(212836654594, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name_pl]] "Smart Power cell generators"),
 	entity = "PowerCellGenerator",
 	labels = {
 		"PowerSources",
