@@ -17,13 +17,13 @@ DefineClass.MassPrint_StoragePit_2 = {
 	TempChangeRateOff = 750,
 	ClosedStorage = true,
 	BuildMenuCategory = "MassPrint_StoragePitMenu",
-	display_name = T(308894176415, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name]] "Expanded Underground Storage"),
-	description = T(511853870121, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 description]] "Provides expanded storage space for resources by digging an underground wooden shaft and encloses its contents by building a wooden cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>2º</color> "),
-	menu_display_name = T(185427279037, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 menu_display_name]] "Expanded Storage"),
+	display_name = T(310187736845, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name]] "Expanded Underground Storage"),
+	description = T(454356857172, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 description]] "Provides expanded storage space for resources by digging an underground wooden shaft and encloses its contents by building a wooden cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>2º</color> "),
+	menu_display_name = T(650847606251, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 menu_display_name]] "Expanded Storage"),
 	BuildMenuIcon = "UI/Icons/Build Menu/storage_chest_wood",
 	BuildMenuPos = 2,
-	display_name_pl = T(166484481361, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_pl]] "Wooden Expanded Underground Storage"),
-	display_name_short = T(912884624406, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_short]] "Expanded Underground Storage"),
+	display_name_pl = T(331163223760, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_pl]] "Wooden Expanded Underground Storage"),
+	display_name_short = T(753835046464, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_short]] "Expanded Underground Storage"),
 	entity = "Chest_01",
 	labels = {
 		"BerserkTargets",
@@ -48,13 +48,7 @@ DefineClass.MassPrint_StoragePit_2 = {
 	can_be_moved = false,
 	CustomMaterial = "Wood",
 	attack_attraction = 40,
-	AttackAttractionGetter = function (self)
-		if not self.res_amounts:IsEmpty() then
-			return self.attack_attraction * 3
-		else
-			return self.attack_attraction
-		end
-	end,
+	AttackAttractionGetter = GetMissingSourceFallback(),
 	prefer_in_buildmenu = true,
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,

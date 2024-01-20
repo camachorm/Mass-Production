@@ -23,12 +23,12 @@ DefineClass.MassPrint_MotionSensor_Smart = {
 		}),
 	},
 	BuildMenuCategory = "Defense",
-	display_name = T(281432147314, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name]] "Smart Motion sensor"),
-	description = T(742190442769, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart description]] "Activates when there are hostile animals in range.\n"),
-	menu_display_name = T(642078359421, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart menu_display_name]] "Smart Motion Sensor"),
+	display_name = T(300999397599, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name]] "Smart Motion sensor"),
+	description = T(980853183273, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart description]] "Activates when there are hostile animals in range.\n"),
+	menu_display_name = T(238229535277, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart menu_display_name]] "Smart Motion Sensor"),
 	BuildMenuIcon = "UI/Icons/Build Menu/infrared_detector",
 	BuildMenuPos = 91,
-	display_name_pl = T(661683265719, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name_pl]] "Smart Motion sensors"),
+	display_name_pl = T(785716192022, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name_pl]] "Smart Motion sensors"),
 	entity = "MotionSensor",
 	labels = {
 		"SolarFlareShieldedTargets",
@@ -78,8 +78,8 @@ DefineClass.MassPrint_MotionSensor_Smart = {
 	PowerComponent = true,
 	ProximitySwitchComponent = true,
 	TurnOnDelay = 0,
-	StatusTextWorking = T(881374381319, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextWorking]] "<color TextNegative>Detecting threats</color>"),
-	StatusTextNotWorking = T(438239607441, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextNotWorking]] "<color TextPositive>No threats are detected</color>"),
+	StatusTextWorking = T(111060477960, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextWorking]] "<color TextNegative>Detecting threats</color>"),
+	StatusTextNotWorking = T(357187920942, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextNotWorking]] "<color TextPositive>No threats are detected</color>"),
 	StateIndicatorAttachId = "SignalLamp",
 	NonWorkingIndState = "idle",
 	ActiveIndState = "working_Special",
@@ -92,9 +92,7 @@ DefineClass.MassPrint_MotionSensor_Smart = {
 	PowerConsumption = 9000,
 	HasSmartConnection = true,
 	ProximitySwitchRange = 36000,
-	ProximitySwitchFilter = function (self, obj)
-		return obj:CanMove() and Human.IsAttackTarget(self, obj) -- hacky, but it's the same code
-	end,
+	ProximitySwitchFilter = GetMissingSourceFallback(),
 	ProximitySwitchColor = 4293186370,
 	ProximityInterception = false,
 }

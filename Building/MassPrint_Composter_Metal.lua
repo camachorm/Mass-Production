@@ -11,13 +11,13 @@ DefineClass.MassPrint_Composter_Metal = {
 	TreatStorageAsDevice = true,
 	ClosedStorage = true,
 	BuildMenuCategory = "Animals",
-	display_name = T(661802726972, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name]] "Metal Composter"),
-	description = T(877978926168, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal description]] "Composts food into manure"),
-	menu_display_name = T(970303064320, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal menu_display_name]] "Metal Composter"),
+	display_name = T(152707970877, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name]] "Metal Composter"),
+	description = T(877380403239, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal description]] "Composts food into manure"),
+	menu_display_name = T(745293558742, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal menu_display_name]] "Metal Composter"),
 	BuildMenuIcon = "UI/Icons/Build Menu/storage_chest_metal",
 	BuildMenuPos = 2,
-	display_name_pl = T(448997307899, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_pl]] "Composters"),
-	display_name_short = T(243489068740, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_short]] "Metal Composter"),
+	display_name_pl = T(196611860664, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_pl]] "Composters"),
+	display_name_short = T(491215821678, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_short]] "Metal Composter"),
 	entity = "Interior_IronStorageChest",
 	labels = {
 		"BerserkTargets",
@@ -42,13 +42,7 @@ DefineClass.MassPrint_Composter_Metal = {
 	EntityHeight = 610,
 	CustomMaterial = "Metal",
 	attack_attraction = 40,
-	AttackAttractionGetter = function (self)
-		if not self.res_amounts:IsEmpty() then
-			return self.attack_attraction * 3
-		else
-			return self.attack_attraction
-		end
-	end,
+	AttackAttractionGetter = GetMissingSourceFallback(),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -66,7 +60,7 @@ DefineClass.MassPrint_Composter_Metal = {
 	res_stored = 10000,
 	res_operate_time = 6720000,
 	TransformMetaProp = "composting",
-	TransformDisplayName = T(790604205051, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal TransformDisplayName]] "Composting"),
+	TransformDisplayName = T(210180760161, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal TransformDisplayName]] "Composting"),
 	TransformDefinitions = {
 		PlaceObj('ResTransform', {
 			'InputResource', "Agave",

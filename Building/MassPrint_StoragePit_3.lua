@@ -21,13 +21,13 @@ DefineClass.MassPrint_StoragePit_3 = {
 	TempChangeRateOff = 1000,
 	ClosedStorage = true,
 	BuildMenuCategory = "MassPrint_StoragePitMenu",
-	display_name = T(972717778046, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name]] "Maximized Underground Storage"),
-	description = T(495935965443, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 description]] "Provides maximum storage space for resources by digging an underground metal alloy shaft and encloses its contents by building a scrap metal cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>-5º</color> "),
-	menu_display_name = T(394531595986, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 menu_display_name]] "Maximized Storage"),
+	display_name = T(192297183328, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name]] "Maximized Underground Storage"),
+	description = T(520577598471, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 description]] "Provides maximum storage space for resources by digging an underground metal alloy shaft and encloses its contents by building a scrap metal cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>-5º</color> "),
+	menu_display_name = T(997506146910, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 menu_display_name]] "Maximized Storage"),
 	BuildMenuIcon = "UI/Icons/Build Menu/storage_chest_metal",
 	BuildMenuPos = 3,
-	display_name_pl = T(627127536467, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_pl]] "Maximized Underground Storage"),
-	display_name_short = T(139133584412, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_short]] "Maximized Underground Storage"),
+	display_name_pl = T(914006206749, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_pl]] "Maximized Underground Storage"),
+	display_name_short = T(189800054478, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_short]] "Maximized Underground Storage"),
 	entity = "Interior_IronStorageChest",
 	labels = {
 		"BerserkTargets",
@@ -51,13 +51,7 @@ DefineClass.MassPrint_StoragePit_3 = {
 	can_be_moved = false,
 	CustomMaterial = "Metal",
 	attack_attraction = 40,
-	AttackAttractionGetter = function (self)
-		if not self.res_amounts:IsEmpty() then
-			return self.attack_attraction * 3
-		else
-			return self.attack_attraction
-		end
-	end,
+	AttackAttractionGetter = GetMissingSourceFallback(),
 	prefer_in_buildmenu = true,
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,

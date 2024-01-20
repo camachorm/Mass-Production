@@ -11,13 +11,13 @@ DefineClass.MassPrint_Composter_Wood = {
 	TreatStorageAsDevice = true,
 	ClosedStorage = true,
 	BuildMenuCategory = "Animals",
-	display_name = T(797992466995, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name]] "Wood Composter"),
-	description = T(249216870586, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood description]] "Composts food into manure"),
-	menu_display_name = T(709606253418, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood menu_display_name]] "Wood Composter"),
+	display_name = T(675811268131, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name]] "Wood Composter"),
+	description = T(468000417530, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood description]] "Composts food into manure"),
+	menu_display_name = T(659203658510, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood menu_display_name]] "Wood Composter"),
 	BuildMenuIcon = "UI/Icons/Build Menu/storage_chest_wood",
 	BuildMenuPos = 2,
-	display_name_pl = T(234409782005, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_pl]] "Composters"),
-	display_name_short = T(136226946359, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_short]] "Composter"),
+	display_name_pl = T(700951275611, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_pl]] "Composters"),
+	display_name_short = T(911716386939, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_short]] "Composter"),
 	entity = "Chest_01",
 	labels = {
 		"BerserkTargets",
@@ -42,13 +42,7 @@ DefineClass.MassPrint_Composter_Wood = {
 	EntityHeight = 610,
 	CustomMaterial = "Wood",
 	attack_attraction = 40,
-	AttackAttractionGetter = function (self)
-		if not self.res_amounts:IsEmpty() then
-			return self.attack_attraction * 3
-		else
-			return self.attack_attraction
-		end
-	end,
+	AttackAttractionGetter = GetMissingSourceFallback(),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -66,7 +60,7 @@ DefineClass.MassPrint_Composter_Wood = {
 	res_stored = 10000,
 	res_operate_time = 6720000,
 	TransformMetaProp = "composting",
-	TransformDisplayName = T(553588471961, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood TransformDisplayName]] "Composting"),
+	TransformDisplayName = T(976931397484, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood TransformDisplayName]] "Composting"),
 	stack_count = 48,
 	accepted_res = {
 		"FoodRaw",
