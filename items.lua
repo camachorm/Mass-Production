@@ -10702,6 +10702,16 @@ PlaceObj('ModItemTech', {
 		LockState = "locked",
 		PresetId = "MassPrint_DieselGenerator_Smart",
 	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "BuildMenuCategory",
+		LockState = "hidden",
+		PresetId = "MassPrint_ImprovedPowerMenu",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "BuildMenuCategory",
+		LockState = "locked",
+		PresetId = "MassPrint_ImprovedPowerMenu",
+	}),
 }),
 PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
@@ -10762,6 +10772,16 @@ PlaceObj('ModItemTech', {
 		LockState = "locked",
 		PresetId = "MassPrint_DieselGenerator_Smart",
 	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "BuildMenuCategory",
+		LockState = "hidden",
+		PresetId = "MassPrint_ImprovedPowerMenu",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "BuildMenuCategory",
+		LockState = "locked",
+		PresetId = "MassPrint_ImprovedPowerMenu",
+	}),
 }),
 PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
@@ -10819,6 +10839,16 @@ PlaceObj('ModItemTech', {
 		Group = "Power",
 		LockState = "locked",
 		PresetId = "MassPrint_PowerCellGenerator_Smart",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "BuildMenuCategory",
+		LockState = "hidden",
+		PresetId = "MassPrint_ImprovedPowerMenu",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "BuildMenuCategory",
+		LockState = "locked",
+		PresetId = "MassPrint_ImprovedPowerMenu",
 	}),
 }),
 PlaceObj('ModItemTech', {
