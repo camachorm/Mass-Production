@@ -7777,7 +7777,7 @@ PlaceObj('ModItemTech', {
 	InputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "RawMeat",
-			'amount', 1000000,
+			'amount', 100000,
 		}),
 	},
 	LockPrerequisites = {
