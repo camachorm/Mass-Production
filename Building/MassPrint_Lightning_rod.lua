@@ -16,13 +16,17 @@ DefineClass.MassPrint_Lightning_rod = {
 	description = T(109929302642, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod description]] "Catches nearby lightning strikes in a bigger area. Distributes the absorbed energy to all batteries in the grid."),
 	BuildMenuIcon = "UI/Icons/Build Menu/lightning_rod",
 	BuildMenuPos = 1000,
-	display_name_pl = T(788246004982, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod display_name_pl]] "Massive  Lightning rods"),
+	display_name_pl = T(788246004982, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod display_name_pl]] "Massive Lightning rods"),
 	entity = "Lightning_Rod",
 	FinalColor = 4286113300,
 	construction_cost = PlaceObj('ConstructionCost', {
-		ScrapMetal = 50000,
+		Metal = 25000,
 	}),
 	construction_points = 30000,
+	can_work_deconstructing = true,
+	deconstruction_output = PlaceObj('ConstructionCost', {
+		ScrapMetal = 25000,
+	}),
 	upgrade_label = "LightningRod",
 	RoomPlacement = "outdoors",
 	lock_block_box = box(-500, -500, 0, 500, 500, 6300),
@@ -34,7 +38,7 @@ DefineClass.MassPrint_Lightning_rod = {
 	enable_overlay_on_selection = {
 		RangeOverlay = true,
 	},
-	PowerCharge = 1000000,
+	PowerCharge = 2000000,
 	ShieldArea = 50000,
 	PowerComponent = true,
 	IsPowerGenerator = true,

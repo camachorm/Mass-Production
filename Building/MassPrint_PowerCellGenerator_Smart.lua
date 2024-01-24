@@ -9,7 +9,7 @@ DefineClass.MassPrint_PowerCellGenerator_Smart = {
 	load_anim_hands = "standing_PickUp_Hands",
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
 	display_name = T(169626297025, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name]] "Smart Power cell generator"),
-	description = T(909550753405, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you will be able to increase Power Production & Durability & Resource Consumption.\n\nGenerates <color TextEmphasis>Electricity</color> <image 'UI/Icons/Resources/res_electricity' 1100> while depleting a power cell."),
+	description = T(909550753405, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>500</color> <image 'UI/Icons/Resources/res_electricity' 1100> while depleting a <image 'UI/Icons/Resources/res_power_cell' 1100>."),
 	BuildMenuIcon = "UI/Icons/Build Menu/power_cell_generator",
 	BuildMenuPos = 9,
 	display_name_pl = T(950851036825, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name_pl]] "Smart Power cell generators"),
@@ -17,6 +17,8 @@ DefineClass.MassPrint_PowerCellGenerator_Smart = {
 	labels = {
 		"PowerSources",
 		"BerserkTargets",
+		"SolarFlareShieldedTargets",
+		"CPUCoreDevice",
 	},
 	update_interval = 10000,
 	FinalColor = 4294575879,

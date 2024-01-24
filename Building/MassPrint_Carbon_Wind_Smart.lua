@@ -8,7 +8,7 @@ DefineClass.MassPrint_Carbon_Wind_Smart = {
 	LockState = "hidden",
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
 	display_name = T(793023661737, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name]] "Smart Carbon Wind Turbine"),
-	description = T(140033583057, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the wind turbine operations you will be able to increase Power Production & Durability.\nThe additional optimizations using servo-motors reduce the required wind necessary for optimal performance, enabling power generation even in the lowest of wind strengths,\n\nGenerates <color TextEmphasis>up to 800</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed."),
+	description = T(140033583057, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart description]] "Adding a built-in multi-core CPU, advanced AI algorithms, lighter carbon fiber materials and automatic self-aligning servo-motors to optimize the wind turbine operations giving maximized Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 400</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed.\n\nCosts: <color TextEmphasis>5</color><image 'UI/Icons/Resources/res_scrap_electronics' 1100> <color TextEmphasis>2</color><image 'UI/Icons/Resources/res_cpu_cores' 1100> <color TextEmphasis>40</color><image 'UI/Icons/Resources/res_carbon_nanotubes' 1100>"),
 	menu_display_name = T(716996253683, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart menu_display_name]] "Smart Carbon Wind Turbine"),
 	BuildMenuIcon = "UI/Icons/Build Menu/wind_turbine_carbon",
 	BuildMenuPos = 12,
@@ -17,6 +17,8 @@ DefineClass.MassPrint_Carbon_Wind_Smart = {
 	labels = {
 		"PowerSources",
 		"BerserkTargets",
+		"CPUCoreDevice",
+		"SolarFlareShieldedTargets",
 	},
 	FinalColor = 4291884820,
 	can_turn_off = true,

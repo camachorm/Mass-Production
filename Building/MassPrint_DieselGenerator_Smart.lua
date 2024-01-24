@@ -10,7 +10,7 @@ DefineClass.MassPrint_DieselGenerator_Smart = {
 	load_anim_hands = "standing_PickUp_Hands",
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
 	display_name = T(384148108725, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name]] "Smart Diesel generator"),
-	description = T(457579256988, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you will be able to increase Power Production & Durability & Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
+	description = T(457579256988, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
 	menu_display_name = T(925163907965, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart menu_display_name]] "Smart Diesel Generator"),
 	BuildMenuIcon = "UI/Icons/Build Menu/diesel_generator",
 	BuildMenuPos = 8,
@@ -19,6 +19,8 @@ DefineClass.MassPrint_DieselGenerator_Smart = {
 	labels = {
 		"PowerSources",
 		"BerserkTargets",
+		"SolarFlareShieldedTargets",
+		"CPUCoreDevice",
 	},
 	update_interval = 10000,
 	FinalColor = 4294445321,

@@ -53,7 +53,7 @@ DefineClass.MassPrint_Composter_Metal = {
 	interfaces = {
 		"MassPrint_Composter_DeviceInterface",
 	},
-	initial_recipe = "MassPrint_Compost_100",
+	initial_recipe = "MassPrint_Compost_200",
 	off_when_idle = true,
 	override_material_during_production = false,
 	res_consumed = "LiquidFuel",

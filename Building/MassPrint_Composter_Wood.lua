@@ -53,7 +53,7 @@ DefineClass.MassPrint_Composter_Wood = {
 	interfaces = {
 		"MassPrint_Composter_DeviceInterface",
 	},
-	initial_recipe = "MassPrint_Compost_100",
+	initial_recipe = "MassPrint_Compost_200",
 	off_when_idle = true,
 	ProductionDeviceSkipsStateChange = true,
 	res_consumed = "LiquidFuel",

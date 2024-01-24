@@ -8,7 +8,7 @@ DefineClass.MassPrint_Wind_Smart = {
 	LockState = "hidden",
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
 	display_name = T(643531118835, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name]] "Smart Wind turbine"),
-	description = T(414027954971, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the wind turbine operations you will be able to increase Power Production & Durability.\nThe additional optimizations using servo-motors reduce the required wind necessary for optimal performance, enabling power generation even in lower wind strengths,\n\nGenerates <color TextEmphasis>up to 200</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed."),
+	description = T(414027954971, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart description]] "Adding a built-in CPU, basic AI algorithms and some self-aligning servo-motors to optimize the wind turbine operations giving improved Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 200</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed."),
 	menu_display_name = T(216427052503, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart menu_display_name]] "Smart Wind turbine"),
 	BuildMenuIcon = "UI/Icons/Build Menu/wind_turbine",
 	BuildMenuPos = 11,
@@ -17,6 +17,8 @@ DefineClass.MassPrint_Wind_Smart = {
 	labels = {
 		"PowerSources",
 		"BerserkTargets",
+		"CPUCoreDevice",
+		"SolarFlareShieldedTargets",
 	},
 	FinalColor = 4291884820,
 	can_turn_off = true,
