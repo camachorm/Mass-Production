@@ -11,13 +11,13 @@ DefineClass.MassPrint_Composter_Metal = {
 	TreatStorageAsDevice = true,
 	ClosedStorage = true,
 	BuildMenuCategory = "Animals",
-	display_name = T(416250743752, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name]] "Metal Composter"),
-	description = T(221738282190, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal description]] "Composts food into manure"),
-	menu_display_name = T(855059764081, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal menu_display_name]] "Metal Composter"),
+	display_name = T(700734916834, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name]] "Metal Composter"),
+	description = T(383387100381, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal description]] "Composts food into manure"),
+	menu_display_name = T(330449749082, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal menu_display_name]] "Metal Composter"),
 	BuildMenuIcon = "UI/Icons/Build Menu/storage_chest_metal",
 	BuildMenuPos = 2,
-	display_name_pl = T(379720739059, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_pl]] "Composters"),
-	display_name_short = T(436687165255, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_short]] "Metal Composter"),
+	display_name_pl = T(692858274189, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_pl]] "Composters"),
+	display_name_short = T(620215496888, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_short]] "Metal Composter"),
 	entity = "Interior_IronStorageChest",
 	labels = {
 		"BerserkTargets",
@@ -60,7 +60,7 @@ DefineClass.MassPrint_Composter_Metal = {
 	res_stored = 10000,
 	res_operate_time = 6720000,
 	TransformMetaProp = "composting",
-	TransformDisplayName = T(687639881575, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal TransformDisplayName]] "Composting"),
+	TransformDisplayName = T(734880903735, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal TransformDisplayName]] "Composting"),
 	TransformDefinitions = {
 		PlaceObj('ResTransform', {
 			'InputResource', "Agave",
