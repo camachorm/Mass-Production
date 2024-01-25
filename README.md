@@ -207,7 +207,7 @@ Enables the printing in large quantities of various resources on the **3D Printe
                 - Mech Core **x1 x10**
 
 # Future Plans
-I intend to expand this mod by introducing new resources which will replace the raw resources in the various printers as to make it more realistic. This would add a new 3D printer device that is used to create this resources in bulk fashion. 
+I intend to expand this mod by introducing new resources which will replace the raw resources in the various printers as to make it more realistic. This would add a new 3D printer device that is used to create these resources in bulk fashion. 
 
 ***However:** as this requires new icons and possibly 3D models as well and these are areas I really don't want to touch myself, these expansions will be dependant on finding someone to collaborate on that front, meaning their introduction might be much later or not even at all*
 > Textile Filaments **Created from** *Leathers, Cloth and Ore*
