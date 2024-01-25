@@ -5,7 +5,6 @@ DefineClass.FarmField_MassPrint_GE_GlitterCap = {
 
 	flags = { efAttackable = false, gofDamageable = false, },
 
-	__copy_group = "Farms",
 	object_class = "FieldBase",
 	LockState = "hidden",
 	BuildMenuCategory = "MassPrint_Genetic_Engineering_Crops",
