@@ -2092,6 +2092,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 			ResourceGroup = "ConstructionMaterials",
 		}),
 	},
+	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxTimeToMalfunction = 86400000,
 	MinTimeToMalfunction = 57600000,
@@ -11259,7 +11260,7 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Power",
 	},
-	Description = T(603693350589, --[[ModItemTech MassPrint_LightningRods Description]] "Lightning strikes are unpredictable but easy to catch. A tall enough metal rod would suffice.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Massive Lightning rod</color>: 50<image 'UI/Icons/Resources/res_scrap_metal' 1100>"),
+	Description = T(603693350589, --[[ModItemTech MassPrint_LightningRods Description]] "Lightning strikes are unpredictable but easy to catch. A tall enough metal rod would suffice.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Massive Lightning rod</color>: 25<image 'UI/Icons/Resources/res_metal_ingot' 1100>"),
 	DisplayName = T(841804556045, --[[ModItemTech MassPrint_LightningRods DisplayName]] "Massive Lightning rods"),
 	Icon = "UI/Icons/Research/lighting_rods",
 	LockPrerequisites = {
