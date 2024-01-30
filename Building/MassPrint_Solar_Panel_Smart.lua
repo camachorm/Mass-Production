@@ -6,14 +6,19 @@ DefineClass.MassPrint_Solar_Panel_Smart = {
 
 	object_class = "Building",
 	LockState = "hidden",
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Solar_Panel_Smart",
+		}),
+	},
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(520430522332, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name]] "Smart Solar Panel"),
-	description = T(487079849553, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart description]] "Adding a built-in CPU, basic AI algorithms and stronger materials gives increased Power Production & Durability.\n\nGenerates <color TextEmphasis>100</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	menu_display_name = T(775157715031, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart menu_display_name]] "Smart Solar Panel"),
+	display_name = T(829219305125, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name]] "Smart Solar Panel"),
+	description = T(814820106832, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart description]] "Adding a built-in CPU, basic AI algorithms and stronger materials gives increased Power Production & Durability.\n\nGenerates <color TextEmphasis>100</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	menu_display_name = T(734199433892, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart menu_display_name]] "Smart Solar Panel"),
 	BuildMenuIcon = "UI/Icons/Build Menu/solar_panel",
 	BuildMenuPos = 1,
-	display_name_pl = T(394166349633, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_pl]] "Smart Solar panels"),
-	display_name_short = T(932889072926, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_short]] "Smart Solar panel"),
+	display_name_pl = T(625510584142, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_pl]] "Smart Solar panels"),
+	display_name_short = T(942092284642, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_short]] "Smart Solar panel"),
 	entity = "SolarPanel",
 	labels = {
 		"PowerSources",

@@ -1,72 +1,72 @@
 return {
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(505879056614, --[[ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants]] "Print"),
-	Description = T(108950169703, --[[ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description]] "Print Weapons."),
-	DisplayName = T(520314045433, --[[ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName]] "Weapons"),
+	ActionText = T(468588346291, --[[ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory ActionText |gender-variants]] "Print"),
+	Description = T(101704601071, --[[ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory Description]] "Print Weapons."),
+	DisplayName = T(347237694060, --[[ModItemBuildCategory Default MassPrint_Weapons_RecipeCategory DisplayName]] "Weapons"),
 	Icon = "UI/Icons/Items/railgun_sniper_improved",
 	SortKey = 100,
 	id = "MassPrint_Weapons_RecipeCategory",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(412839772287, --[[ModItemBuildCategory Default MassPrint_SummerClothing_Category ActionText |gender-variants]] "Print"),
-	Description = T(995873315493, --[[ModItemBuildCategory Default MassPrint_SummerClothing_Category Description]] "Print summer clothing."),
-	DisplayName = T(812482070754, --[[ModItemBuildCategory Default MassPrint_SummerClothing_Category DisplayName]] "Summer clothes"),
+	ActionText = T(215201941675, --[[ModItemBuildCategory Default MassPrint_SummerClothing_Category ActionText |gender-variants]] "Print"),
+	Description = T(956990778789, --[[ModItemBuildCategory Default MassPrint_SummerClothing_Category Description]] "Print summer clothing."),
+	DisplayName = T(499905210760, --[[ModItemBuildCategory Default MassPrint_SummerClothing_Category DisplayName]] "Summer clothes"),
 	Icon = "UI/Icons/Items/tshirt",
 	SortKey = 2019,
 	id = "MassPrint_SummerClothing_Category",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(609275207214, --[[ModItemBuildCategory Default MassPrint_Components_RecipeCategory ActionText |gender-variants]] "Print"),
-	Description = T(858837814744, --[[ModItemBuildCategory Default MassPrint_Components_RecipeCategory Description]] "Print electronic components."),
-	DisplayName = T(628734881080, --[[ModItemBuildCategory Default MassPrint_Components_RecipeCategory DisplayName]] "Electronics"),
+	ActionText = T(197591494934, --[[ModItemBuildCategory Default MassPrint_Components_RecipeCategory ActionText |gender-variants]] "Print"),
+	Description = T(270549338827, --[[ModItemBuildCategory Default MassPrint_Components_RecipeCategory Description]] "Print electronic components."),
+	DisplayName = T(471304236575, --[[ModItemBuildCategory Default MassPrint_Components_RecipeCategory DisplayName]] "Electronics"),
 	Icon = "UI/Icons/Items/electronic_components",
 	SortKey = 2018,
 	id = "MassPrint_Components_RecipeCategory",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(353791721095, --[[ModItemBuildCategory Default MassPrint_MidSeasonClothing_Category ActionText |gender-variants]] "Print"),
-	Description = T(773238393822, --[[ModItemBuildCategory Default MassPrint_MidSeasonClothing_Category Description]] "Print mid-season clothing."),
-	DisplayName = T(460885663733, --[[ModItemBuildCategory Default MassPrint_MidSeasonClothing_Category DisplayName]] "Mid-season clothes"),
+	ActionText = T(806911539043, --[[ModItemBuildCategory Default MassPrint_MidSeasonClothing_Category ActionText |gender-variants]] "Print"),
+	Description = T(804638535068, --[[ModItemBuildCategory Default MassPrint_MidSeasonClothing_Category Description]] "Print mid-season clothing."),
+	DisplayName = T(545458828643, --[[ModItemBuildCategory Default MassPrint_MidSeasonClothing_Category DisplayName]] "Mid-season clothes"),
 	Icon = "UI/Icons/Items/shirt_blue",
 	SortKey = 2020,
 	id = "MassPrint_MidSeasonClothing_Category",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(543967325886, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category ActionText |gender-variants]] "Print tools"),
-	Description = T(374323245824, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category Description]] "Print Survival Tools."),
-	DisplayName = T(518076344207, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category DisplayName]] "Tools"),
+	ActionText = T(734587518228, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category ActionText |gender-variants]] "Print tools"),
+	Description = T(636719822237, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category Description]] "Print Survival Tools."),
+	DisplayName = T(576904610360, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category DisplayName]] "Tools"),
 	Icon = "UI/Icons/Infopanels/device_craft_tools",
 	SortKey = 2021,
 	id = "MassPrint_ToolsRecipe_Category",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(243928184624, --[[ModItemBuildCategory Default MassPrint_WinterClothing_Category ActionText |gender-variants]] "Print"),
-	Description = T(781011319130, --[[ModItemBuildCategory Default MassPrint_WinterClothing_Category Description]] "Print winter clothing."),
-	DisplayName = T(717179325005, --[[ModItemBuildCategory Default MassPrint_WinterClothing_Category DisplayName]] "Winter clothes"),
+	ActionText = T(790026408288, --[[ModItemBuildCategory Default MassPrint_WinterClothing_Category ActionText |gender-variants]] "Print"),
+	Description = T(365660723183, --[[ModItemBuildCategory Default MassPrint_WinterClothing_Category Description]] "Print winter clothing."),
+	DisplayName = T(506953107500, --[[ModItemBuildCategory Default MassPrint_WinterClothing_Category DisplayName]] "Winter clothes"),
 	Icon = "UI/Icons/Items/fur_coat",
 	SortKey = 2021,
 	id = "MassPrint_WinterClothing_Category",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(713938532055, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory ActionText |gender-variants]] "Print"),
-	Description = T(370016181218, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory Description]] "Print Leather and Veggie Leather armor sets."),
-	DisplayName = T(658816658567, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory DisplayName]] "Basic Armor"),
+	ActionText = T(698525000818, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory ActionText |gender-variants]] "Print"),
+	Description = T(742636787836, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory Description]] "Print Leather and Veggie Leather armor sets."),
+	DisplayName = T(228348108635, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory DisplayName]] "Basic Armor"),
 	Icon = "UI/Icons/Items/leather_armor",
 	SortKey = 200,
 	id = "MassPrint_Leathers_RecipeCategory",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(301695214043, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory ActionText |gender-variants]] "Print"),
-	Description = T(423345812981, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory Description]] "Print Synthetic and Carbon Armour sets."),
-	DisplayName = T(170292691818, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory DisplayName]] "Adv. Armour"),
+	ActionText = T(626128747232, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory ActionText |gender-variants]] "Print"),
+	Description = T(724152528826, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory Description]] "Print Synthetic and Carbon Armour sets."),
+	DisplayName = T(899232462092, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory DisplayName]] "Adv. Armour"),
 	Icon = "UI/Icons/Items/synthetic_armor",
 	SortKey = 300,
 	id = "MassPrint_AdvArmor_RecipeCategory",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(332064340512, --[[ModItemBuildCategory Default MassPrint_Composting_RecipeCategory ActionText |gender-variants]] "Compost"),
-	Description = T(687778120191, --[[ModItemBuildCategory Default MassPrint_Composting_RecipeCategory Description]] "Turn raw food Items into Manure"),
-	DisplayName = T(247417862885, --[[ModItemBuildCategory Default MassPrint_Composting_RecipeCategory DisplayName]] "Compost"),
+	ActionText = T(717037842284, --[[ModItemBuildCategory Default MassPrint_Composting_RecipeCategory ActionText |gender-variants]] "Compost"),
+	Description = T(682490579935, --[[ModItemBuildCategory Default MassPrint_Composting_RecipeCategory Description]] "Turn raw food Items into Manure"),
+	DisplayName = T(363000809539, --[[ModItemBuildCategory Default MassPrint_Composting_RecipeCategory DisplayName]] "Compost"),
 	Icon = "UI/Icons/Resources/res_manure",
 	SortKey = 300,
 	id = "MassPrint_Composting_RecipeCategory",
@@ -82,9 +82,9 @@ PlaceObj('ModItemBuildMenuCategory', {
 	},
 	LockState = "hidden",
 	SortKey = 206,
-	display_name = T(413577906888, --[[ModItemBuildMenuCategory MassPrint_BedMenu display_name]] "Gene Therapy beds"),
+	display_name = T(829674729231, --[[ModItemBuildMenuCategory MassPrint_BedMenu display_name]] "Gene Therapy beds"),
 	id = "MassPrint_BedMenu",
-	menu_description = T(606218021841, --[[ModItemBuildMenuCategory MassPrint_BedMenu menu_description]] "- Dedicated place for sleep. \n- Provides maximum comfort during rest. \n- Injects the user with an advanced gene therapy serum that temporarily enhances his\\hers abilities to super-human levels.\n- Acts as a storage battery for electricity.\n- Acts as a storage container for Apparel, Weapons and Medicine."),
+	menu_description = T(423586258193, --[[ModItemBuildMenuCategory MassPrint_BedMenu menu_description]] "- Dedicated place for sleep. \n- Provides maximum comfort during rest. \n- Injects the user with an advanced gene therapy serum that temporarily enhances his\\hers abilities to super-human levels.\n- Acts as a storage battery for electricity.\n- Acts as a storage container for Apparel, Weapons and Medicine."),
 }),
 PlaceObj('ModItemBuildMenuCategory', {
 	BuildMenuCategory = "Storages",
@@ -97,9 +97,9 @@ PlaceObj('ModItemBuildMenuCategory', {
 	},
 	LockState = "hidden",
 	SortKey = 2,
-	display_name = T(977768797080, --[[ModItemBuildMenuCategory MassPrint_StoragePitMenu display_name]] "Underground Storage Pits"),
+	display_name = T(887228733562, --[[ModItemBuildMenuCategory MassPrint_StoragePitMenu display_name]] "Underground Storage Pits"),
 	id = "MassPrint_StoragePitMenu",
-	menu_description = T(545301126580, --[[ModItemBuildMenuCategory MassPrint_StoragePitMenu menu_description]] "Expand storage capacity options by digging further into the ground, leveraging the lower temperatures for natural resource refrigeration"),
+	menu_description = T(982582993737, --[[ModItemBuildMenuCategory MassPrint_StoragePitMenu menu_description]] "Expand storage capacity options by digging further into the ground, leveraging the lower temperatures for natural resource refrigeration"),
 }),
 PlaceObj('ModItemBuildMenuCategory', {
 	BuildMenuCategory = "Power",
@@ -107,9 +107,9 @@ PlaceObj('ModItemBuildMenuCategory', {
 	BuildMenuPos = 2,
 	LockState = "hidden",
 	SortKey = 2,
-	display_name = T(757115421787, --[[ModItemBuildMenuCategory MassPrint_ImprovedPowerMenu display_name]] "Smart Power Sources"),
+	display_name = T(618179302172, --[[ModItemBuildMenuCategory MassPrint_ImprovedPowerMenu display_name]] "Smart Power Sources"),
 	id = "MassPrint_ImprovedPowerMenu",
-	menu_description = T(329486318241, --[[ModItemBuildMenuCategory MassPrint_ImprovedPowerMenu menu_description]] "Enhanced power generators using Smart AI technology."),
+	menu_description = T(982233835987, --[[ModItemBuildMenuCategory MassPrint_ImprovedPowerMenu menu_description]] "Enhanced power generators using Smart AI technology."),
 }),
 PlaceObj('ModItemBuildMenuCategory', {
 	BuildMenuCategory = "Farms",
@@ -117,9 +117,9 @@ PlaceObj('ModItemBuildMenuCategory', {
 	BuildMenuPos = 1,
 	LockState = "hidden",
 	SortKey = 1,
-	display_name = T(916755139177, --[[ModItemBuildMenuCategory MassPrint_Genetic_Engineering_Crops display_name]] "GE crops"),
+	display_name = T(371821495957, --[[ModItemBuildMenuCategory MassPrint_Genetic_Engineering_Crops display_name]] "GE crops"),
 	id = "MassPrint_Genetic_Engineering_Crops",
-	menu_description = T(764415000221, --[[ModItemBuildMenuCategory MassPrint_Genetic_Engineering_Crops menu_description]] "Various GE crops that could be grown for both food and industrial resources."),
+	menu_description = T(281526385899, --[[ModItemBuildMenuCategory MassPrint_Genetic_Engineering_Crops menu_description]] "Various GE crops that could be grown for both food and industrial resources."),
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
 	AttackAttractionGetter = function (self)
@@ -165,7 +165,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 			'TransformTime', 1920000,
 		}),
 	},
-	TransformDisplayName = T(696018928803, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack TransformDisplayName]] "Drying"),
+	TransformDisplayName = T(260373799514, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack TransformDisplayName]] "Drying"),
 	TransformMetaProp = "drying_progress",
 	TreatStorageAsDevice = true,
 	VisualStorageComponent = true,
@@ -183,9 +183,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 1000,
 	}),
 	construction_points = 40000,
-	description = T(660805462403, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack description]] "Dries raw resources over time. Has built-in roof which slows down the drying process but allows products to be stored longer before spoiling.\nHas built-in heating to speed up the normal drying process and support drying Skinbark as well.\n\nTransforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meat' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>."),
-	display_name = T(809262733519, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack display_name]] "Large Electronic drying rack"),
-	display_name_pl = T(324059628152, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack display_name_pl]] "Large Electronic drying rack"),
+	description = T(707501877322, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack description]] "Dries raw resources over time. Has built-in roof which slows down the drying process but allows products to be stored longer before spoiling.\nHas built-in heating to speed up the normal drying process and support drying Skinbark as well.\n\nTransforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meat' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>."),
+	display_name = T(329402270086, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack display_name]] "Large Electronic drying rack"),
+	display_name_pl = T(142549714002, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack display_name_pl]] "Large Electronic drying rack"),
 	distribute_allowed_res = false,
 	entity = "Skin_Rag_04",
 	group = "Devices",
@@ -195,7 +195,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands_High",
 	lock_block_box = box(-600, -1500, 0, 1500, 1500, 2800),
-	menu_display_name = T(733780413892, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack menu_display_name]] "Electronic Drying Rack"),
+	menu_display_name = T(634779809410, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Large_Drying_Rack menu_display_name]] "Electronic Drying Rack"),
 	object_class = "Building",
 	res_entity_for_stack = true,
 	stack_count = 48,
@@ -247,7 +247,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 			'TransformTime', 960000,
 		}),
 	},
-	TransformDisplayName = T(811734108320, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack TransformDisplayName]] "Drying"),
+	TransformDisplayName = T(673040030629, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack TransformDisplayName]] "Drying"),
 	TransformMetaProp = "drying_progress",
 	TreatStorageAsDevice = true,
 	VisualStorageComponent = true,
@@ -265,10 +265,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 1000,
 	}),
 	construction_points = 5000,
-	description = T(810824603777, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack description]] "Dries raw resources over time. Has built-in roof which slows down the drying process but allows products to be stored longer before spoiling.\nHas built-in heating to speed up the normal drying process and support drying Skinbark as well.\n\nTransforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meatt' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>."),
-	display_name = T(913480879478, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name]] "Electronic drying rack"),
-	display_name_pl = T(331894888997, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_pl]] "Electronic drying racks"),
-	display_name_short = T(769487413965, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_short]] "Small electronic drying rack"),
+	description = T(730215511461, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack description]] "Dries raw resources over time. Has built-in roof which slows down the drying process but allows products to be stored longer before spoiling.\nHas built-in heating to speed up the normal drying process and support drying Skinbark as well.\n\nTransforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meatt' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>."),
+	display_name = T(417053319332, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name]] "Electronic drying rack"),
+	display_name_pl = T(994034903375, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_pl]] "Electronic drying racks"),
+	display_name_short = T(234917806405, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_short]] "Small electronic drying rack"),
 	distribute_allowed_res = false,
 	entity = "Skin_Rag_03",
 	group = "Devices",
@@ -278,7 +278,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands",
 	lock_block_box = box(-300, -1800, 0, 300, 600, 1400),
-	menu_display_name = T(184924802495, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack menu_display_name]] "Electronic drying rack"),
+	menu_display_name = T(555732083983, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack menu_display_name]] "Electronic drying rack"),
 	object_class = "Building",
 	res_entity_for_stack = true,
 	stack_count = 2,
@@ -301,11 +301,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(919792734197, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Stoneleaf display_name]] "GE Stoneleaf field"),
-	display_name_pl = T(873998776802, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Stoneleaf display_name_pl]] "GE Stoneleaf fields"),
+	display_name = T(269058358266, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Stoneleaf display_name]] "GE Stoneleaf field"),
+	display_name_pl = T(945440642290, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Stoneleaf display_name_pl]] "GE Stoneleaf fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_Stoneleaf",
-	menu_display_name = T(455652759185, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Stoneleaf menu_display_name]] "GE Stoneleaf"),
+	menu_display_name = T(619492330157, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Stoneleaf menu_display_name]] "GE Stoneleaf"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -323,11 +323,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(283160939866, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Oreleaf display_name]] "GE Oreleaf field"),
-	display_name_pl = T(504692199955, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Oreleaf display_name_pl]] "GE Oreleaf fields"),
+	display_name = T(373688039679, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Oreleaf display_name]] "GE Oreleaf field"),
+	display_name_pl = T(672911872402, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Oreleaf display_name_pl]] "GE Oreleaf fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_Oreleaf",
-	menu_display_name = T(358982959561, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Oreleaf menu_display_name]] "GE Oreleaf"),
+	menu_display_name = T(476428082759, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Oreleaf menu_display_name]] "GE Oreleaf"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -345,11 +345,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(128375450308, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Siliconleaf display_name]] "GE Siliconleaf field"),
-	display_name_pl = T(666269451868, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Siliconleaf display_name_pl]] "GE Siliconleaf fields"),
+	display_name = T(165378679441, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Siliconleaf display_name]] "GE Siliconleaf field"),
+	display_name_pl = T(318608690071, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Siliconleaf display_name_pl]] "GE Siliconleaf fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_Siliconleaf",
-	menu_display_name = T(785808604680, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Siliconleaf menu_display_name]] "GE Siliconleaf"),
+	menu_display_name = T(439948858993, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Siliconleaf menu_display_name]] "GE Siliconleaf"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -368,11 +368,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(618450739481, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_EnergyCrystals display_name]] "GE Energy Crystals field"),
-	display_name_pl = T(316889791670, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_EnergyCrystals display_name_pl]] "GE Energy Crystals fields"),
+	display_name = T(848763414191, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_EnergyCrystals display_name]] "GE Energy Crystals field"),
+	display_name_pl = T(402837527397, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_EnergyCrystals display_name_pl]] "GE Energy Crystals fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_EnergyCrystals",
-	menu_display_name = T(532022251563, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_EnergyCrystals menu_display_name]] "GE Energy Crystals"),
+	menu_display_name = T(847689058883, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_EnergyCrystals menu_display_name]] "GE Energy Crystals"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -391,11 +391,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(540903735212, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GrainGrass display_name]] "GE Grain grass field"),
-	display_name_pl = T(221709056291, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GrainGrass display_name_pl]] "GE Grain grass fields"),
+	display_name = T(191018334336, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GrainGrass display_name]] "GE Grain grass field"),
+	display_name_pl = T(362088947558, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GrainGrass display_name_pl]] "GE Grain grass fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_GrainGrass",
-	menu_display_name = T(203387268365, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GrainGrass menu_display_name]] "GE Grain grass"),
+	menu_display_name = T(951866638104, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GrainGrass menu_display_name]] "GE Grain grass"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -414,11 +414,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(146811155609, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Buttermelon display_name]] "GE Buttermelon field"),
-	display_name_pl = T(540035727827, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Buttermelon display_name_pl]] "GE Buttermelon fields"),
+	display_name = T(635680933368, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Buttermelon display_name]] "GE Buttermelon field"),
+	display_name_pl = T(503070493029, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Buttermelon display_name_pl]] "GE Buttermelon fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_Buttermelon",
-	menu_display_name = T(583008905585, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Buttermelon menu_display_name]] "GE Buttermelon"),
+	menu_display_name = T(274362307622, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_Buttermelon menu_display_name]] "GE Buttermelon"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -437,11 +437,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(557348441977, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChewRoots display_name]] "GE Chew Roots field"),
-	display_name_pl = T(383445209166, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChewRoots display_name_pl]] "GE Chew Roots fields"),
+	display_name = T(452204751791, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChewRoots display_name]] "GE Chew Roots field"),
+	display_name_pl = T(639635309023, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChewRoots display_name_pl]] "GE Chew Roots fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_ChewRoots",
-	menu_display_name = T(967903160465, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChewRoots menu_display_name]] "GE Chew Roots"),
+	menu_display_name = T(392298751152, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChewRoots menu_display_name]] "GE Chew Roots"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -460,11 +460,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(940025523979, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_RedMeat display_name]] "GE Red Meat field"),
-	display_name_pl = T(893872079820, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_RedMeat display_name_pl]] "GE Red Meat fields"),
+	display_name = T(153181371808, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_RedMeat display_name]] "GE Red Meat field"),
+	display_name_pl = T(955424071194, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_RedMeat display_name_pl]] "GE Red Meat fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_RedMeat",
-	menu_display_name = T(932287113220, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_RedMeat menu_display_name]] "GE Red Meat"),
+	menu_display_name = T(209869435494, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_RedMeat menu_display_name]] "GE Red Meat"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -483,11 +483,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(663548203213, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChitinMeat display_name]] "GE Chitin Meat field"),
-	display_name_pl = T(773683189675, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChitinMeat display_name_pl]] "GE Chitin Meat fields"),
+	display_name = T(443661705265, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChitinMeat display_name]] "GE Chitin Meat field"),
+	display_name_pl = T(252254653310, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChitinMeat display_name_pl]] "GE Chitin Meat fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_ChitinMeat",
-	menu_display_name = T(637284222077, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChitinMeat menu_display_name]] "GE Chitin Meat"),
+	menu_display_name = T(272623061345, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_ChitinMeat menu_display_name]] "GE Chitin Meat"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -506,11 +506,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	can_be_copied = false,
 	can_be_deconstructed = false,
 	can_be_moved = false,
-	display_name = T(902131304598, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GlitterCap display_name]] "GE Glitter caps field"),
-	display_name_pl = T(500762177434, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GlitterCap display_name_pl]] "GE Glitter caps fields"),
+	display_name = T(802067160294, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GlitterCap display_name]] "GE Glitter caps field"),
+	display_name_pl = T(688803395863, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GlitterCap display_name_pl]] "GE Glitter caps fields"),
 	group = "Farms",
 	id = "FarmField_MassPrint_GE_GlitterCap",
-	menu_display_name = T(780784635460, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GlitterCap menu_display_name]] "GE Glitter caps"),
+	menu_display_name = T(572650358789, --[[ModItemBuildingCompositeDef FarmField_MassPrint_GE_GlitterCap menu_display_name]] "GE Glitter caps"),
 	object_class = "FieldBase",
 }),
 PlaceObj('ModItemBuildingCompositeDef', {
@@ -547,9 +547,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 3000,
 		ScrapMetal = 10000,
 	}),
-	description = T(743596638834, --[[ModItemBuildingCompositeDef MassClothingPrinter3D description]] "Used for production of:\n - <color TextEmphasis>Winter clothing</color> x10<image 'UI/Icons/Items/fur_coat' 1100>\n - <color TextEmphasis>Summer clothing</color> x10<image 'UI/Icons/Items/tshirt' 1100>\n - <color TextEmphasis>Mid-Season clothing</color> x10<image 'UI/Icons/Items/shirt_blue' 1100>"),
-	display_name = T(759019169277, --[[ModItemBuildingCompositeDef MassClothingPrinter3D display_name]] "Clothing 3D Printer"),
-	display_name_pl = T(579110761926, --[[ModItemBuildingCompositeDef MassClothingPrinter3D display_name_pl]] "Clothing 3D Printer"),
+	description = T(665043262051, --[[ModItemBuildingCompositeDef MassClothingPrinter3D description]] "Used for production of:\n - <color TextEmphasis>Winter clothing</color> x10<image 'UI/Icons/Items/fur_coat' 1100>\n - <color TextEmphasis>Summer clothing</color> x10<image 'UI/Icons/Items/tshirt' 1100>\n - <color TextEmphasis>Mid-Season clothing</color> x10<image 'UI/Icons/Items/shirt_blue' 1100>"),
+	display_name = T(101531824318, --[[ModItemBuildingCompositeDef MassClothingPrinter3D display_name]] "Clothing 3D Printer"),
+	display_name_pl = T(179340419699, --[[ModItemBuildingCompositeDef MassClothingPrinter3D display_name_pl]] "Clothing 3D Printer"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -609,9 +609,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 3000,
 		ScrapMetal = 10000,
 	}),
-	description = T(752809613658, --[[ModItemBuildingCompositeDef MassEquipmentPrinter3D description]] "Used for production of:\n - <color TextEmphasis>Basic Armor</color><image 'UI/Icons/Items/leather_armor' 1100>\n - <color TextEmphasis>Advanced Armor</color><image 'UI/Icons/Items/synthetic_armor' 1100>\n - <color TextEmphasis>Weapons</color><image 'Mod/H5Xfcfc/Images/download_1_44x44 3.png' 1100>"),
-	display_name = T(352141241861, --[[ModItemBuildingCompositeDef MassEquipmentPrinter3D display_name]] "3D Equipment Printer"),
-	display_name_pl = T(635333283926, --[[ModItemBuildingCompositeDef MassEquipmentPrinter3D display_name_pl]] "3D Equipment Printer"),
+	description = T(549534646489, --[[ModItemBuildingCompositeDef MassEquipmentPrinter3D description]] "Used for production of:\n - <color TextEmphasis>Basic Armor</color><image 'UI/Icons/Items/leather_armor' 1100>\n - <color TextEmphasis>Advanced Armor</color><image 'UI/Icons/Items/synthetic_armor' 1100>\n - <color TextEmphasis>Weapons</color><image 'Mod/H5Xfcfc/Images/download_1_44x44 3.png' 1100>"),
+	display_name = T(241043836519, --[[ModItemBuildingCompositeDef MassEquipmentPrinter3D display_name]] "3D Equipment Printer"),
+	display_name_pl = T(806720678640, --[[ModItemBuildingCompositeDef MassEquipmentPrinter3D display_name_pl]] "3D Equipment Printer"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -642,8 +642,8 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	BuildMenuIcon = "UI/Icons/Build Menu/bed_carbon_fabric",
 	BuildMenuPos = 39,
 	CanWorkWithoutPower = true,
-	ChangeOwnerPromptText = T(247159303704, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth ChangeOwnerPromptText]] "Select a bed owner"),
-	ChangeOwnerRolloverText = T(508981579541, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth ChangeOwnerRolloverText]] "Decide who is allowed to sleep in this bed."),
+	ChangeOwnerPromptText = T(897034505322, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth ChangeOwnerPromptText]] "Select a bed owner"),
+	ChangeOwnerRolloverText = T(400698087605, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth ChangeOwnerRolloverText]] "Decide who is allowed to sleep in this bed."),
 	ClosedStorage = true,
 	Cover = "Cotton_Futuristic",
 	CustomMaterial = "Carbon",
@@ -694,10 +694,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		CarbonNanotubes = 5000,
 		ScrapElectronics = 5000,
 	}),
-	description = T(410645255315, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth description]] "- Dedicated place for sleep. \n- Provides maximum comfort during rest. \n- Injects the user with an advanced gene therapy serum that temporarily enhances his\\hers abilities to super-human levels.\n- Acts as a storage battery for electricity.\n- Acts as a storage container for Apparel, Weapons and Medicine."),
-	display_name = T(549206367406, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth display_name]] "Gene therapy bed Cloth"),
-	display_name_pl = T(823691838718, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth display_name_pl]] "Gene therapy bed Cloth"),
-	display_name_short = T(396247067722, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth display_name_short]] "Bed"),
+	description = T(936813796495, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth description]] "- Dedicated place for sleep. \n- Provides maximum comfort during rest. \n- Injects the user with an advanced gene therapy serum that temporarily enhances his\\hers abilities to super-human levels.\n- Acts as a storage battery for electricity.\n- Acts as a storage container for Apparel, Weapons and Medicine."),
+	display_name = T(217954796440, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth display_name]] "Gene therapy bed Cloth"),
+	display_name_pl = T(266402487114, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth display_name_pl]] "Gene therapy bed Cloth"),
+	display_name_short = T(714156835069, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth display_name_short]] "Bed"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -712,7 +712,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-600, -600, 0, 1800, 600, 700),
-	menu_display_name = T(815004007305, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth menu_display_name]] "Gene therapy bed Cloth"),
+	menu_display_name = T(474168568429, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Cloth menu_display_name]] "Gene therapy bed Cloth"),
 	object_class = "BaseBed",
 	ownership_class = "Bed",
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -730,8 +730,8 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	BuildMenuIcon = "UI/Icons/Build Menu/bed_carbon_fabric",
 	BuildMenuPos = 40,
 	CanWorkWithoutPower = true,
-	ChangeOwnerPromptText = T(559667428943, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics ChangeOwnerPromptText]] "Select a bed owner"),
-	ChangeOwnerRolloverText = T(878681392430, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics ChangeOwnerRolloverText]] "Decide who is allowed to sleep in this bed."),
+	ChangeOwnerPromptText = T(295745002490, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics ChangeOwnerPromptText]] "Select a bed owner"),
+	ChangeOwnerRolloverText = T(986456232850, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics ChangeOwnerRolloverText]] "Decide who is allowed to sleep in this bed."),
 	ClosedStorage = true,
 	Cover = "Synthetic_Futuristic",
 	CustomMaterial = "Carbon",
@@ -781,10 +781,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		CarbonNanotubes = 5000,
 		ScrapElectronics = 5000,
 	}),
-	description = T(404977579474, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics description]] "- Dedicated place for sleep. \n- Provides maximum comfort during rest. \n- Injects the user with an advanced gene therapy serum that temporarily enhances his\\hers abilities to super-human levels.\n- Acts as a storage battery for electricity.\n- Acts as a storage container for Apparel, Weapons and Medicine."),
-	display_name = T(749742745154, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics display_name]] "Gene therapy bed Synthetics"),
-	display_name_pl = T(483306407633, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics display_name_pl]] "Gene therapy bed Synthetic"),
-	display_name_short = T(637746468306, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics display_name_short]] "Bed"),
+	description = T(256846451833, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics description]] "- Dedicated place for sleep. \n- Provides maximum comfort during rest. \n- Injects the user with an advanced gene therapy serum that temporarily enhances his\\hers abilities to super-human levels.\n- Acts as a storage battery for electricity.\n- Acts as a storage container for Apparel, Weapons and Medicine."),
+	display_name = T(606643239051, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics display_name]] "Gene therapy bed Synthetics"),
+	display_name_pl = T(358023001775, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics display_name_pl]] "Gene therapy bed Synthetic"),
+	display_name_short = T(125755297757, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics display_name_short]] "Bed"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -799,7 +799,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-600, -600, 0, 1800, 600, 700),
-	menu_display_name = T(887530306281, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics menu_display_name]] "Gene therapy bed Synthetic"),
+	menu_display_name = T(766246021462, --[[ModItemBuildingCompositeDef MassPrint_Improved_CarbonBed_Synthetics menu_display_name]] "Gene therapy bed Synthetic"),
 	object_class = "BaseBed",
 	ownership_class = "Bed",
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -839,9 +839,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	deconstruction_output = PlaceObj('ConstructionCost', {
 		ScrapMetal = 25000,
 	}),
-	description = T(538477774119, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod description]] "Catches nearby lightning strikes in a bigger area. Distributes the absorbed energy to all batteries in the grid."),
-	display_name = T(146312457917, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod display_name]] "Massive Lightning rod"),
-	display_name_pl = T(811027099470, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod display_name_pl]] "Massive Lightning rods"),
+	description = T(510627341070, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod description]] "Catches nearby lightning strikes in a bigger area. Distributes the absorbed energy to all batteries in the grid."),
+	display_name = T(288053143285, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod display_name]] "Massive Lightning rod"),
+	display_name_pl = T(264681212934, --[[ModItemBuildingCompositeDef MassPrint_Lightning_rod display_name_pl]] "Massive Lightning rods"),
 	enable_overlay_on_placement = {
 		RangeOverlay = true,
 	},
@@ -904,10 +904,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		Wood = 25000,
 	}),
 	construction_points = 30000,
-	description = T(524080492513, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 description]] "Provides expanded storage space for resources by digging an underground wooden shaft and encloses its contents by building a wooden cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>9º</color> "),
-	display_name = T(704297378693, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 display_name]] "Underground Storage"),
-	display_name_pl = T(373607011570, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 display_name_pl]] "Wooden Underground Storage"),
-	display_name_short = T(620587336076, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 display_name_short]] "Underground Storage"),
+	description = T(142096050210, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 description]] "Provides expanded storage space for resources by digging an underground wooden shaft and encloses its contents by building a wooden cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>9º</color> "),
+	display_name = T(106568619097, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 display_name]] "Underground Storage"),
+	display_name_pl = T(417363442617, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 display_name_pl]] "Wooden Underground Storage"),
+	display_name_short = T(778685710996, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 display_name_short]] "Underground Storage"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -919,7 +919,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands",
 	lock_block_box = box(-300, -300, 0, 300, 300, 700),
-	menu_display_name = T(348074607433, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 menu_display_name]] "Underground Storage"),
+	menu_display_name = T(490238493153, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_1 menu_display_name]] "Underground Storage"),
 	object_class = "Building",
 	prefer_in_buildmenu = true,
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -976,10 +976,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		Wood = 75000,
 	}),
 	construction_points = 90000,
-	description = T(814150307961, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 description]] "Provides expanded storage space for resources by digging an underground wooden shaft and encloses its contents by building a wooden cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>2º</color> "),
-	display_name = T(772694882134, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name]] "Expanded Underground Storage"),
-	display_name_pl = T(182434655173, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_pl]] "Wooden Expanded Underground Storage"),
-	display_name_short = T(618240474673, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_short]] "Expanded Underground Storage"),
+	description = T(134395668415, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 description]] "Provides expanded storage space for resources by digging an underground wooden shaft and encloses its contents by building a wooden cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>2º</color> "),
+	display_name = T(668393598749, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name]] "Expanded Underground Storage"),
+	display_name_pl = T(997217124423, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_pl]] "Wooden Expanded Underground Storage"),
+	display_name_short = T(119221274347, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 display_name_short]] "Expanded Underground Storage"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -991,7 +991,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands",
 	lock_block_box = box(-300, -300, 0, 300, 300, 700),
-	menu_display_name = T(661554005506, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 menu_display_name]] "Expanded Storage"),
+	menu_display_name = T(275362792192, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_2 menu_display_name]] "Expanded Storage"),
 	object_class = "Building",
 	prefer_in_buildmenu = true,
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -1051,10 +1051,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		Metal = 150000,
 	}),
 	construction_points = 360000,
-	description = T(406449099698, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 description]] "Provides maximum storage space for resources by digging an underground metal alloy shaft and encloses its contents by building a scrap metal cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>-5º</color> "),
-	display_name = T(431601204137, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name]] "Maximized Underground Storage"),
-	display_name_pl = T(893100979311, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_pl]] "Maximized Underground Storage"),
-	display_name_short = T(758358622382, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_short]] "Maximized Underground Storage"),
+	description = T(685946406879, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 description]] "Provides maximum storage space for resources by digging an underground metal alloy shaft and encloses its contents by building a scrap metal cover.\n\n<style TechSubtitleBlue>Lowers temperature to a max of:</style> <color TextEmphasis>-5º</color> "),
+	display_name = T(679129150331, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name]] "Maximized Underground Storage"),
+	display_name_pl = T(280882612683, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_pl]] "Maximized Underground Storage"),
+	display_name_short = T(635645523853, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 display_name_short]] "Maximized Underground Storage"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -1066,7 +1066,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands",
 	lock_block_box = box(-300, -300, 0, 300, 300, 700),
-	menu_display_name = T(396383303503, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 menu_display_name]] "Maximized Storage"),
+	menu_display_name = T(416381124126, --[[ModItemBuildingCompositeDef MassPrint_StoragePit_3 menu_display_name]] "Maximized Storage"),
 	object_class = "Building",
 	prefer_in_buildmenu = true,
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -1087,6 +1087,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	FinalColor = 4291884820,
 	Health = 200000,
 	IsPowerGenerator = true,
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Solar_Panel_Smart",
+		}),
+	},
 	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxCharge = 1000000,
@@ -1116,10 +1121,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 5000,
 		ScrapMetal = 25000,
 	}),
-	description = T(487079849553, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart description]] "Adding a built-in CPU, basic AI algorithms and stronger materials gives increased Power Production & Durability.\n\nGenerates <color TextEmphasis>100</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	display_name = T(520430522332, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name]] "Smart Solar Panel"),
-	display_name_pl = T(394166349633, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_pl]] "Smart Solar panels"),
-	display_name_short = T(932889072926, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_short]] "Smart Solar panel"),
+	description = T(814820106832, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart description]] "Adding a built-in CPU, basic AI algorithms and stronger materials gives increased Power Production & Durability.\n\nGenerates <color TextEmphasis>100</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	display_name = T(829219305125, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name]] "Smart Solar Panel"),
+	display_name_pl = T(625510584142, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_pl]] "Smart Solar panels"),
+	display_name_short = T(942092284642, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart display_name_short]] "Smart Solar panel"),
 	entity = "SolarPanel",
 	group = "Power",
 	id = "MassPrint_Solar_Panel_Smart",
@@ -1133,7 +1138,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-600, -1500, 0, 1800, 300, 1400),
-	menu_display_name = T(775157715031, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart menu_display_name]] "Smart Solar Panel"),
+	menu_display_name = T(734199433892, --[[ModItemBuildingCompositeDef MassPrint_Solar_Panel_Smart menu_display_name]] "Smart Solar Panel"),
 	object_class = "Building",
 	repair_cost = PlaceObj('ConstructionCost', {
 		Metal = 5000,
@@ -1150,6 +1155,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	FinalColor = 4291884820,
 	Health = 300000,
 	IsPowerGenerator = true,
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Improved_Solar_Panel_Smart",
+		}),
+	},
 	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxCharge = 1000000,
@@ -1178,10 +1188,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 10000,
 		ScrapMetal = 25000,
 	}),
-	description = T(283307119584, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, better AI algorithms and improved solar cells increases Power Production & Durability even further.\n\nGenerates <color TextEmphasis>200</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	display_name = T(953365187427, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name]] "Smart Improved Solar Panel"),
-	display_name_pl = T(787752248004, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_pl]] "Smart Improved solar panels"),
-	display_name_short = T(477256454854, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_short]] "Smart Imp. Solar panel"),
+	description = T(562102172384, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, better AI algorithms and improved solar cells increases Power Production & Durability even further.\n\nGenerates <color TextEmphasis>200</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	display_name = T(379819750178, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name]] "Smart Improved Solar Panel"),
+	display_name_pl = T(264864932354, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_pl]] "Smart Improved solar panels"),
+	display_name_short = T(530118212562, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_short]] "Smart Imp. Solar panel"),
 	entity = "ImprovedSolarPanel",
 	group = "Power",
 	id = "MassPrint_Improved_Solar_Panel_Smart",
@@ -1195,7 +1205,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-600, -1500, 0, 1800, 600, 1400),
-	menu_display_name = T(571704750084, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart menu_display_name]] "Smart Imp. Solar Panel"),
+	menu_display_name = T(387482673629, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart menu_display_name]] "Smart Imp. Solar Panel"),
 	object_class = "Building",
 	repair_cost = PlaceObj('ConstructionCost', {
 		Metal = 5000,
@@ -1212,6 +1222,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	FinalColor = 4291884820,
 	Health = 400000,
 	IsPowerGenerator = true,
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Solar_Panel_Graphene",
+		}),
+	},
 	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxHealth = 400000,
@@ -1235,10 +1250,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		CarbonNanotubes = 50000,
 		ScrapElectronics = 5000,
 	}),
-	description = T(670943309038, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, the best AI algorithms and the new graphene solar cells gives the best possible Power Production & Durability.\n\nGenerates <color TextEmphasis>300</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	display_name = T(627806329885, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name]] "Smart Graphene Solar Panel"),
-	display_name_pl = T(351980305109, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_pl]] "Smart Graphene solar panels"),
-	display_name_short = T(293718827950, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_short]] "Smart Graphene panel"),
+	description = T(530231828145, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, the best AI algorithms and the new graphene solar cells gives the best possible Power Production & Durability.\n\nGenerates <color TextEmphasis>300</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	display_name = T(976821217076, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name]] "Smart Graphene Solar Panel"),
+	display_name_pl = T(258627603136, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_pl]] "Smart Graphene solar panels"),
+	display_name_short = T(264794831557, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_short]] "Smart Graphene panel"),
 	entity = "GraphenSolarPanel",
 	group = "Power",
 	id = "MassPrint_Graphene_Solar_Panel_Smart",
@@ -1252,7 +1267,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-600, -1800, 0, 1800, 600, 2100),
-	menu_display_name = T(210067198314, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart menu_display_name]] "Smart Graphene Solar Panel"),
+	menu_display_name = T(460560050353, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart menu_display_name]] "Smart Graphene Solar Panel"),
 	object_class = "SolarPanelAutomated",
 	repair_cost = PlaceObj('ConstructionCost', {
 		CarbonNanotubes = 5000,
@@ -1277,6 +1292,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	FullWindSpeed = 40,
 	Health = 200000,
 	IsPowerGenerator = true,
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Wind_Turbine_Smart",
+		}),
+	},
 	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxHealth = 200000,
@@ -1315,9 +1335,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 2000,
 		ScrapMetal = 25000,
 	}),
-	description = T(379588626703, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart description]] "Adding a built-in CPU, basic AI algorithms and some self-aligning servo-motors to optimize the wind turbine operations giving improved Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 200</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed."),
-	display_name = T(395251241818, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name]] "Smart Wind turbine"),
-	display_name_pl = T(669770393175, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name_pl]] "Smart Wind turbines"),
+	description = T(555802211167, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart description]] "Adding a built-in CPU, basic AI algorithms and some self-aligning servo-motors to optimize the wind turbine operations giving improved Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 200</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed."),
+	display_name = T(607791790073, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name]] "Smart Wind turbine"),
+	display_name_pl = T(585822260825, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name_pl]] "Smart Wind turbines"),
 	entity = "WindTurbine",
 	group = "Power",
 	id = "MassPrint_Wind_Smart",
@@ -1328,7 +1348,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-900, -900, 0, 900, 900, 6800),
-	menu_display_name = T(181142285960, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart menu_display_name]] "Smart Wind turbine"),
+	menu_display_name = T(677949409839, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart menu_display_name]] "Smart Wind turbine"),
 	object_class = "WindTurbineBuilding",
 	realtime_working_anim = true,
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -1355,6 +1375,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	FullWindSpeed = 10,
 	Health = 340000,
 	IsPowerGenerator = true,
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Wind_Turbine_Carbon_Smart",
+		}),
+	},
 	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxHealth = 340000,
@@ -1402,9 +1427,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		CarbonNanotubes = 15000,
 		ScrapElectronics = 2000,
 	}),
-	description = T(614848352795, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart description]] "Adding a built-in multi-core CPU, advanced AI algorithms, lighter carbon fiber materials and automatic self-aligning servo-motors to optimize the wind turbine operations giving maximized Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 400</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed.\n\nCosts: <color TextEmphasis>5</color><image 'UI/Icons/Resources/res_scrap_electronics' 1100> <color TextEmphasis>2</color><image 'UI/Icons/Resources/res_cpu_cores' 1100> <color TextEmphasis>40</color><image 'UI/Icons/Resources/res_carbon_nanotubes' 1100>"),
-	display_name = T(567297108059, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name]] "Smart Carbon Wind Turbine"),
-	display_name_pl = T(928067976141, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name_pl]] "Smart Carbon Wind Turbines"),
+	description = T(416501334684, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart description]] "Adding a built-in multi-core CPU, advanced AI algorithms, lighter carbon fiber materials and automatic self-aligning servo-motors to optimize the wind turbine operations giving maximized Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 400</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed.\n\nCosts: <color TextEmphasis>5</color><image 'UI/Icons/Resources/res_scrap_electronics' 1100> <color TextEmphasis>2</color><image 'UI/Icons/Resources/res_cpu_cores' 1100> <color TextEmphasis>40</color><image 'UI/Icons/Resources/res_carbon_nanotubes' 1100>"),
+	display_name = T(836318541266, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name]] "Smart Carbon Wind Turbine"),
+	display_name_pl = T(291272434313, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name_pl]] "Smart Carbon Wind Turbines"),
 	entity = "WindTurbineCarbone",
 	group = "Power",
 	id = "MassPrint_Carbon_Wind_Smart",
@@ -1415,7 +1440,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-900, -900, 0, 900, 900, 8400),
-	menu_display_name = T(850122279696, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart menu_display_name]] "Smart Carbon Wind Turbine"),
+	menu_display_name = T(431585572219, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart menu_display_name]] "Smart Carbon Wind Turbine"),
 	object_class = "WindTurbineBuilding",
 	realtime_working_anim = true,
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -1442,6 +1467,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	HasSmartConnection = true,
 	Health = 250000,
 	IsPowerGenerator = true,
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_DieselGenerator_Smart",
+		}),
+	},
 	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxHealth = 250000,
@@ -1492,9 +1522,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 2000,
 		ScrapMetal = 25000,
 	}),
-	description = T(584262371052, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
-	display_name = T(794204593729, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name]] "Smart Diesel generator"),
-	display_name_pl = T(358492789369, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name_pl]] "Smart Diesel generators"),
+	description = T(190098982784, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
+	display_name = T(957224522709, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name]] "Smart Diesel generator"),
+	display_name_pl = T(411059444205, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name_pl]] "Smart Diesel generators"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -1509,7 +1539,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands",
 	lock_block_box = box(-300, -300, 0, 1800, 300, 1050),
-	menu_display_name = T(425209277094, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart menu_display_name]] "Smart Diesel Generator"),
+	menu_display_name = T(991731990603, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart menu_display_name]] "Smart Diesel Generator"),
 	object_class = "Building",
 	realtime_working_anim = true,
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -1545,6 +1575,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 			Tech = "MassPrint_PowerCellGenerator_Smart",
 		}),
 	},
+	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
 	MaxHealth = 500000,
 	MaxTimeToMalfunction = 86400000,
@@ -1594,9 +1625,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 5000,
 		ScrapMetal = 25000,
 	}),
-	description = T(944986197264, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>500</color> <image 'UI/Icons/Resources/res_electricity' 1100> while depleting a <image 'UI/Icons/Resources/res_power_cell' 1100>."),
-	display_name = T(607393204451, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name]] "Smart Power cell generator"),
-	display_name_pl = T(870550279109, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name_pl]] "Smart Power cell generators"),
+	description = T(981966806019, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>500</color> <image 'UI/Icons/Resources/res_electricity' 1100> while depleting a <image 'UI/Icons/Resources/res_power_cell' 1100>."),
+	display_name = T(279147683748, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name]] "Smart Power cell generator"),
+	display_name_pl = T(183289809734, --[[ModItemBuildingCompositeDef MassPrint_PowerCellGenerator_Smart display_name_pl]] "Smart Power cell generators"),
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
 	},
@@ -1904,7 +1935,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 			'TransformTime', 6720000,
 		}),
 	},
-	TransformDisplayName = T(734880903735, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal TransformDisplayName]] "Composting"),
+	TransformDisplayName = T(273461283512, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal TransformDisplayName]] "Composting"),
 	TransformMetaProp = "composting",
 	TreatStorageAsDevice = true,
 	accepted_res = {
@@ -1932,10 +1963,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	deconstruction_output = PlaceObj('ConstructionCost', {
 		ScrapMetal = 3000,
 	}),
-	description = T(383387100381, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal description]] "Composts food into manure"),
-	display_name = T(700734916834, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name]] "Metal Composter"),
-	display_name_pl = T(692858274189, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_pl]] "Composters"),
-	display_name_short = T(620215496888, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_short]] "Metal Composter"),
+	description = T(590639269533, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal description]] "Composts food into manure"),
+	display_name = T(560979338597, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name]] "Metal Composter"),
+	display_name_pl = T(248505467661, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_pl]] "Composters"),
+	display_name_short = T(989107196642, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal display_name_short]] "Metal Composter"),
 	distribute_allowed_res = false,
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
@@ -1952,7 +1983,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands",
 	lock_block_box = box(-300, -300, 0, 300, 300, 700),
-	menu_display_name = T(330449749082, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal menu_display_name]] "Metal Composter"),
+	menu_display_name = T(560768196159, --[[ModItemBuildingCompositeDef MassPrint_Composter_Metal menu_display_name]] "Metal Composter"),
 	object_class = "Building",
 	off_when_idle = true,
 	override_material_during_production = false,
@@ -2001,7 +2032,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		}),
 	},
 	SkirtSize = 0,
-	TransformDisplayName = T(494540079724, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood TransformDisplayName]] "Composting"),
+	TransformDisplayName = T(235606389401, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood TransformDisplayName]] "Composting"),
 	TransformMetaProp = "composting",
 	TreatStorageAsDevice = true,
 	accepted_res = {
@@ -2029,10 +2060,10 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	deconstruction_output = PlaceObj('ConstructionCost', {
 		Wood = 5000,
 	}),
-	description = T(765978309096, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood description]] "Composts food into manure"),
-	display_name = T(255184531112, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name]] "Wood Composter"),
-	display_name_pl = T(465370509405, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_pl]] "Composters"),
-	display_name_short = T(747635584855, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_short]] "Composter"),
+	description = T(380304663344, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood description]] "Composts food into manure"),
+	display_name = T(808980020970, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name]] "Wood Composter"),
+	display_name_pl = T(450308255171, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_pl]] "Composters"),
+	display_name_short = T(909747488688, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood display_name_short]] "Composter"),
 	distribute_allowed_res = false,
 	enable_overlay_on_placement = {
 		RoomsOverlay = true,
@@ -2049,7 +2080,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	},
 	load_anim_hands = "standing_PickUp_Hands",
 	lock_block_box = box(-300, -300, 0, 300, 300, 700),
-	menu_display_name = T(428606023995, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood menu_display_name]] "Wood Composter"),
+	menu_display_name = T(449848900905, --[[ModItemBuildingCompositeDef MassPrint_Composter_Wood menu_display_name]] "Wood Composter"),
 	object_class = "Building",
 	off_when_idle = true,
 	repair_cost = PlaceObj('ConstructionCost', {
@@ -2079,18 +2110,6 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		PlaceObj('CheckTech', {
 			Tech = "MassPrint_Sensors_Smart",
 		}),
-		PlaceObj('CheckResourceUnlocked', {
-			Resource = "CPUCore",
-			ResourceGroup = "ElectronicComponents",
-		}),
-		PlaceObj('CheckResourceUnlocked', {
-			Resource = "ScrapElectronics",
-			ResourceGroup = "ElectronicComponents",
-		}),
-		PlaceObj('CheckResourceUnlocked', {
-			Resource = "Metal",
-			ResourceGroup = "ConstructionMaterials",
-		}),
 	},
 	LockState = "hidden",
 	MalfunctionOverTimeComponent = true,
@@ -2107,8 +2126,8 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	ProximitySwitchRange = 36000,
 	RoomPlacement = "outdoors",
 	StateIndicatorAttachId = "SignalLamp",
-	StatusTextNotWorking = T(261701464783, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextNotWorking]] "<color TextPositive>No threats are detected</color>"),
-	StatusTextWorking = T(537101924803, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextWorking]] "<color TextNegative>Detecting threats</color>"),
+	StatusTextNotWorking = T(960141569102, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextNotWorking]] "<color TextPositive>No threats are detected</color>"),
+	StatusTextWorking = T(891618537001, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart StatusTextWorking]] "<color TextNegative>Detecting threats</color>"),
 	TurnOnDelay = 0,
 	affected_by_disasters = set( "SolarFlare", "Thunderstorm" ),
 	can_turn_off = true,
@@ -2123,9 +2142,9 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		ScrapElectronics = 2000,
 		ScrapMetal = 10000,
 	}),
-	description = T(870560387513, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart description]] "Adding a built-in CPU, basic AI algorithms and using better building materials to optimize the motion sensor, you get increased range and durability\n\nRange increase: <color TextEmphasis>1.5x</color>\nActivates when there are hostile animals in range."),
-	display_name = T(588114252323, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name]] "Smart Motion sensor"),
-	display_name_pl = T(369897279931, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name_pl]] "Smart Motion sensors"),
+	description = T(329924822415, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart description]] "Adding a built-in CPU, basic AI algorithms and using better building materials to optimize the motion sensor, you get increased range and durability\n\nRange increase: <color TextEmphasis>1.5x</color>\nActivates when there are hostile animals in range."),
+	display_name = T(486870366202, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name]] "Smart Motion sensor"),
+	display_name_pl = T(228876441513, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart display_name_pl]] "Smart Motion sensors"),
 	enable_overlay_on_placement = {
 		RangeOverlay = true,
 		RoomsOverlay = true,
@@ -2142,7 +2161,7 @@ PlaceObj('ModItemBuildingCompositeDef', {
 		"SolarFlareShieldedTargets",
 	},
 	lock_block_box = box(-300, -600, 0, 300, 600, 3850),
-	menu_display_name = T(447778417786, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart menu_display_name]] "Smart Motion Sensor"),
+	menu_display_name = T(387078980844, --[[ModItemBuildingCompositeDef MassPrint_MotionSensor_Smart menu_display_name]] "Smart Motion Sensor"),
 	object_class = "Building",
 	range_tags = {
 		"sensor",
@@ -2170,9 +2189,9 @@ PlaceObj('ModItemDeviceInterface', {
 	spot_name = "",
 }),
 PlaceObj('ModItemHappinessFactor', {
-	Description = T(325371595020, --[[ModItemHappinessFactor MassPrint_Improved_Sleep Description]] '"I feel like I am Superman!!!!"'),
-	DisplayName = T(628538999995, --[[ModItemHappinessFactor MassPrint_Improved_Sleep DisplayName]] "Slept in a cybernetic bed"),
-	DisplayNameShort = T(972892848595, --[[ModItemHappinessFactor MassPrint_Improved_Sleep DisplayNameShort]] "Cybernetic bed"),
+	Description = T(982697633530, --[[ModItemHappinessFactor MassPrint_Improved_Sleep Description]] '"I feel like I am Superman!!!!"'),
+	DisplayName = T(553431544437, --[[ModItemHappinessFactor MassPrint_Improved_Sleep DisplayName]] "Slept in a cybernetic bed"),
+	DisplayNameShort = T(337528487842, --[[ModItemHappinessFactor MassPrint_Improved_Sleep DisplayNameShort]] "Cybernetic bed"),
 	Expiration = true,
 	ExpirationTime = 2880000,
 	Happiness = 50,
@@ -2295,9 +2314,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorSpring = 4291876068,
 	ColorSummer = 4291876068,
 	ColorWinter = 4291876068,
-	Description = T(191679743170, --[[ModItemPlantDef Plant_MassPrint_GE_Stoneleaf Description]] "Grows quickly in all soil types."),
-	DisplayName = T(851563102220, --[[ModItemPlantDef Plant_MassPrint_GE_Stoneleaf DisplayName]] "GE Stoneleaf"),
-	DisplayNamePl = T(716605635240, --[[ModItemPlantDef Plant_MassPrint_GE_Stoneleaf DisplayNamePl]] "GE Stoneleaves"),
+	Description = T(956385009131, --[[ModItemPlantDef Plant_MassPrint_GE_Stoneleaf Description]] "Grows quickly in all soil types."),
+	DisplayName = T(468455239940, --[[ModItemPlantDef Plant_MassPrint_GE_Stoneleaf DisplayName]] "GE Stoneleaf"),
+	DisplayNamePl = T(975837057864, --[[ModItemPlantDef Plant_MassPrint_GE_Stoneleaf DisplayNamePl]] "GE Stoneleaves"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldMaxSizeX = 15,
@@ -2360,9 +2379,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorSpring = 4278589345,
 	ColorSummer = 4278589345,
 	ColorWinter = 4278589345,
-	Description = T(199959309072, --[[ModItemPlantDef Plant_MassPrint_GE_Oreleaf Description]] "Grows quickly in all soil types."),
-	DisplayName = T(349223696585, --[[ModItemPlantDef Plant_MassPrint_GE_Oreleaf DisplayName]] "GE Oreleaf"),
-	DisplayNamePl = T(235229306806, --[[ModItemPlantDef Plant_MassPrint_GE_Oreleaf DisplayNamePl]] "GE Oreleaves"),
+	Description = T(570853539817, --[[ModItemPlantDef Plant_MassPrint_GE_Oreleaf Description]] "Grows quickly in all soil types."),
+	DisplayName = T(181128029381, --[[ModItemPlantDef Plant_MassPrint_GE_Oreleaf DisplayName]] "GE Oreleaf"),
+	DisplayNamePl = T(895504431554, --[[ModItemPlantDef Plant_MassPrint_GE_Oreleaf DisplayNamePl]] "GE Oreleaves"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldMaxSizeX = 15,
@@ -2425,9 +2444,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorSpring = 4293871336,
 	ColorSummer = 4293871336,
 	ColorWinter = 4293871336,
-	Description = T(862451403912, --[[ModItemPlantDef Plant_MassPrint_GE_Siliconleaf Description]] "Grows quickly in all soil types."),
-	DisplayName = T(265720379455, --[[ModItemPlantDef Plant_MassPrint_GE_Siliconleaf DisplayName]] "GE Siliconleaf"),
-	DisplayNamePl = T(470151652072, --[[ModItemPlantDef Plant_MassPrint_GE_Siliconleaf DisplayNamePl]] "GE Siliconleaves"),
+	Description = T(563418408222, --[[ModItemPlantDef Plant_MassPrint_GE_Siliconleaf Description]] "Grows quickly in all soil types."),
+	DisplayName = T(671786522554, --[[ModItemPlantDef Plant_MassPrint_GE_Siliconleaf DisplayName]] "GE Siliconleaf"),
+	DisplayNamePl = T(318892018194, --[[ModItemPlantDef Plant_MassPrint_GE_Siliconleaf DisplayNamePl]] "GE Siliconleaves"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldMaxSizeX = 15,
@@ -2491,9 +2510,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorGrowth = 4294577678,
 	ColorMature = 4294577678,
 	ColorSickness = 4281799957,
-	Description = T(763892896523, --[[ModItemPlantDef Plant_MassPrint_GE_EnergyCrystal Description]] "Grows well anywhere while gradually turning the soil into loam. They are the main ingredient of power cells."),
-	DisplayName = T(493981958797, --[[ModItemPlantDef Plant_MassPrint_GE_EnergyCrystal DisplayName]] "GE Energy crystals"),
-	DisplayNamePl = T(530509242398, --[[ModItemPlantDef Plant_MassPrint_GE_EnergyCrystal DisplayNamePl]] "GE Energy crystals"),
+	Description = T(868650651205, --[[ModItemPlantDef Plant_MassPrint_GE_EnergyCrystal Description]] "Grows well anywhere while gradually turning the soil into loam. They are the main ingredient of power cells."),
+	DisplayName = T(790963411620, --[[ModItemPlantDef Plant_MassPrint_GE_EnergyCrystal DisplayName]] "GE Energy crystals"),
+	DisplayNamePl = T(464713012389, --[[ModItemPlantDef Plant_MassPrint_GE_EnergyCrystal DisplayNamePl]] "GE Energy crystals"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldMaxSizeX = 14,
@@ -2552,9 +2571,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorGrowth = 4294577678,
 	ColorMature = 4294577678,
 	ColorSickness = 4281799957,
-	Description = T(207804520071, --[[ModItemPlantDef Plant_MassPrint_GE_GrainGrass Description]] "Grows quickly, survives most soil types and yields a great harvest."),
-	DisplayName = T(498958153495, --[[ModItemPlantDef Plant_MassPrint_GE_GrainGrass DisplayName]] "GE Grain grass"),
-	DisplayNamePl = T(363345330245, --[[ModItemPlantDef Plant_MassPrint_GE_GrainGrass DisplayNamePl]] "GE Grain grass"),
+	Description = T(515297891621, --[[ModItemPlantDef Plant_MassPrint_GE_GrainGrass Description]] "Grows quickly, survives most soil types and yields a great harvest."),
+	DisplayName = T(563111776446, --[[ModItemPlantDef Plant_MassPrint_GE_GrainGrass DisplayName]] "GE Grain grass"),
+	DisplayNamePl = T(410546037926, --[[ModItemPlantDef Plant_MassPrint_GE_GrainGrass DisplayNamePl]] "GE Grain grass"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldResearchTech = "FieldGraingrass",
@@ -2612,9 +2631,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorGrowth = 4294577678,
 	ColorMature = 4294577678,
 	ColorSickness = 4281799957,
-	Description = T(817921895756, --[[ModItemPlantDef Plant_MassPrint_GE_Buttermelon Description]] "Grows quickly and yields plentiful harvest."),
-	DisplayName = T(614067041967, --[[ModItemPlantDef Plant_MassPrint_GE_Buttermelon DisplayName]] "GE Buttermelon"),
-	DisplayNamePl = T(120144235024, --[[ModItemPlantDef Plant_MassPrint_GE_Buttermelon DisplayNamePl]] "GE Buttermelons"),
+	Description = T(722682665431, --[[ModItemPlantDef Plant_MassPrint_GE_Buttermelon Description]] "Grows quickly and yields plentiful harvest."),
+	DisplayName = T(642210357174, --[[ModItemPlantDef Plant_MassPrint_GE_Buttermelon DisplayName]] "GE Buttermelon"),
+	DisplayNamePl = T(560041947788, --[[ModItemPlantDef Plant_MassPrint_GE_Buttermelon DisplayNamePl]] "GE Buttermelons"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldMaxSizeX = 14,
@@ -2677,9 +2696,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorSpring = 4293728794,
 	ColorSummer = 4293728794,
 	ColorWinter = 4293728794,
-	Description = T(671720045533, --[[ModItemPlantDef Plant_MassPrint_GE_ChewRoots Description]] "Grows quickly and yields great harvest which doesn't spoil easily."),
-	DisplayName = T(575270856399, --[[ModItemPlantDef Plant_MassPrint_GE_ChewRoots DisplayName]] "GE Chew root"),
-	DisplayNamePl = T(628853750068, --[[ModItemPlantDef Plant_MassPrint_GE_ChewRoots DisplayNamePl]] "GE Chew roots"),
+	Description = T(877803972595, --[[ModItemPlantDef Plant_MassPrint_GE_ChewRoots Description]] "Grows quickly and yields great harvest which doesn't spoil easily."),
+	DisplayName = T(770085941800, --[[ModItemPlantDef Plant_MassPrint_GE_ChewRoots DisplayName]] "GE Chew root"),
+	DisplayNamePl = T(281849565592, --[[ModItemPlantDef Plant_MassPrint_GE_ChewRoots DisplayNamePl]] "GE Chew roots"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldResearchTech = "FieldChewroot",
@@ -2738,9 +2757,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorSpring = 3873174126,
 	ColorSummer = 3873174126,
 	ColorWinter = 3873174126,
-	Description = T(794584439079, --[[ModItemPlantDef Plant_MassPrint_GE_RedMeat Description]] "Grows quickly and yields good harvest which doesn't spoil easily."),
-	DisplayName = T(900452784571, --[[ModItemPlantDef Plant_MassPrint_GE_RedMeat DisplayName]] "GE Red Meat"),
-	DisplayNamePl = T(744566166251, --[[ModItemPlantDef Plant_MassPrint_GE_RedMeat DisplayNamePl]] "GE Red Meat"),
+	Description = T(629666215533, --[[ModItemPlantDef Plant_MassPrint_GE_RedMeat Description]] "Grows quickly and yields good harvest which doesn't spoil easily."),
+	DisplayName = T(395154259843, --[[ModItemPlantDef Plant_MassPrint_GE_RedMeat DisplayName]] "GE Red Meat"),
+	DisplayNamePl = T(216029285380, --[[ModItemPlantDef Plant_MassPrint_GE_RedMeat DisplayNamePl]] "GE Red Meat"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldResearchTech = "FieldChewroot",
@@ -2798,9 +2817,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorSickness = 4281799957,
 	ColorSpring = 4283334211,
 	ColorWinter = 4282852886,
-	Description = T(453731677439, --[[ModItemPlantDef Plant_MassPrint_GE_ChitinMeat Description]] "Grows quickly, but is soil sensitive and yields a relatively small harvest."),
-	DisplayName = T(716377890993, --[[ModItemPlantDef Plant_MassPrint_GE_ChitinMeat DisplayName]] "GE Chitin Meat"),
-	DisplayNamePl = T(101885463012, --[[ModItemPlantDef Plant_MassPrint_GE_ChitinMeat DisplayNamePl]] "GE Chitin Meats"),
+	Description = T(144521592498, --[[ModItemPlantDef Plant_MassPrint_GE_ChitinMeat Description]] "Grows quickly, but is soil sensitive and yields a relatively small harvest."),
+	DisplayName = T(289787249936, --[[ModItemPlantDef Plant_MassPrint_GE_ChitinMeat DisplayName]] "GE Chitin Meat"),
+	DisplayNamePl = T(814382641794, --[[ModItemPlantDef Plant_MassPrint_GE_ChitinMeat DisplayNamePl]] "GE Chitin Meats"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldResearchTech = "FieldGraincob",
@@ -2855,9 +2874,9 @@ PlaceObj('ModItemPlantDef', {
 	ColorGrowth = 4294577678,
 	ColorMature = 4294577678,
 	ColorSickness = 4281799957,
-	Description = T(797236834209, --[[ModItemPlantDef Plant_MassPrint_GE_GlitterCap Description]] "Grows quickly in all soil types. It yields a large harvest."),
-	DisplayName = T(999417254831, --[[ModItemPlantDef Plant_MassPrint_GE_GlitterCap DisplayName]] "GE Glitter cap"),
-	DisplayNamePl = T(348494268125, --[[ModItemPlantDef Plant_MassPrint_GE_GlitterCap DisplayNamePl]] "GE Glitter caps"),
+	Description = T(520320394457, --[[ModItemPlantDef Plant_MassPrint_GE_GlitterCap Description]] "Grows quickly in all soil types. It yields a large harvest."),
+	DisplayName = T(187545005934, --[[ModItemPlantDef Plant_MassPrint_GE_GlitterCap DisplayName]] "GE Glitter cap"),
+	DisplayNamePl = T(371390225185, --[[ModItemPlantDef Plant_MassPrint_GE_GlitterCap DisplayNamePl]] "GE Glitter caps"),
 	FertilizerDuration = 23040000,
 	FertilizerGrowth = 90,
 	FieldResearchTech = "FieldGlitterCap",
@@ -2895,14 +2914,44 @@ PlaceObj('ModItemPlantDef', {
 	id = "Plant_MassPrint_GE_GlitterCap",
 }),
 PlaceObj('ModItemRecipe', {
+	Activity = "Crafting",
+	ActivityDuration = 140000,
+	BuildCategory = "CraftResources",
+	Description = T(359862567075, --[[ModItemRecipe MassPrint_Bandages_10 Description]] "Make bandages from any fabrics."),
+	DisplayName = T(312682423968, --[[ModItemRecipe MassPrint_Bandages_10 DisplayName]] "Bandages x10"),
+	FailChance = 10,
+	GuaranteedSuccessLevel = 3,
+	Icon = "UI/Icons/Items/bandages",
+	InputResources = {
+		PlaceObj('ResAmount', {
+			'resource', "FabricsAll",
+			'amount', 20000,
+		}),
+	},
+	ManualWork = true,
+	OutputResources = {
+		PlaceObj('ResAmount', {
+			'resource', "MedBandages",
+			'amount', 10000,
+		}),
+	},
+	RequiredDeviceInterfaces = {
+		"BasicCraftingInterface",
+	},
+	SortKey = 11,
+	Unfinished = true,
+	group = "Food",
+	id = "MassPrint_Bandages_10",
+}),
+PlaceObj('ModItemRecipe', {
 	Activity = "Cooking",
 	ActivityDuration = 60000,
 	ActivityXPGrade = "Cooking_Low",
 	BuildCategory = "RecipesQuick",
-	Description = T(636141135838, --[[ModItemRecipe MassPrint_Basic_Grain Description]] "Boil a quick grain porridge."),
+	Description = T(245408175929, --[[ModItemRecipe MassPrint_Basic_Grain Description]] "Boil a quick grain porridge."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(145144566169, --[[ModItemRecipe MassPrint_Basic_Grain DisplayName]] "Grain porridge x10"),
+	DisplayName = T(965780207005, --[[ModItemRecipe MassPrint_Basic_Grain DisplayName]] "Grain porridge x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 2,
 	Icon = "UI/Icons/Items/grain_porridge",
@@ -2933,10 +2982,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 60000,
 	ActivityXPGrade = "Cooking_Low",
 	BuildCategory = "RecipesQuick",
-	Description = T(450869427227, --[[ModItemRecipe MassPrint_Basic_Vegetable Description]] "Boil a quick vegetable soup."),
+	Description = T(278823680688, --[[ModItemRecipe MassPrint_Basic_Vegetable Description]] "Boil a quick vegetable soup."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(379744316555, --[[ModItemRecipe MassPrint_Basic_Vegetable DisplayName]] "Veggie soup x10"),
+	DisplayName = T(351276329284, --[[ModItemRecipe MassPrint_Basic_Vegetable DisplayName]] "Veggie soup x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 2,
 	Icon = "UI/Icons/Items/veggie_soup",
@@ -2967,10 +3016,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 60000,
 	ActivityXPGrade = "Cooking_Low",
 	BuildCategory = "RecipesQuick",
-	Description = T(200778200729, --[[ModItemRecipe MassPrint_Basic_Meat Description]] "Boil a quick meat soup."),
+	Description = T(211734869544, --[[ModItemRecipe MassPrint_Basic_Meat Description]] "Boil a quick meat soup."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(415834322951, --[[ModItemRecipe MassPrint_Basic_Meat DisplayName]] "Meat soup x10"),
+	DisplayName = T(229590447688, --[[ModItemRecipe MassPrint_Basic_Meat DisplayName]] "Meat soup x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 2,
 	Icon = "UI/Icons/Items/meat_soup",
@@ -3001,10 +3050,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 40000,
 	ActivityXPGrade = "Cooking_Low",
 	BuildCategory = "RecipesQuick",
-	Description = T(957083163295, --[[ModItemRecipe MassPrint_Basic_EmergencyRation_Heated Description]] "Quickly boil an emergency ration."),
+	Description = T(127929353131, --[[ModItemRecipe MassPrint_Basic_EmergencyRation_Heated Description]] "Quickly boil an emergency ration."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(909529324717, --[[ModItemRecipe MassPrint_Basic_EmergencyRation_Heated DisplayName]] "Cooked ration x10"),
+	DisplayName = T(207040470706, --[[ModItemRecipe MassPrint_Basic_EmergencyRation_Heated DisplayName]] "Cooked ration x10"),
 	Icon = "UI/Icons/Items/emergency_rations_heated",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -3032,10 +3081,10 @@ PlaceObj('ModItemRecipe', {
 	Activity = "Cooking",
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
-	Description = T(261438240217, --[[ModItemRecipe MassPrint_Tasty_Bread Description]] "Bake tasty bread with grain and oil."),
+	Description = T(742177562263, --[[ModItemRecipe MassPrint_Tasty_Bread Description]] "Bake tasty bread with grain and oil."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(464890007221, --[[ModItemRecipe MassPrint_Tasty_Bread DisplayName]] "Bread x10"),
+	DisplayName = T(839904681248, --[[ModItemRecipe MassPrint_Tasty_Bread DisplayName]] "Bread x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/bread",
@@ -3070,10 +3119,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
 	Comment = "not desert",
-	Description = T(355861166960, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat Description]] "Bake meat and chew roots into a tasty meal."),
+	Description = T(972082566579, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat Description]] "Bake meat and chew roots into a tasty meal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(987082488090, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat DisplayName]] "Meat pie x10"),
+	DisplayName = T(253743739533, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat DisplayName]] "Meat pie x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/meat_pie",
@@ -3114,10 +3163,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
 	Comment = "desert",
-	Description = T(947440533991, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat_Desertum Description]] "Bake meat and cactus fruits into a tasty meal."),
+	Description = T(106987143597, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat_Desertum Description]] "Bake meat and cactus fruits into a tasty meal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(340335163754, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat_Desertum DisplayName]] "Meat pie x10"),
+	DisplayName = T(213424185191, --[[ModItemRecipe MassPrint_Tasty_Pie_Meat_Desertum DisplayName]] "Meat pie x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/meat_pie",
@@ -3157,10 +3206,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
 	Comment = "not desert",
-	Description = T(220927608163, --[[ModItemRecipe MassPrint_Tasty_Pie_Pumpkin Description]] "Bake a tasty pie from grain and buttermelon."),
+	Description = T(892320546453, --[[ModItemRecipe MassPrint_Tasty_Pie_Pumpkin Description]] "Bake a tasty pie from grain and buttermelon."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(895451358975, --[[ModItemRecipe MassPrint_Tasty_Pie_Pumpkin DisplayName]] "Buttermelon pie x10"),
+	DisplayName = T(169587297117, --[[ModItemRecipe MassPrint_Tasty_Pie_Pumpkin DisplayName]] "Buttermelon pie x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/buttermelon_pie",
@@ -3201,10 +3250,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
 	Comment = "not desert",
-	Description = T(759146040736, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable Description]] "Bake a tasty beefberries pizza."),
+	Description = T(241582398427, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable Description]] "Bake a tasty beefberries pizza."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(881153712465, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable DisplayName]] "Veggie pizza x10"),
+	DisplayName = T(845271351714, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable DisplayName]] "Veggie pizza x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/veggie_pizza",
@@ -3245,10 +3294,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
 	Comment = "desert",
-	Description = T(386134062362, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable_Desertum Description]] "Bake a tasty juiceleaf pizza."),
+	Description = T(580619330347, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable_Desertum Description]] "Bake a tasty juiceleaf pizza."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(226330483930, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable_Desertum DisplayName]] "Veggie pizza x10"),
+	DisplayName = T(683065848190, --[[ModItemRecipe MassPrint_Tasty_Pizza_Vegetable_Desertum DisplayName]] "Veggie pizza x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/veggie_pizza",
@@ -3287,10 +3336,10 @@ PlaceObj('ModItemRecipe', {
 	Activity = "Cooking",
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
-	Description = T(431761957055, --[[ModItemRecipe MassPrint_Tasty_Stew_Meat Description]] "Boil meat and oil into a tasty meal."),
+	Description = T(691808683891, --[[ModItemRecipe MassPrint_Tasty_Stew_Meat Description]] "Boil meat and oil into a tasty meal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(656493602522, --[[ModItemRecipe MassPrint_Tasty_Stew_Meat DisplayName]] "Meat stew x10"),
+	DisplayName = T(351991628928, --[[ModItemRecipe MassPrint_Tasty_Stew_Meat DisplayName]] "Meat stew x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/meat_stew",
@@ -3324,10 +3373,10 @@ PlaceObj('ModItemRecipe', {
 	Activity = "Cooking",
 	ActivityXPGrade = "Cooking_Normal",
 	BuildCategory = "RecipesTasty",
-	Description = T(650322362107, --[[ModItemRecipe MassPrint_Tasty_Stew_Vegetable Description]] "Boil vegetables and oil into a tasty meal."),
+	Description = T(938581444844, --[[ModItemRecipe MassPrint_Tasty_Stew_Vegetable Description]] "Boil vegetables and oil into a tasty meal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 20000,
-	DisplayName = T(431677203613, --[[ModItemRecipe MassPrint_Tasty_Stew_Vegetable DisplayName]] "Veggie stew x10"),
+	DisplayName = T(179645336554, --[[ModItemRecipe MassPrint_Tasty_Stew_Vegetable DisplayName]] "Veggie stew x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/veggie_stew",
@@ -3363,10 +3412,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
 	Comment = "not desert",
-	Description = T(632211169670, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect Description]] "Boil an exquisite meal with grain, beefberries and insect meat."),
+	Description = T(660334376603, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect Description]] "Boil an exquisite meal with grain, beefberries and insect meat."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 40000,
-	DisplayName = T(211277830792, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect DisplayName]] "Monster spaghetti x10"),
+	DisplayName = T(575585969625, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect DisplayName]] "Monster spaghetti x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/monster_spaghetti",
@@ -3417,10 +3466,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
 	Comment = "desert",
-	Description = T(962065242248, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect_Desertum Description]] "Boil an exquisite meal with grain, distasteful flowers and insect meat."),
+	Description = T(279650180043, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect_Desertum Description]] "Boil an exquisite meal with grain, distasteful flowers and insect meat."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 40000,
-	DisplayName = T(818162218296, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect_Desertum DisplayName]] "Monster spaghetti"),
+	DisplayName = T(105039099281, --[[ModItemRecipe MassPrint_Chef_SpaghettiInsect_Desertum DisplayName]] "Monster spaghetti"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/monster_spaghetti",
@@ -3469,10 +3518,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 100000,
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
-	Description = T(366013645351, --[[ModItemRecipe MassPrint_Chef_Fruitcake Description]] "Bake fruits, grain and sweet syrup into an exquisite fruitcake."),
+	Description = T(540401210683, --[[ModItemRecipe MassPrint_Chef_Fruitcake Description]] "Bake fruits, grain and sweet syrup into an exquisite fruitcake."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 40000,
-	DisplayName = T(753233940098, --[[ModItemRecipe MassPrint_Chef_Fruitcake DisplayName]] "Fruitcake x10"),
+	DisplayName = T(731947678452, --[[ModItemRecipe MassPrint_Chef_Fruitcake DisplayName]] "Fruitcake x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/fruitcake",
@@ -3511,10 +3560,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 100000,
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
-	Description = T(735101370705, --[[ModItemRecipe MassPrint_Chef_Steak Description]] "Prepare top quality red meat steaks with alcohol."),
+	Description = T(313952282472, --[[ModItemRecipe MassPrint_Chef_Steak Description]] "Prepare top quality red meat steaks with alcohol."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 60000,
-	DisplayName = T(954330161871, --[[ModItemRecipe MassPrint_Chef_Steak DisplayName]] "Chef's steak x10"),
+	DisplayName = T(579201549833, --[[ModItemRecipe MassPrint_Chef_Steak DisplayName]] "Chef's steak x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/chefs_steak",
@@ -3549,10 +3598,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 100000,
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
-	Description = T(922722334064, --[[ModItemRecipe MassPrint_Chef_FruitsFlambe Description]] "Quickly fry fresh fruits with alcohol for an exquisite treat."),
+	Description = T(467655739384, --[[ModItemRecipe MassPrint_Chef_FruitsFlambe Description]] "Quickly fry fresh fruits with alcohol for an exquisite treat."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 60000,
-	DisplayName = T(639663812342, --[[ModItemRecipe MassPrint_Chef_FruitsFlambe DisplayName]] "Fruits flambe x10"),
+	DisplayName = T(284968418026, --[[ModItemRecipe MassPrint_Chef_FruitsFlambe DisplayName]] "Fruits flambe x10"),
 	FailChance = 25,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/fruits_flambe",
@@ -3586,10 +3635,10 @@ PlaceObj('ModItemRecipe', {
 	Activity = "Cooking",
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
-	Description = T(372027133643, --[[ModItemRecipe MassPrint_Chef_HoneyBites Description]] "Fry an exquisite sweetened meat meal."),
+	Description = T(554405527258, --[[ModItemRecipe MassPrint_Chef_HoneyBites Description]] "Fry an exquisite sweetened meat meal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 60000,
-	DisplayName = T(473482659219, --[[ModItemRecipe MassPrint_Chef_HoneyBites DisplayName]] "Sweet meat bites x10"),
+	DisplayName = T(544409687433, --[[ModItemRecipe MassPrint_Chef_HoneyBites DisplayName]] "Sweet meat bites x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/sweet_meat_bites",
@@ -3628,10 +3677,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 100000,
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
-	Description = T(540503718041, --[[ModItemRecipe MassPrint_Chef_MushroomCroquettes Description]] "Cover glitter caps in a crunchy grain shell and fry them in oil."),
+	Description = T(165679529779, --[[ModItemRecipe MassPrint_Chef_MushroomCroquettes Description]] "Cover glitter caps in a crunchy grain shell and fry them in oil."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 60000,
-	DisplayName = T(680131849579, --[[ModItemRecipe MassPrint_Chef_MushroomCroquettes DisplayName]] "Mushroom croquettes x10"),
+	DisplayName = T(517653024932, --[[ModItemRecipe MassPrint_Chef_MushroomCroquettes DisplayName]] "Mushroom croquettes x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/mushroom_croquettes",
@@ -3671,10 +3720,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
 	Comment = "not desert",
-	Description = T(696080650606, --[[ModItemRecipe MassPrint_Chef_Ratatouille Description]] "Bake an outer world ratatouille with chew roots, beefberries and oil. "),
+	Description = T(251560331565, --[[ModItemRecipe MassPrint_Chef_Ratatouille Description]] "Bake an outer world ratatouille with chew roots, beefberries and oil. "),
 	DestroyOnFail = false,
 	DeviceWorkTime = 60000,
-	DisplayName = T(614629143935, --[[ModItemRecipe MassPrint_Chef_Ratatouille DisplayName]] "Ratatouille x10"),
+	DisplayName = T(528310836828, --[[ModItemRecipe MassPrint_Chef_Ratatouille DisplayName]] "Ratatouille x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/ratatouille",
@@ -3720,10 +3769,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Cooking_High",
 	BuildCategory = "RecipesChef",
 	Comment = "desert",
-	Description = T(375453132438, --[[ModItemRecipe MassPrint_Chef_Ratatouille_Desertum Description]] "Bake an outer world ratatouille with teaballs, juiceleaf and oil. "),
+	Description = T(905812952924, --[[ModItemRecipe MassPrint_Chef_Ratatouille_Desertum Description]] "Bake an outer world ratatouille with teaballs, juiceleaf and oil. "),
 	DestroyOnFail = false,
 	DeviceWorkTime = 60000,
-	DisplayName = T(288808905509, --[[ModItemRecipe MassPrint_Chef_Ratatouille_Desertum DisplayName]] "Ratatouille x10"),
+	DisplayName = T(309788024260, --[[ModItemRecipe MassPrint_Chef_Ratatouille_Desertum DisplayName]] "Ratatouille x10"),
 	FailChance = 20,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/ratatouille",
@@ -3767,10 +3816,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Composting_RecipeCategory",
-	Description = T(796043315386, --[[ModItemRecipe MassPrint_Compost_200 Description]] "Composts Food Items into Manure"),
+	Description = T(758845251319, --[[ModItemRecipe MassPrint_Compost_200 Description]] "Composts Food Items into Manure"),
 	DestroyOnFail = false,
 	DeviceWorkTime = 1920000,
-	DisplayName = T(332064987037, --[[ModItemRecipe MassPrint_Compost_200 DisplayName]] "Manure x200"),
+	DisplayName = T(527375394889, --[[ModItemRecipe MassPrint_Compost_200 DisplayName]] "Manure x200"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	HasIntermediateResult = false,
@@ -3801,10 +3850,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Composting_RecipeCategory",
-	Description = T(240144269461, --[[ModItemRecipe MassPrint_Compost_1000 Description]] "Composts Food Items into Manure"),
+	Description = T(916971939884, --[[ModItemRecipe MassPrint_Compost_1000 Description]] "Composts Food Items into Manure"),
 	DestroyOnFail = false,
 	DeviceWorkTime = 1920000,
-	DisplayName = T(898228975564, --[[ModItemRecipe MassPrint_Compost_1000 DisplayName]] "Manure x2000"),
+	DisplayName = T(315198535325, --[[ModItemRecipe MassPrint_Compost_1000 DisplayName]] "Manure x2000"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	HasIntermediateResult = false,
@@ -3815,7 +3864,7 @@ PlaceObj('ModItemRecipe', {
 			'amount', 1000000,
 		}),
 	},
-	MakeUntilMultiplier = 10,
+	MakeUntilMultiplier = 100,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -3835,10 +3884,10 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Composting_RecipeCategory",
-	Description = T(488309618686, --[[ModItemRecipe MassPrint_Compost_5000 Description]] "Composts Food Items into Manure"),
+	Description = T(653982894423, --[[ModItemRecipe MassPrint_Compost_5000 Description]] "Composts Food Items into Manure"),
 	DestroyOnFail = false,
 	DeviceWorkTime = 1920000,
-	DisplayName = T(841244572030, --[[ModItemRecipe MassPrint_Compost_5000 DisplayName]] "Manure x10000"),
+	DisplayName = T(279473505046, --[[ModItemRecipe MassPrint_Compost_5000 DisplayName]] "Manure x10000"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	HasIntermediateResult = false,
@@ -3849,7 +3898,7 @@ PlaceObj('ModItemRecipe', {
 			'amount', 5000000,
 		}),
 	},
-	MakeUntilMultiplier = 10,
+	MakeUntilMultiplier = 100,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -3865,14 +3914,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Compost_5000",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(989757032643, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm Description]] "Craft a durable armor piece from carbon nanotubes."),
+	Description = T(427977968907, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm Description]] "Craft a durable armor piece from carbon nanotubes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(348102975862, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm DisplayName]] "Carbon helm"),
+	DisplayName = T(842023657758, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm DisplayName]] "Carbon helm"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_helm",
@@ -3891,7 +3939,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -3908,14 +3955,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Helm",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 720000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(528662736091, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour Description]] "Craft a durable armor piece from carbon nanotubes."),
+	Description = T(748509017507, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour Description]] "Craft a durable armor piece from carbon nanotubes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(724141264960, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour DisplayName]] "Carbon vest"),
+	DisplayName = T(206540376590, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour DisplayName]] "Carbon vest"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_armor",
@@ -3934,7 +3980,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -3951,14 +3996,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Armour",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(285429879451, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants Description]] "Craft a durable armor piece from carbon nanotubes."),
+	Description = T(189768085583, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants Description]] "Craft a durable armor piece from carbon nanotubes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(321063335068, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants DisplayName]] "Carbon leggings"),
+	DisplayName = T(762668118076, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants DisplayName]] "Carbon leggings"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_pants",
@@ -3977,7 +4021,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -3994,14 +4037,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Pants",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(645638916917, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots Description]] "Craft a durable armor piece from carbon."),
+	Description = T(447618901148, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots Description]] "Craft a durable armor piece from carbon."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(989130236490, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots DisplayName]] "Carbon boots"),
+	DisplayName = T(873376700551, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots DisplayName]] "Carbon boots"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_boots",
@@ -4020,7 +4062,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4037,14 +4078,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Boots",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(129855972974, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm_Improved Description]] "Craft a durable armor piece from carbon nanotubes."),
+	Description = T(299737678460, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm_Improved Description]] "Craft a durable armor piece from carbon nanotubes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(945403822724, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm_Improved DisplayName]] "Carbon helm 2.0"),
+	DisplayName = T(212670425934, --[[ModItemRecipe MassPrint_Armor_Carbon_Helm_Improved DisplayName]] "Carbon helm 2.0"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_helm_improved",
@@ -4063,7 +4103,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4080,14 +4119,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Helm_Improved",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 720000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(287131813268, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour_Improved Description]] "Craft a durable armor piece from carbon nanotubes."),
+	Description = T(701126587247, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour_Improved Description]] "Craft a durable armor piece from carbon nanotubes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(590668617249, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour_Improved DisplayName]] "Carbon vest 2.0"),
+	DisplayName = T(316299429068, --[[ModItemRecipe MassPrint_Armor_Carbon_Armour_Improved DisplayName]] "Carbon vest 2.0"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_armor_improved",
@@ -4106,7 +4144,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4123,14 +4160,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Armour_Improved",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(453837537824, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants_Improved Description]] "Craft a durable armor piece from carbon nanotubes."),
+	Description = T(555063428448, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants_Improved Description]] "Craft a durable armor piece from carbon nanotubes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(468001898622, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants_Improved DisplayName]] "Carbon leggings 2.0"),
+	DisplayName = T(356248288598, --[[ModItemRecipe MassPrint_Armor_Carbon_Pants_Improved DisplayName]] "Carbon leggings 2.0"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_pants_improved",
@@ -4149,7 +4185,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4166,14 +4201,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Pants_Improved",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
-	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(239616722508, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots_Improved Description]] "Craft a durable armor piece from carbon."),
+	Description = T(356490337689, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots_Improved Description]] "Craft a durable armor piece from carbon."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(552213682203, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots_Improved DisplayName]] "Carbon boots 2.0"),
+	DisplayName = T(432232494645, --[[ModItemRecipe MassPrint_Armor_Carbon_Boots_Improved DisplayName]] "Carbon boots 2.0"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/carbon_boots_improved",
@@ -4192,7 +4225,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4209,14 +4241,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Carbon_Boots_Improved",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(689338581595, --[[ModItemRecipe MassPrint_Armor_Synthetic_Helm Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
+	Description = T(631531660468, --[[ModItemRecipe MassPrint_Armor_Synthetic_Helm Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(270502287904, --[[ModItemRecipe MassPrint_Armor_Synthetic_Helm DisplayName]] "Synthetic helm"),
+	DisplayName = T(122601171621, --[[ModItemRecipe MassPrint_Armor_Synthetic_Helm DisplayName]] "Synthetic helm"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/synthetic_helm",
@@ -4239,7 +4270,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 4,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4256,14 +4286,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Synthetic_Helm",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(575419756110, --[[ModItemRecipe MassPrint_Armor_Synthetic_Pants Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
+	Description = T(669666823950, --[[ModItemRecipe MassPrint_Armor_Synthetic_Pants Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(529843688385, --[[ModItemRecipe MassPrint_Armor_Synthetic_Pants DisplayName]] "Synthetic leggings"),
+	DisplayName = T(474243556359, --[[ModItemRecipe MassPrint_Armor_Synthetic_Pants DisplayName]] "Synthetic leggings"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/synthetic_pants",
@@ -4286,7 +4315,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 4,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4303,14 +4331,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Synthetic_Pants",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 720000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(187401960274, --[[ModItemRecipe MassPrint_Armor_Synthetic_Armour Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
+	Description = T(904569785694, --[[ModItemRecipe MassPrint_Armor_Synthetic_Armour Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(325924690179, --[[ModItemRecipe MassPrint_Armor_Synthetic_Armour DisplayName]] "Synthetic vest"),
+	DisplayName = T(467042926904, --[[ModItemRecipe MassPrint_Armor_Synthetic_Armour DisplayName]] "Synthetic vest"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/synthetic_armor",
@@ -4333,7 +4360,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 4,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4350,14 +4376,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Synthetic_Armour",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_AdvArmor_RecipeCategory",
-	Description = T(621400671544, --[[ModItemRecipe MassPrint_Armor_Synthetic_Boots Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
+	Description = T(922086149885, --[[ModItemRecipe MassPrint_Armor_Synthetic_Boots Description]] "Craft a durable armor piece from synthetic textiles reinforced with metal frame."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(715976766850, --[[ModItemRecipe MassPrint_Armor_Synthetic_Boots DisplayName]] "Synthetic boots"),
+	DisplayName = T(823281390329, --[[ModItemRecipe MassPrint_Armor_Synthetic_Boots DisplayName]] "Synthetic boots"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/synthetic_boots",
@@ -4380,7 +4405,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 4,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4397,14 +4421,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Synthetic_Boots",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(910734110522, --[[ModItemRecipe MassPrint_Armor_Leather_Helm Description]] "Craft a light armor piece from leather."),
+	Description = T(383607229358, --[[ModItemRecipe MassPrint_Armor_Leather_Helm Description]] "Craft a light armor piece from leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(276464389210, --[[ModItemRecipe MassPrint_Armor_Leather_Helm DisplayName]] "Leather helmet"),
+	DisplayName = T(271496514116, --[[ModItemRecipe MassPrint_Armor_Leather_Helm DisplayName]] "Leather helmet"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/leather_helm",
@@ -4423,7 +4446,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4440,14 +4462,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Leather_Helm",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 720000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(364287454007, --[[ModItemRecipe MassPrint_Armor_Leather_Armour Description]] "Craft a light armor piece from leather."),
+	Description = T(248613487884, --[[ModItemRecipe MassPrint_Armor_Leather_Armour Description]] "Craft a light armor piece from leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(718689151637, --[[ModItemRecipe MassPrint_Armor_Leather_Armour DisplayName]] "Leather vest"),
+	DisplayName = T(987255502355, --[[ModItemRecipe MassPrint_Armor_Leather_Armour DisplayName]] "Leather vest"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/leather_armor",
@@ -4466,7 +4487,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4483,14 +4503,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Leather_Armour",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(218884076654, --[[ModItemRecipe MassPrint_Armor_Leather_Pants Description]] "Craft a light armor piece from leather."),
+	Description = T(115108840052, --[[ModItemRecipe MassPrint_Armor_Leather_Pants Description]] "Craft a light armor piece from leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(274201360740, --[[ModItemRecipe MassPrint_Armor_Leather_Pants DisplayName]] "Leather leggings"),
+	DisplayName = T(410898299503, --[[ModItemRecipe MassPrint_Armor_Leather_Pants DisplayName]] "Leather leggings"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/leather_pants",
@@ -4509,7 +4528,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4527,13 +4545,12 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	Activity = "Tailoring",
-	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(807280708009, --[[ModItemRecipe MassPrint_Armor_Leather_Boots Description]] "Craft a light armor piece from leather."),
+	Description = T(434794758256, --[[ModItemRecipe MassPrint_Armor_Leather_Boots Description]] "Craft a light armor piece from leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(841636864351, --[[ModItemRecipe MassPrint_Armor_Leather_Boots DisplayName]] "Leather boots"),
+	DisplayName = T(146263639950, --[[ModItemRecipe MassPrint_Armor_Leather_Boots DisplayName]] "Leather boots"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/leather_boots",
@@ -4569,14 +4586,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_Leather_Boots",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(706356483738, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Helm Description]] "Craft a light armor piece from veggie leather."),
+	Description = T(509361698913, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Helm Description]] "Craft a light armor piece from veggie leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(733143052112, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Helm DisplayName]] "Veggie helmet"),
+	DisplayName = T(443950949725, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Helm DisplayName]] "Veggie helmet"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/veggie_leather_helm",
@@ -4595,7 +4611,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4612,14 +4627,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_VeggieLeather_Helm",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 720000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(811322778243, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Armour Description]] "Craft a light armor piece from veggie leather."),
+	Description = T(315778970953, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Armour Description]] "Craft a light armor piece from veggie leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(101224039526, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Armour DisplayName]] "Veggie vest"),
+	DisplayName = T(686818630304, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Armour DisplayName]] "Veggie vest"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/veggie_leather_armor",
@@ -4638,7 +4652,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4655,14 +4668,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_VeggieLeather_Armour",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(313483883003, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Pants Description]] "Craft a light armor piece from veggie leather."),
+	Description = T(282085339459, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Pants Description]] "Craft a light armor piece from veggie leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(862115899625, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Pants DisplayName]] "Veggie leggings"),
+	DisplayName = T(624789836598, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Pants DisplayName]] "Veggie leggings"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/veggie_leather_pants",
@@ -4681,7 +4693,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4698,14 +4709,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_VeggieLeather_Pants",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(434475650123, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Boots Description]] "Craft a light armor piece from veggie leather."),
+	Description = T(284483145912, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Boots Description]] "Craft a light armor piece from veggie leather."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(111550728450, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Boots DisplayName]] "Veggie boots"),
+	DisplayName = T(832369495851, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Boots DisplayName]] "Veggie boots"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/veggie_leather_boots",
@@ -4724,7 +4734,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4741,13 +4750,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Armor_VeggieLeather_Boots",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(782859474345, --[[ModItemRecipe MassPrint_BWpn_Spear Description]] "Smith a crude spear with wooden handle and scrap metal blade."),
+	Description = T(354271396705, --[[ModItemRecipe MassPrint_BWpn_Spear Description]] "Smith a crude spear with wooden handle and scrap metal blade."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(355590441530, --[[ModItemRecipe MassPrint_BWpn_Spear DisplayName]] "Spear x10"),
+	DisplayName = T(586628172781, --[[ModItemRecipe MassPrint_BWpn_Spear DisplayName]] "Spear x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/spear",
@@ -4767,7 +4775,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Melee_Spear",
@@ -4783,14 +4790,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_BWpn_Spear",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 400000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(227578023302, --[[ModItemRecipe MassPrint_BWpn_Crossbow Description]] "Craft a crude crossbow from wood and refined metal."),
+	Description = T(993242447186, --[[ModItemRecipe MassPrint_BWpn_Crossbow Description]] "Craft a crude crossbow from wood and refined metal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(886743546475, --[[ModItemRecipe MassPrint_BWpn_Crossbow DisplayName]] "Crossbow x10"),
+	DisplayName = T(352012264013, --[[ModItemRecipe MassPrint_BWpn_Crossbow DisplayName]] "Crossbow x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/crossbow",
@@ -4810,7 +4816,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 2,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4827,14 +4832,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_BWpn_Crossbow",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(262559032932, --[[ModItemRecipe MassPrint_BWpn_ShortBow Description]] "Craft a crude bow with sticks and fabric tendon."),
+	Description = T(339199763956, --[[ModItemRecipe MassPrint_BWpn_ShortBow Description]] "Craft a crude bow with sticks and fabric tendon."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(112908793755, --[[ModItemRecipe MassPrint_BWpn_ShortBow DisplayName]] "Short bow x10"),
+	DisplayName = T(768457807989, --[[ModItemRecipe MassPrint_BWpn_ShortBow DisplayName]] "Short bow x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 4,
 	Icon = "UI/Icons/Items/short_bow",
@@ -4854,7 +4858,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4871,15 +4874,14 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_BWpn_ShortBow",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 400000,
 	ActivityXPGrade = "Crafting_High",
 	ApplyResRequirements = false,
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(686416641456, --[[ModItemRecipe MassPrint_AWpn_Pacifier Description]] "Craft a short-range crossbow capable of delivering tranquilizer bolts."),
+	Description = T(926276287345, --[[ModItemRecipe MassPrint_AWpn_Pacifier Description]] "Craft a short-range crossbow capable of delivering tranquilizer bolts."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(208708952172, --[[ModItemRecipe MassPrint_AWpn_Pacifier DisplayName]] "Pacifier x10"),
+	DisplayName = T(554496936433, --[[ModItemRecipe MassPrint_AWpn_Pacifier DisplayName]] "Pacifier x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/pacifier",
@@ -4906,7 +4908,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 2,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4924,14 +4925,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_Pacifier",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 400000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(388597319858, --[[ModItemRecipe MassPrint_AWpn_Carbon_Crossbow Description]] "Craft an advanced crossbow from carbon nanotubes and synthetics."),
+	Description = T(926643556270, --[[ModItemRecipe MassPrint_AWpn_Carbon_Crossbow Description]] "Craft an advanced crossbow from carbon nanotubes and synthetics."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(618034223745, --[[ModItemRecipe MassPrint_AWpn_Carbon_Crossbow DisplayName]] "Carbon crossbow x10"),
+	DisplayName = T(965453985138, --[[ModItemRecipe MassPrint_AWpn_Carbon_Crossbow DisplayName]] "Carbon crossbow x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/carbon_crossbow",
@@ -4950,7 +4950,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 2,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -4967,14 +4966,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_Carbon_Crossbow",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 600000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(344561310513, --[[ModItemRecipe MassPrint_AWpn_LaserPike Description]] "Rig several power cells to a carbon nanotube handle to make a laser pike."),
+	Description = T(261283625454, --[[ModItemRecipe MassPrint_AWpn_LaserPike Description]] "Rig several power cells to a carbon nanotube handle to make a laser pike."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(445938921014, --[[ModItemRecipe MassPrint_AWpn_LaserPike DisplayName]] "Laser pike x10"),
+	DisplayName = T(322916932726, --[[ModItemRecipe MassPrint_AWpn_LaserPike DisplayName]] "Laser pike x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/laser_pike",
@@ -5001,7 +4999,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5018,15 +5015,14 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_LaserPike",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 720000,
 	ActivityXPGrade = "Crafting_High",
 	ApplyResRequirements = false,
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(216727213718, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster Description]] "Craft a light pistol with metal, power cells and CPU Cores."),
+	Description = T(408772674201, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster Description]] "Craft a light pistol with metal, power cells and CPU Cores."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(424255871843, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster DisplayName]] "Laser pistol x10"),
+	DisplayName = T(392682155715, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster DisplayName]] "Laser pistol x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 6,
 	Icon = "UI/Icons/Items/laser_blaster",
@@ -5053,7 +5049,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5071,14 +5066,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_LaserBlaster",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 600000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(579319654002, --[[ModItemRecipe MassPrint_AWpn_Laser_Sword Description]] "Rig several power cells to a carbon nanotube handle to make a laser sword"),
+	Description = T(488103555679, --[[ModItemRecipe MassPrint_AWpn_Laser_Sword Description]] "Rig several power cells to a carbon nanotube handle to make a laser sword"),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(279413817392, --[[ModItemRecipe MassPrint_AWpn_Laser_Sword DisplayName]] "Laser Sword x10"),
+	DisplayName = T(874771027821, --[[ModItemRecipe MassPrint_AWpn_Laser_Sword DisplayName]] "Laser Sword x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/laser_sword",
@@ -5109,7 +5103,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5126,14 +5119,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_Laser_Sword",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 720000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(695888911662, --[[ModItemRecipe MassPrint_AWpn_PulseRifle Description]] "Craft a massive pulse rifle from metal and power cells."),
+	Description = T(542634889580, --[[ModItemRecipe MassPrint_AWpn_PulseRifle Description]] "Craft a massive pulse rifle from metal and power cells."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(125797549703, --[[ModItemRecipe MassPrint_AWpn_PulseRifle DisplayName]] "Pulse rifle x10"),
+	DisplayName = T(796357054033, --[[ModItemRecipe MassPrint_AWpn_PulseRifle DisplayName]] "Pulse rifle x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/pulse_riffle",
@@ -5160,7 +5152,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 4,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5178,14 +5169,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_PulseRifle",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 800000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(480171162195, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper Description]] "Craft a light long-range sniper from carbon nanotubes, power cells and CPU Cores."),
+	Description = T(187862496202, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper Description]] "Craft a light long-range sniper from carbon nanotubes, power cells and CPU Cores."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(232457719031, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper DisplayName]] "Railgun sniper x10"),
+	DisplayName = T(329783565925, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper DisplayName]] "Railgun sniper x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/railgun_sniper",
@@ -5216,7 +5206,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5234,14 +5223,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_RailgunSniper",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 800000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(105205035295, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster_Improved Description]] "Craft an improved version of the Laser pistol."),
+	Description = T(688572314335, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster_Improved Description]] "Craft an improved version of the Laser pistol."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(426533261018, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster_Improved DisplayName]] "Laser pistol 2.0"),
+	DisplayName = T(781331667376, --[[ModItemRecipe MassPrint_AWpn_LaserBlaster_Improved DisplayName]] "Laser pistol 2.0"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 8,
 	Icon = "UI/Icons/Items/laser_blaster_improved",
@@ -5268,7 +5256,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 6,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5286,14 +5273,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_LaserBlaster_Improved",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 800000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(777670146322, --[[ModItemRecipe MassPrint_AWpn_PulseRifle_Improved Description]] "Craft an improved version of the Pulse rifle."),
+	Description = T(108025425135, --[[ModItemRecipe MassPrint_AWpn_PulseRifle_Improved Description]] "Craft an improved version of the Pulse rifle."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(190472753025, --[[ModItemRecipe MassPrint_AWpn_PulseRifle_Improved DisplayName]] "Pulse rifle 2.0 x10"),
+	DisplayName = T(267617296643, --[[ModItemRecipe MassPrint_AWpn_PulseRifle_Improved DisplayName]] "Pulse rifle 2.0 x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 9,
 	Icon = "UI/Icons/Items/pulse_riffle_improved",
@@ -5320,7 +5306,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 7,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5338,14 +5323,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_PulseRifle_Improved",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 960000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(940551072197, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper_Improved Description]] "Print an improved version of the Railgun sniper."),
+	Description = T(444205963985, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper_Improved Description]] "Print an improved version of the Railgun sniper."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(611416426342, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper_Improved DisplayName]] "Railgun sniper 2.0 x10"),
+	DisplayName = T(353931627309, --[[ModItemRecipe MassPrint_AWpn_RailgunSniper_Improved DisplayName]] "Railgun sniper 2.0 x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 10,
 	Icon = "UI/Icons/Items/railgun_sniper_improved",
@@ -5376,7 +5360,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 8,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5398,9 +5381,9 @@ PlaceObj('ModItemRecipe', {
 	ActivityDuration = 20000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "CraftWeapons",
-	Description = T(673253628046, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe Description]] "Craft an improved version of the Pulse rifle."),
+	Description = T(911613610532, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe Description]] "Craft an improved version of the Pulse rifle."),
 	DestroyOnFail = false,
-	DisplayName = T(908823073331, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe DisplayName]] "Rapid Pulse-Rifle"),
+	DisplayName = T(837372297357, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe DisplayName]] "Rapid Pulse-Rifle"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 9,
 	Icon = "Mod/H5Xfcfc/Images/download_1_44x44 2.png",
@@ -5447,14 +5430,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_RapidPulse_RifleRecipe",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 20000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
-	Description = T(382540128223, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe_Printer Description]] "Craft an improved version of the Pulse rifle."),
+	Description = T(439493947233, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe_Printer Description]] "Craft an improved version of the Pulse rifle."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(557582442688, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe_Printer DisplayName]] "Rapid Pulse-Rifle x10"),
+	DisplayName = T(565779540235, --[[ModItemRecipe MassPrint_AWpn_RapidPulse_RifleRecipe_Printer DisplayName]] "Rapid Pulse-Rifle x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 9,
 	Icon = "Mod/H5Xfcfc/Images/download_1_44x44.png",
@@ -5488,7 +5470,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "MassPrint_RapidPulse_Rifle",
@@ -5504,13 +5485,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_AWpn_RapidPulse_RifleRecipe_Printer",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 160000,
 	BuildCategory = "MassPrint_SummerClothing_Category",
-	Description = T(420443678032, --[[ModItemRecipe MassPrint_Summer_StrawHat Description]] "Sew a light straw hat."),
+	Description = T(327383965378, --[[ModItemRecipe MassPrint_Summer_StrawHat Description]] "Sew a light straw hat."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(241937276607, --[[ModItemRecipe MassPrint_Summer_StrawHat DisplayName]] "Straw hat"),
+	DisplayName = T(912604629595, --[[ModItemRecipe MassPrint_Summer_StrawHat DisplayName]] "Straw hat"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/hat_straw",
@@ -5526,7 +5506,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Hat_Light_Straw",
@@ -5542,13 +5521,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Summer_StrawHat",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 160000,
 	BuildCategory = "MassPrint_SummerClothing_Category",
-	Description = T(499193663625, --[[ModItemRecipe MassPrint_Summer_Hat Description]] "Sew a light baseball cap."),
+	Description = T(205357918353, --[[ModItemRecipe MassPrint_Summer_Hat Description]] "Sew a light baseball cap."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(444285573779, --[[ModItemRecipe MassPrint_Summer_Hat DisplayName]] "Baseball cap"),
+	DisplayName = T(652868657937, --[[ModItemRecipe MassPrint_Summer_Hat DisplayName]] "Baseball cap"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/hat",
@@ -5564,7 +5542,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Hat_Light_Good",
@@ -5580,13 +5557,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Summer_Hat",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 320000,
 	BuildCategory = "MassPrint_SummerClothing_Category",
-	Description = T(797611322755, --[[ModItemRecipe MassPrint_Summer_Shirt Description]] "Sew a light textile T-shirt."),
+	Description = T(245807190525, --[[ModItemRecipe MassPrint_Summer_Shirt Description]] "Sew a light textile T-shirt."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(190265402052, --[[ModItemRecipe MassPrint_Summer_Shirt DisplayName]] "T-shirt"),
+	DisplayName = T(332910621756, --[[ModItemRecipe MassPrint_Summer_Shirt DisplayName]] "T-shirt"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/tshirt",
@@ -5602,7 +5578,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Shirt_Light_Crude",
@@ -5618,13 +5593,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Summer_Shirt",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	BuildCategory = "MassPrint_SummerClothing_Category",
-	Description = T(932899072622, --[[ModItemRecipe MassPrint_Summer_Jacket Description]] "Sew a light jacket."),
+	Description = T(585166252084, --[[ModItemRecipe MassPrint_Summer_Jacket Description]] "Sew a light jacket."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(108404675303, --[[ModItemRecipe MassPrint_Summer_Jacket DisplayName]] "Jacket"),
+	DisplayName = T(546856685733, --[[ModItemRecipe MassPrint_Summer_Jacket DisplayName]] "Jacket"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/jacket",
@@ -5640,7 +5614,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Jacket_Light_Good",
@@ -5656,13 +5629,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Summer_Jacket",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 320000,
 	BuildCategory = "MassPrint_SummerClothing_Category",
-	Description = T(491447930389, --[[ModItemRecipe MassPrint_Summer_Pants Description]] "Sew light textile pants."),
+	Description = T(635027636494, --[[ModItemRecipe MassPrint_Summer_Pants Description]] "Sew light textile pants."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(265840105567, --[[ModItemRecipe MassPrint_Summer_Pants DisplayName]] "Summer pants"),
+	DisplayName = T(852055542460, --[[ModItemRecipe MassPrint_Summer_Pants DisplayName]] "Summer pants"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/pants_cotton",
@@ -5678,7 +5650,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5695,13 +5666,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Summer_Pants",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_SummerClothing_Category",
-	Description = T(930293313737, --[[ModItemRecipe MassPrint_Summer_Boots Description]] "Sew light shoes."),
+	Description = T(222280436749, --[[ModItemRecipe MassPrint_Summer_Boots Description]] "Sew light shoes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(487191617772, --[[ModItemRecipe MassPrint_Summer_Boots DisplayName]] "Summer shoes"),
+	DisplayName = T(227323572400, --[[ModItemRecipe MassPrint_Summer_Boots DisplayName]] "Summer shoes"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/shoes_leather",
@@ -5717,7 +5687,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5734,13 +5703,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Summer_Boots",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 160000,
 	BuildCategory = "MassPrint_MidSeasonClothing_Category",
-	Description = T(564343246070, --[[ModItemRecipe MassPrint_MidSeason_Hat Description]] "Sew a warm beanie."),
+	Description = T(134773573604, --[[ModItemRecipe MassPrint_MidSeason_Hat Description]] "Sew a warm beanie."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(565954259770, --[[ModItemRecipe MassPrint_MidSeason_Hat DisplayName]] "Beanie"),
+	DisplayName = T(263132860249, --[[ModItemRecipe MassPrint_MidSeason_Hat DisplayName]] "Beanie"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 4,
 	Icon = "UI/Icons/Items/hat_2",
@@ -5756,7 +5724,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5773,13 +5740,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_MidSeason_Hat",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 320000,
 	BuildCategory = "MassPrint_MidSeasonClothing_Category",
-	Description = T(721267294147, --[[ModItemRecipe MassPrint_MidSeason_Shirt Description]] "Sew a light textile shirt."),
+	Description = T(895066528825, --[[ModItemRecipe MassPrint_MidSeason_Shirt Description]] "Sew a light textile shirt."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(963306564214, --[[ModItemRecipe MassPrint_MidSeason_Shirt DisplayName]] "Shirt"),
+	DisplayName = T(930441241722, --[[ModItemRecipe MassPrint_MidSeason_Shirt DisplayName]] "Shirt"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/shirt_blue",
@@ -5795,7 +5761,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5812,13 +5777,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_MidSeason_Shirt",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	BuildCategory = "MassPrint_MidSeasonClothing_Category",
-	Description = T(338004234018, --[[ModItemRecipe MassPrint_MidSeason_Jacket Description]] "Sew a warm coat."),
+	Description = T(301725721238, --[[ModItemRecipe MassPrint_MidSeason_Jacket Description]] "Sew a warm coat."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(989465388278, --[[ModItemRecipe MassPrint_MidSeason_Jacket DisplayName]] "Coat"),
+	DisplayName = T(364162550847, --[[ModItemRecipe MassPrint_MidSeason_Jacket DisplayName]] "Coat"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 4,
 	Icon = "UI/Icons/Items/coat",
@@ -5834,7 +5798,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5851,13 +5814,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_MidSeason_Jacket",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 320000,
 	BuildCategory = "MassPrint_MidSeasonClothing_Category",
-	Description = T(456435111945, --[[ModItemRecipe MassPrint_MidSeason_Pants Description]] "Sew light textile trousers."),
+	Description = T(479298971032, --[[ModItemRecipe MassPrint_MidSeason_Pants Description]] "Sew light textile trousers."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(613673306932, --[[ModItemRecipe MassPrint_MidSeason_Pants DisplayName]] "Trousers"),
+	DisplayName = T(365993921380, --[[ModItemRecipe MassPrint_MidSeason_Pants DisplayName]] "Trousers"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 4,
 	Icon = "UI/Icons/Items/pants_dark",
@@ -5873,7 +5835,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5890,13 +5851,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_MidSeason_Pants",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_MidSeasonClothing_Category",
-	Description = T(808096506497, --[[ModItemRecipe MassPrint_MidSeason_Boots Description]] "Sew sturdier light shoes."),
+	Description = T(742859027310, --[[ModItemRecipe MassPrint_MidSeason_Boots Description]] "Sew sturdier light shoes."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(937004827595, --[[ModItemRecipe MassPrint_MidSeason_Boots DisplayName]] "Sneakers"),
+	DisplayName = T(599563730899, --[[ModItemRecipe MassPrint_MidSeason_Boots DisplayName]] "Sneakers"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/shoes_nylon",
@@ -5912,7 +5872,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5929,13 +5888,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_MidSeason_Boots",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 160000,
 	BuildCategory = "MassPrint_WinterClothing_Category",
-	Description = T(159034723940, --[[ModItemRecipe MassPrint_Winter_Hat Description]] "Sew a warm leather cap padded with textile."),
+	Description = T(436428988019, --[[ModItemRecipe MassPrint_Winter_Hat Description]] "Sew a warm leather cap padded with textile."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(979316736522, --[[ModItemRecipe MassPrint_Winter_Hat DisplayName]] "Fur cap"),
+	DisplayName = T(548548995284, --[[ModItemRecipe MassPrint_Winter_Hat DisplayName]] "Fur cap"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/hat_3",
@@ -5955,7 +5913,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 2,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -5975,10 +5932,10 @@ PlaceObj('ModItemRecipe', {
 	Activity = "Tailoring",
 	ActivityDuration = 320000,
 	BuildCategory = "MassPrint_WinterClothing_Category",
-	Description = T(539372429884, --[[ModItemRecipe MassPrint_Winter_Shirt Description]] "Sew a warm textile sweater."),
+	Description = T(452736017801, --[[ModItemRecipe MassPrint_Winter_Shirt Description]] "Sew a warm textile sweater."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(804443992602, --[[ModItemRecipe MassPrint_Winter_Shirt DisplayName]] "Sweater"),
+	DisplayName = T(985727314559, --[[ModItemRecipe MassPrint_Winter_Shirt DisplayName]] "Sweater"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 4,
 	Icon = "UI/Icons/Items/shirt_cotton",
@@ -5994,7 +5951,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6011,13 +5967,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Winter_Shirt",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	BuildCategory = "MassPrint_WinterClothing_Category",
-	Description = T(914754170987, --[[ModItemRecipe MassPrint_Winter_Jacket Description]] "Sew a leather coat padded with textile."),
+	Description = T(161183456127, --[[ModItemRecipe MassPrint_Winter_Jacket Description]] "Sew a leather coat padded with textile."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(784013828786, --[[ModItemRecipe MassPrint_Winter_Jacket DisplayName]] "Fur coat"),
+	DisplayName = T(767984115217, --[[ModItemRecipe MassPrint_Winter_Jacket DisplayName]] "Fur coat"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/fur_coat",
@@ -6037,7 +5992,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 2,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6054,13 +6008,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Winter_Jacket",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 320000,
 	BuildCategory = "MassPrint_WinterClothing_Category",
-	Description = T(722852145864, --[[ModItemRecipe MassPrint_Winter_Pants Description]] "Sew warm leather pants padded with textile."),
+	Description = T(628970476596, --[[ModItemRecipe MassPrint_Winter_Pants Description]] "Sew warm leather pants padded with textile."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(782150416408, --[[ModItemRecipe MassPrint_Winter_Pants DisplayName]] "Thermal pants"),
+	DisplayName = T(354976278074, --[[ModItemRecipe MassPrint_Winter_Pants DisplayName]] "Thermal pants"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/pants_nylon",
@@ -6080,7 +6033,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 2,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6097,13 +6049,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Winter_Pants",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_WinterClothing_Category",
-	Description = T(100550051958, --[[ModItemRecipe MassPrint_Winter_Boots Description]] "Sew warm leather shoes padded with textile."),
+	Description = T(907620598411, --[[ModItemRecipe MassPrint_Winter_Boots Description]] "Sew warm leather shoes padded with textile."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(156417516090, --[[ModItemRecipe MassPrint_Winter_Boots DisplayName]] "Boots"),
+	DisplayName = T(424769602153, --[[ModItemRecipe MassPrint_Winter_Boots DisplayName]] "Boots"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 5,
 	Icon = "UI/Icons/Items/shoes_boots",
@@ -6123,7 +6074,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 2,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6140,14 +6090,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Winter_Boots",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 240000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Components_RecipeCategory",
-	Description = T(632442397185, --[[ModItemRecipe MassPrint_Comp_Electronics Description]] "Solder circuit boards."),
+	Description = T(729644177512, --[[ModItemRecipe MassPrint_Comp_Electronics Description]] "Solder circuit boards."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(697544009065, --[[ModItemRecipe MassPrint_Comp_Electronics DisplayName]] "Electronics x10"),
+	DisplayName = T(888739373446, --[[ModItemRecipe MassPrint_Comp_Electronics DisplayName]] "Electronics x10"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 4,
 	Icon = "UI/Icons/Items/scrap_electronics",
@@ -6173,7 +6122,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 1,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6190,14 +6138,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_Electronics",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Components_RecipeCategory",
-	Description = T(669386617980, --[[ModItemRecipe MassPrint_Comp_CPUCore Description]] "Print CPU Cores from Silicon and metal alloys."),
+	Description = T(736269439048, --[[ModItemRecipe MassPrint_Comp_CPUCore Description]] "Print CPU Cores from Silicon and metal alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(654004081503, --[[ModItemRecipe MassPrint_Comp_CPUCore DisplayName]] "CPU Cores x10"),
+	DisplayName = T(285761333899, --[[ModItemRecipe MassPrint_Comp_CPUCore DisplayName]] "CPU Cores x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/cpu_cores",
@@ -6220,7 +6167,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 3,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6237,14 +6183,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_CPUCore",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Components_RecipeCategory",
-	Description = T(361714091020, --[[ModItemRecipe MassPrint_Comp_PowerCell Description]] "Solder Power cells from energy crystals and electronics."),
+	Description = T(492093309232, --[[ModItemRecipe MassPrint_Comp_PowerCell Description]] "Solder Power cells from energy crystals and electronics."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(927976464193, --[[ModItemRecipe MassPrint_Comp_PowerCell DisplayName]] "Power cells x10"),
+	DisplayName = T(967682082772, --[[ModItemRecipe MassPrint_Comp_PowerCell DisplayName]] "Power cells x10"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 4,
 	Icon = "UI/Icons/Items/power_cell",
@@ -6271,7 +6216,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 4,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6288,13 +6232,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_PowerCell",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "MassPrint_Components_RecipeCategory",
-	Description = T(133196772552, --[[ModItemRecipe MassPrint_Comp_AI_Cores Description]] "Print AI cores from raw resources."),
+	Description = T(358190335939, --[[ModItemRecipe MassPrint_Comp_AI_Cores Description]] "Print AI cores from raw resources."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(586190430016, --[[ModItemRecipe MassPrint_Comp_AI_Cores DisplayName]] "AI Core x10"),
+	DisplayName = T(253078466728, --[[ModItemRecipe MassPrint_Comp_AI_Cores DisplayName]] "AI Core x10"),
 	Icon = "UI/Icons/Items/ai_core",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6319,7 +6262,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6336,13 +6278,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_AI_Cores",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "CraftInPrinter",
-	Description = T(943551622461, --[[ModItemRecipe MassPrint_Comp_AI_Cores_Single Description]] "Print AI cores from raw resources."),
+	Description = T(289013806230, --[[ModItemRecipe MassPrint_Comp_AI_Cores_Single Description]] "Print AI cores from raw resources."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(337202483770, --[[ModItemRecipe MassPrint_Comp_AI_Cores_Single DisplayName]] "AI Core"),
+	DisplayName = T(425275985176, --[[ModItemRecipe MassPrint_Comp_AI_Cores_Single DisplayName]] "AI Core"),
 	Icon = "UI/Icons/Items/ai_core",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6382,14 +6323,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_AI_Cores_Single",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "MassPrint_Components_RecipeCategory",
-	Description = T(945798557424, --[[ModItemRecipe MassPrint_Comp_Mech_Cores Description]] "Solder Mech core from CPU Cores and Power cells."),
+	Description = T(540619943939, --[[ModItemRecipe MassPrint_Comp_Mech_Cores Description]] "Solder Mech core from CPU Cores and Power cells."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(532838323542, --[[ModItemRecipe MassPrint_Comp_Mech_Cores DisplayName]] "Mech core x10"),
+	DisplayName = T(349565950735, --[[ModItemRecipe MassPrint_Comp_Mech_Cores DisplayName]] "Mech core x10"),
 	Icon = "UI/Icons/Items/mech_core",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6414,7 +6354,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6431,14 +6370,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_Mech_Cores",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "CraftInPrinter",
-	Description = T(700091292804, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single Description]] "Solder Mech core from CPU Cores and Power cells."),
+	Description = T(264626336489, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single Description]] "Solder Mech core from CPU Cores and Power cells."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(580429402468, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single DisplayName]] "Mech core"),
+	DisplayName = T(329627406593, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single DisplayName]] "Mech core"),
 	Icon = "UI/Icons/Items/mech_core",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6463,7 +6401,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6484,8 +6421,8 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Crafting_High",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "Assemble",
-	Description = T(253800683150, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single_Solder Description]] "Solder Mech core from CPU Cores and Power cells."),
-	DisplayName = T(345206014310, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single_Solder DisplayName]] "Mech core"),
+	Description = T(712604295115, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single_Solder Description]] "Solder Mech core from CPU Cores and Power cells."),
+	DisplayName = T(550335258086, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Single_Solder DisplayName]] "Mech core"),
 	Icon = "UI/Icons/Items/mech_core",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6524,8 +6461,8 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Crafting_High",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "Assemble",
-	Description = T(677545502508, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Manual Description]] "Solder Mech core from CPU Cores and Power cells."),
-	DisplayName = T(186590712516, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Manual DisplayName]] "Mech core"),
+	Description = T(885476190046, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Manual Description]] "Solder Mech core from CPU Cores and Power cells."),
+	DisplayName = T(627463313999, --[[ModItemRecipe MassPrint_Comp_Mech_Cores_Manual DisplayName]] "Mech core"),
 	Icon = "UI/Icons/Items/mech_core",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6559,14 +6496,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_Mech_Cores_Manual",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "MassPrint_Components_RecipeCategory",
-	Description = T(121819398644, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix Description]] "Solder Fabricator matrixes from Metal and CPU Cores."),
+	Description = T(931560912837, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix Description]] "Solder Fabricator matrixes from Metal and CPU Cores."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(125098230383, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix DisplayName]] "Fabricator matrix x10"),
+	DisplayName = T(817482887797, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix DisplayName]] "Fabricator matrix x10"),
 	Icon = "UI/Icons/Items/matter_generator",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6594,7 +6530,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6611,14 +6546,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_Fabricator_Matrix",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Assembling",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "CraftInPrinter",
-	Description = T(107876838149, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single Description]] "Solder Fabricator matrixes from Metal and CPU Cores."),
+	Description = T(412802962511, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single Description]] "Solder Fabricator matrixes from Metal and CPU Cores."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(585506530756, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single DisplayName]] "Fabricator matrix"),
+	DisplayName = T(922205401423, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single DisplayName]] "Fabricator matrix"),
 	Icon = "UI/Icons/Items/matter_generator",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6666,9 +6600,9 @@ PlaceObj('ModItemRecipe', {
 	ActivityXPGrade = "Crafting_High",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "Assemble",
-	Description = T(205782087033, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single_Solder Description]] "Solder Fabricator matrixes from Metal and CPU Cores."),
+	Description = T(671326865267, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single_Solder Description]] "Solder Fabricator matrixes from Metal and CPU Cores."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(500841003820, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single_Solder DisplayName]] "Fabricator matrix"),
+	DisplayName = T(803751033300, --[[ModItemRecipe MassPrint_Comp_Fabricator_Matrix_Single_Solder DisplayName]] "Fabricator matrix"),
 	Icon = "UI/Icons/Items/matter_generator",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6696,6 +6630,7 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
+	ManualWork = true,
 	MinSkillLevel = 5,
 	OutputResources = {
 		PlaceObj('ResAmount', {
@@ -6711,14 +6646,13 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Comp_Fabricator_Matrix_Single_Solder",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 40000,
 	ActivityXPGrade = "Crafting_Low",
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
 	BuildCategory = "MassPrint_Components_RecipeCategory",
-	Description = T(419270419647, --[[ModItemRecipe MassPrint_Comp_Spare_Parts Description]] "Put together spare parts for fixing damaged androids and robots."),
+	Description = T(208014939219, --[[ModItemRecipe MassPrint_Comp_Spare_Parts Description]] "Put together spare parts for fixing damaged androids and robots."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(626895288690, --[[ModItemRecipe MassPrint_Comp_Spare_Parts DisplayName]] "Spare parts x50"),
+	DisplayName = T(574347840665, --[[ModItemRecipe MassPrint_Comp_Spare_Parts DisplayName]] "Spare parts x50"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/spare_parts",
@@ -6741,7 +6675,7 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 50,
+	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "RepairParts",
@@ -6758,9 +6692,9 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "CraftInPrinter",
-	Description = T(125715692262, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_100 Description]] "Mass print carbon nanotubes from raw grain and ore."),
+	Description = T(815854548427, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_100 Description]] "Mass print carbon nanotubes from raw grain and ore."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(199667369463, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_100 DisplayName]] "Carbon Nanotubes x100"),
+	DisplayName = T(891497592771, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_100 DisplayName]] "Carbon Nanotubes x100"),
 	Icon = "UI/Icons/Items/carbon_nanotubes",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6778,7 +6712,7 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 100,
+	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "CarbonNanotubes",
@@ -6795,10 +6729,10 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "CraftInPrinter",
-	Description = T(347884336104, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_1000 Description]] "Mass print carbon nanotubes from raw grain and ore."),
+	Description = T(573655296120, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_1000 Description]] "Mass print carbon nanotubes from raw grain and ore."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(507212498682, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_1000 DisplayName]] "Carbon nanotubes x1000"),
+	DisplayName = T(129467808330, --[[ModItemRecipe MassPrint_Res_Carbon_Tubes_1000 DisplayName]] "Carbon nanotubes x1000"),
 	Icon = "UI/Icons/Items/carbon_nanotubes",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6816,7 +6750,7 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 1000,
+	MakeUntilMultiplier = 100,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "CarbonNanotubes",
@@ -6833,14 +6767,55 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "CraftInPrinter",
-	Description = T(782958480617, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_100 Description]] "Print Synthetic textiles from Grain."),
+	Description = T(392534890873, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_100 Description]] "Print Synthetic textiles from Grain."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(463597981558, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_100 DisplayName]] "Synthetic textiles x100"),
+	DisplayName = T(559296777921, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_100 DisplayName]] "Synthetic textiles x100"),
 	Icon = "UI/Icons/Items/synthetics",
 	InputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Grain",
 			'amount', 100000,
+		}),
+	},
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrintingResearch",
+		}),
+		PlaceObj('CheckResourceUnlocked', {
+			Resource = "Synthetics",
+			ResourceGroup = "CraftingMaterials",
+		}),
+		PlaceObj('CheckTech', {
+			Tech = "SyntheticsProduction",
+		}),
+	},
+	LockState = "hidden",
+	MakeUntilMultiplier = 10,
+	OutputResources = {
+		PlaceObj('ResAmount', {
+			'resource', "Synthetics",
+			'amount', 100000,
+		}),
+	},
+	RequiredDeviceInterfaces = {
+		"Printer3DInterface",
+	},
+	SortKey = 33,
+	Unfinished = true,
+	group = "Printer",
+	id = "MassPrint_Res_Synthetics_FromGrain_100",
+}),
+PlaceObj('ModItemRecipe', {
+	BuildCategory = "CraftInPrinter",
+	Description = T(863145728734, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_1000 Description]] "Mass print Synthetic Textiles from raw grain"),
+	DestroyOnFail = false,
+	DeviceWorkTime = 240000,
+	DisplayName = T(987109776081, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_1000 DisplayName]] "Synthetic textiles x1000"),
+	Icon = "UI/Icons/Items/synthetics",
+	InputResources = {
+		PlaceObj('ResAmount', {
+			'resource', "Grain",
+			'amount', 1000000,
 		}),
 	},
 	LockPrerequisites = {
@@ -6860,47 +6835,6 @@ PlaceObj('ModItemRecipe', {
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Synthetics",
-			'amount', 100000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"Printer3DInterface",
-	},
-	SortKey = 33,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Res_Synthetics_FromGrain_100",
-}),
-PlaceObj('ModItemRecipe', {
-	BuildCategory = "CraftInPrinter",
-	Description = T(181702045255, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_1000 Description]] "Mass print Synthetic Textiles from raw grain"),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(617470101213, --[[ModItemRecipe MassPrint_Res_Synthetics_FromGrain_1000 DisplayName]] "Synthetic textiles x1000"),
-	Icon = "UI/Icons/Items/synthetics",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Grain",
-			'amount', 1000000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckResourceUnlocked', {
-			Resource = "Synthetics",
-			ResourceGroup = "CraftingMaterials",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "SyntheticsProduction",
-		}),
-	},
-	LockState = "hidden",
-	MakeUntilMultiplier = 1000,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Synthetics",
 			'amount', 1000000,
 		}),
 	},
@@ -6914,9 +6848,9 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "CraftInPrinter",
-	Description = T(775817076256, --[[ModItemRecipe MassPrint_Res_LiquidFuel_100 Description]] "Print Liquid Fuel from Grain."),
+	Description = T(742159604513, --[[ModItemRecipe MassPrint_Res_LiquidFuel_100 Description]] "Print Liquid Fuel from Grain."),
 	DeviceWorkTime = 240000,
-	DisplayName = T(395682475888, --[[ModItemRecipe MassPrint_Res_LiquidFuel_100 DisplayName]] "Liquid Fuel x100"),
+	DisplayName = T(254309462388, --[[ModItemRecipe MassPrint_Res_LiquidFuel_100 DisplayName]] "Liquid Fuel x100"),
 	Icon = "UI/Icons/Items/oil",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6934,7 +6868,7 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 100,
+	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "LiquidFuel",
@@ -6951,10 +6885,10 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "CraftInPrinter",
-	Description = T(851206804710, --[[ModItemRecipe MassPrint_Res_LiquidFuel_1000 Description]] "Print Liquid Fuel from Grain."),
+	Description = T(259218847968, --[[ModItemRecipe MassPrint_Res_LiquidFuel_1000 Description]] "Print Liquid Fuel from Grain."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(515532905617, --[[ModItemRecipe MassPrint_Res_LiquidFuel_1000 DisplayName]] "Liquid Fuel x1000"),
+	DisplayName = T(810798847357, --[[ModItemRecipe MassPrint_Res_LiquidFuel_1000 DisplayName]] "Liquid Fuel x1000"),
 	Icon = "UI/Icons/Items/oil",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -6968,7 +6902,7 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 1000,
+	MakeUntilMultiplier = 100,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "LiquidFuel",
@@ -6985,10 +6919,10 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "CraftInPrinter",
-	Description = T(993352530653, --[[ModItemRecipe MassPrint_Res_ScrapMetal_FromAlloys_100 Description]] "Print Scrap Metal from Metal Alloys."),
+	Description = T(254529823168, --[[ModItemRecipe MassPrint_Res_ScrapMetal_FromAlloys_100 Description]] "Print Scrap Metal from Metal Alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(351532834522, --[[ModItemRecipe MassPrint_Res_ScrapMetal_FromAlloys_100 DisplayName]] "Mass Print Scrap Metal"),
+	DisplayName = T(464673533262, --[[ModItemRecipe MassPrint_Res_ScrapMetal_FromAlloys_100 DisplayName]] "Mass Print Scrap Metal"),
 	Icon = "UI/Icons/Resources/res_metal_ingot",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -7018,15 +6952,14 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Res_ScrapMetal_FromAlloys_100",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "CraftInPrinter",
-	Description = T(495739745037, --[[ModItemRecipe MassPrint_Res_Alloys_FromScraps_100 Description]] "Smelt scrap metals into refined metal alloys."),
+	Description = T(536060929802, --[[ModItemRecipe MassPrint_Res_Alloys_FromScraps_100 Description]] "Smelt scrap metals into refined metal alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 180000,
-	DisplayName = T(749009842807, --[[ModItemRecipe MassPrint_Res_Alloys_FromScraps_100 DisplayName]] "Metal alloys from scrap"),
-	DisplayNameMenu = T(755613749615, --[[ModItemRecipe MassPrint_Res_Alloys_FromScraps_100 DisplayNameMenu]] "Scrap metals"),
+	DisplayName = T(554219521543, --[[ModItemRecipe MassPrint_Res_Alloys_FromScraps_100 DisplayName]] "Metal alloys from scrap"),
+	DisplayNameMenu = T(552463591675, --[[ModItemRecipe MassPrint_Res_Alloys_FromScraps_100 DisplayNameMenu]] "Scrap metals"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Resources/res_scrap_metal",
@@ -7059,15 +6992,14 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Res_Alloys_FromScraps_100",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "CraftInPrinter",
-	Description = T(253004592686, --[[ModItemRecipe MassPrint_Res_Alloys_FromOre_100 Description]] "Smelt ore into refined metal alloys."),
+	Description = T(569168712013, --[[ModItemRecipe MassPrint_Res_Alloys_FromOre_100 Description]] "Smelt ore into refined metal alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(582434637931, --[[ModItemRecipe MassPrint_Res_Alloys_FromOre_100 DisplayName]] "Metal alloys from ore"),
-	DisplayNameMenu = T(918410489014, --[[ModItemRecipe MassPrint_Res_Alloys_FromOre_100 DisplayNameMenu]] "Ore"),
+	DisplayName = T(553942916029, --[[ModItemRecipe MassPrint_Res_Alloys_FromOre_100 DisplayName]] "Metal alloys from ore"),
+	DisplayNameMenu = T(462364504654, --[[ModItemRecipe MassPrint_Res_Alloys_FromOre_100 DisplayNameMenu]] "Ore"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/ore",
@@ -7100,15 +7032,14 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Res_Alloys_FromOre_100",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "CraftInPrinter",
-	Description = T(841576193395, --[[ModItemRecipe MassPrint_Res_Ore_FromAlloys_100 Description]] "Smelt metal alloys into raw Ore."),
+	Description = T(259348900117, --[[ModItemRecipe MassPrint_Res_Ore_FromAlloys_100 Description]] "Smelt metal alloys into raw Ore."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(131313125476, --[[ModItemRecipe MassPrint_Res_Ore_FromAlloys_100 DisplayName]] "Ore from Metal Alloys"),
-	DisplayNameMenu = T(671249021285, --[[ModItemRecipe MassPrint_Res_Ore_FromAlloys_100 DisplayNameMenu]] "Ore"),
+	DisplayName = T(782169283476, --[[ModItemRecipe MassPrint_Res_Ore_FromAlloys_100 DisplayName]] "Ore from Metal Alloys"),
+	DisplayNameMenu = T(638852029238, --[[ModItemRecipe MassPrint_Res_Ore_FromAlloys_100 DisplayNameMenu]] "Ore"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/ore",
@@ -7141,15 +7072,14 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Res_Ore_FromAlloys_100",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
 	ActivityDuration = 480000,
 	ActivityXPGrade = "Crafting_High",
 	BuildCategory = "CraftInPrinter",
-	Description = T(657624361656, --[[ModItemRecipe MassPrint_Res_Ore_FromScrap_100 Description]] "Smelt Scrap Metal into raw Ore."),
+	Description = T(797929019051, --[[ModItemRecipe MassPrint_Res_Ore_FromScrap_100 Description]] "Smelt Scrap Metal into raw Ore."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(140144547930, --[[ModItemRecipe MassPrint_Res_Ore_FromScrap_100 DisplayName]] "Ore from Scrap Metal"),
-	DisplayNameMenu = T(324273304680, --[[ModItemRecipe MassPrint_Res_Ore_FromScrap_100 DisplayNameMenu]] "Ore"),
+	DisplayName = T(156689642499, --[[ModItemRecipe MassPrint_Res_Ore_FromScrap_100 DisplayName]] "Ore from Scrap Metal"),
+	DisplayNameMenu = T(276443138629, --[[ModItemRecipe MassPrint_Res_Ore_FromScrap_100 DisplayNameMenu]] "Ore"),
 	FailChance = 15,
 	GuaranteedSuccessLevel = 7,
 	Icon = "UI/Icons/Items/ore",
@@ -7182,13 +7112,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Res_Ore_FromScrap_100",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(595261976491, --[[ModItemRecipe MassPrint_Tools_HarvestTools_10 Description]] "Prints a set of better tools for harvesting, cutting and mining."),
+	Description = T(606013357427, --[[ModItemRecipe MassPrint_Tools_HarvestTools_10 Description]] "Prints a set of better tools for harvesting, cutting and mining."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(544136116690, --[[ModItemRecipe MassPrint_Tools_HarvestTools_10 DisplayName]] "Harvesting tools x10"),
+	DisplayName = T(829296464255, --[[ModItemRecipe MassPrint_Tools_HarvestTools_10 DisplayName]] "Harvesting tools x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/harvesting_tools",
@@ -7207,7 +7136,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "HarvestingTools",
@@ -7223,13 +7151,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_HarvestTools_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(619178670666, --[[ModItemRecipe MassPrint_Tools_Mask_10 Description]] "Prints a filtration mask that allows safe breathing during toxic air events and dust storms."),
+	Description = T(804812138180, --[[ModItemRecipe MassPrint_Tools_Mask_10 Description]] "Prints a filtration mask that allows safe breathing during toxic air events and dust storms."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(772076457222, --[[ModItemRecipe MassPrint_Tools_Mask_10 DisplayName]] "Respirator mask x10"),
+	DisplayName = T(614645263333, --[[ModItemRecipe MassPrint_Tools_Mask_10 DisplayName]] "Respirator mask x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/respirator_mask",
@@ -7255,7 +7182,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "RespiratorMask",
@@ -7271,13 +7197,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_Mask_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(384248228339, --[[ModItemRecipe MassPrint_Tools_Earplugs_10 Description]] "Prints small cloth plugs that ensure undisturbed sleep."),
+	Description = T(963569494755, --[[ModItemRecipe MassPrint_Tools_Earplugs_10 Description]] "Prints small cloth plugs that ensure undisturbed sleep."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(522718726834, --[[ModItemRecipe MassPrint_Tools_Earplugs_10 DisplayName]] "Earplugs x10"),
+	DisplayName = T(738133347709, --[[ModItemRecipe MassPrint_Tools_Earplugs_10 DisplayName]] "Earplugs x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/earplugs",
@@ -7296,7 +7221,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Earplugs",
@@ -7312,13 +7236,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_Earplugs_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(570304094596, --[[ModItemRecipe MassPrint_Tools_GoodLuckCharm_10 Description]] "Prints a mini good luck charm that makes its carrier happy"),
+	Description = T(118548489619, --[[ModItemRecipe MassPrint_Tools_GoodLuckCharm_10 Description]] "Prints a mini good luck charm that makes its carrier happy"),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(697871951917, --[[ModItemRecipe MassPrint_Tools_GoodLuckCharm_10 DisplayName]] "Good luck charm x10"),
+	DisplayName = T(442413946837, --[[ModItemRecipe MassPrint_Tools_GoodLuckCharm_10 DisplayName]] "Good luck charm x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/good_luck_charm",
@@ -7337,7 +7260,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "GoodLuckCharm",
@@ -7353,13 +7275,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_GoodLuckCharm_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(774079627240, --[[ModItemRecipe MassPrint_Tools_SurvivalKit_10 Description]] "Prints Packs with a portable bedroll and a set of emergency rations."),
+	Description = T(884535991984, --[[ModItemRecipe MassPrint_Tools_SurvivalKit_10 Description]] "Prints Packs with a portable bedroll and a set of emergency rations."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(239552697324, --[[ModItemRecipe MassPrint_Tools_SurvivalKit_10 DisplayName]] "Survival kit x10"),
+	DisplayName = T(891936339283, --[[ModItemRecipe MassPrint_Tools_SurvivalKit_10 DisplayName]] "Survival kit x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/survival_backpack",
@@ -7382,7 +7303,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "SurvivalBackpack",
@@ -7398,13 +7318,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_SurvivalKit_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(952405729373, --[[ModItemRecipe MassPrint_Tools_Umbrella_10 Description]] "Prints a light force field emitter that repulses water droplets."),
+	Description = T(562789852468, --[[ModItemRecipe MassPrint_Tools_Umbrella_10 Description]] "Prints a light force field emitter that repulses water droplets."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(644980402294, --[[ModItemRecipe MassPrint_Tools_Umbrella_10 DisplayName]] "EM Umbrella x10"),
+	DisplayName = T(220218883727, --[[ModItemRecipe MassPrint_Tools_Umbrella_10 DisplayName]] "EM Umbrella x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/em_umbrella",
@@ -7430,7 +7349,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "EMUmbrella",
@@ -7446,13 +7364,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_Umbrella_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(500397579284, --[[ModItemRecipe MassPrint_Tools_NightGoggles_10 Description]] "Prints a set of infrared goggles that allow accurate shooting in low-light conditions."),
+	Description = T(834636472564, --[[ModItemRecipe MassPrint_Tools_NightGoggles_10 Description]] "Prints a set of infrared goggles that allow accurate shooting in low-light conditions."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(898863088421, --[[ModItemRecipe MassPrint_Tools_NightGoggles_10 DisplayName]] "Night Goggles x10"),
+	DisplayName = T(579431276337, --[[ModItemRecipe MassPrint_Tools_NightGoggles_10 DisplayName]] "Night Goggles x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/night_goggles",
@@ -7478,7 +7395,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "NightGoggles",
@@ -7494,13 +7410,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_NightGoggles_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(440356892762, --[[ModItemRecipe MassPrint_Tools_SignalFlares_10 Description]] "Prints a set of signal flares that can be manually thrown and will illuminate the surrounding area on impact."),
+	Description = T(395377741965, --[[ModItemRecipe MassPrint_Tools_SignalFlares_10 Description]] "Prints a set of signal flares that can be manually thrown and will illuminate the surrounding area on impact."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(715488807717, --[[ModItemRecipe MassPrint_Tools_SignalFlares_10 DisplayName]] "Signal flares x10"),
+	DisplayName = T(150737405666, --[[ModItemRecipe MassPrint_Tools_SignalFlares_10 DisplayName]] "Signal flares x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/signal_flare",
@@ -7526,7 +7441,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "SignalFlare",
@@ -7542,13 +7456,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_SignalFlares_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(916773447260, --[[ModItemRecipe MassPrint_Tools_Grenades_10 Description]] "Prints a set of grenades that can be manually thrown."),
+	Description = T(730286382894, --[[ModItemRecipe MassPrint_Tools_Grenades_10 Description]] "Prints a set of grenades that can be manually thrown."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(361038872431, --[[ModItemRecipe MassPrint_Tools_Grenades_10 DisplayName]] "Grenades x10"),
+	DisplayName = T(735005148733, --[[ModItemRecipe MassPrint_Tools_Grenades_10 DisplayName]] "Grenades x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/grenades",
@@ -7570,7 +7483,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "Grenades",
@@ -7586,13 +7498,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_Grenades_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_ToolsRecipe_Category",
-	Description = T(270609241855, --[[ModItemRecipe MassPrint_Tools_EMP_Grenades_10 Description]] "Prints a set of stun grenades that can be manually thrown."),
+	Description = T(436941737241, --[[ModItemRecipe MassPrint_Tools_EMP_Grenades_10 Description]] "Prints a set of stun grenades that can be manually thrown."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(537695973000, --[[ModItemRecipe MassPrint_Tools_EMP_Grenades_10 DisplayName]] "EMP Grenades x10"),
+	DisplayName = T(233209550941, --[[ModItemRecipe MassPrint_Tools_EMP_Grenades_10 DisplayName]] "EMP Grenades x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/emp_grenades",
@@ -7618,7 +7529,6 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
-	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "EMPGrenades",
@@ -7634,13 +7544,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_EMP_Grenades_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "CraftInPrinter",
-	Description = T(296032450178, --[[ModItemRecipe MassPrint_Tools_MedKits_10 Description]] "Prints universal kits containing antibiotics and bandages."),
+	Description = T(503609742711, --[[ModItemRecipe MassPrint_Tools_MedKits_10 Description]] "Prints universal kits containing antibiotics and bandages."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(491282092049, --[[ModItemRecipe MassPrint_Tools_MedKits_10 DisplayName]] "First aid kits x10"),
+	DisplayName = T(263773346781, --[[ModItemRecipe MassPrint_Tools_MedKits_10 DisplayName]] "First aid kits x10"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/med_kit",
@@ -7689,13 +7598,12 @@ PlaceObj('ModItemRecipe', {
 	id = "MassPrint_Tools_MedKits_10",
 }),
 PlaceObj('ModItemRecipe', {
-	Activity = "Crafting",
 	ActivityDuration = 240000,
 	BuildCategory = "CraftInPrinter",
-	Description = T(967313767637, --[[ModItemRecipe MassPrint_Tools_MedKits_100 Description]] "Prints universal kits containing antibiotics and bandages."),
+	Description = T(461637951987, --[[ModItemRecipe MassPrint_Tools_MedKits_100 Description]] "Prints universal kits containing antibiotics and bandages."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(743817776178, --[[ModItemRecipe MassPrint_Tools_MedKits_100 DisplayName]] "First aid kits x100"),
+	DisplayName = T(578794708176, --[[ModItemRecipe MassPrint_Tools_MedKits_100 DisplayName]] "First aid kits x100"),
 	FailChance = 10,
 	GuaranteedSuccessLevel = 3,
 	Icon = "UI/Icons/Items/med_kit",
@@ -7729,6 +7637,7 @@ PlaceObj('ModItemRecipe', {
 		}),
 	},
 	LockState = "hidden",
+	MakeUntilMultiplier = 10,
 	OutputResources = {
 		PlaceObj('ResAmount', {
 			'resource', "MedKit",
@@ -7745,11 +7654,11 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "Smelt",
-	Description = T(925659526402, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Furnace Description]] "Smelt Scrap Metal from Metal Alloys."),
+	Description = T(109391676736, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Furnace Description]] "Smelt Scrap Metal from Metal Alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(273189256772, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Furnace DisplayName]] "Scrap Metal from Alloys"),
-	DisplayNameMenu = T(435452888407, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Furnace DisplayNameMenu]] "Metal Alloys"),
+	DisplayName = T(400142818853, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Furnace DisplayName]] "Scrap Metal from Alloys"),
+	DisplayNameMenu = T(516357023585, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Furnace DisplayNameMenu]] "Metal Alloys"),
 	Icon = "UI/Icons/Resources/res_metal_ingot",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -7773,11 +7682,11 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "Smelt",
-	Description = T(901920691856, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Smelter Description]] "Smelt Scrap Metal from Metal Alloys."),
+	Description = T(149918215079, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Smelter Description]] "Smelt Scrap Metal from Metal Alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(427197354363, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Smelter DisplayName]] "Scrap Metal from Alloys."),
-	DisplayNameMenu = T(797731975742, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Smelter DisplayNameMenu]] "Metal Alloys."),
+	DisplayName = T(510313038373, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Smelter DisplayName]] "Scrap Metal from Alloys."),
+	DisplayNameMenu = T(681807984015, --[[ModItemRecipe MassPrint_Res_ScrapMetalFromAlloys_Smelter DisplayNameMenu]] "Metal Alloys."),
 	Icon = "UI/Icons/Resources/res_metal_ingot",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -7801,11 +7710,11 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "Smelt",
-	Description = T(186729759471, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Smelter Description]] "Smelt Ore from Metal Alloys."),
+	Description = T(663572873226, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Smelter Description]] "Smelt Ore from Metal Alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(133695145871, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Smelter DisplayName]] "Ore from Alloys."),
-	DisplayNameMenu = T(227511418660, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Smelter DisplayNameMenu]] "Ore."),
+	DisplayName = T(854361761777, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Smelter DisplayName]] "Ore from Alloys."),
+	DisplayNameMenu = T(226572795782, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Smelter DisplayNameMenu]] "Ore."),
 	Icon = "UI/Icons/Resources/res_metal_ingot",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -7829,11 +7738,11 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "Smelt",
-	Description = T(131294275977, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Furnace Description]] "Smelt Ore from Metal Alloys."),
+	Description = T(583756258854, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Furnace Description]] "Smelt Ore from Metal Alloys."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(563060149466, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Furnace DisplayName]] "Ore from Alloys."),
-	DisplayNameMenu = T(207685660807, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Furnace DisplayNameMenu]] "Ore."),
+	DisplayName = T(362737362479, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Furnace DisplayName]] "Ore from Alloys."),
+	DisplayNameMenu = T(358770244159, --[[ModItemRecipe MassPrint_Res_OreFromAlloys_Furnace DisplayNameMenu]] "Ore."),
 	Icon = "UI/Icons/Items/ore",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -7857,11 +7766,11 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "Smelt",
-	Description = T(670762876088, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Smelter Description]] "Smelt Ore from Scrap Metal."),
+	Description = T(969953918068, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Smelter Description]] "Smelt Ore from Scrap Metal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(103527435342, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Smelter DisplayName]] "Ore from Scrap Metal."),
-	DisplayNameMenu = T(900955328231, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Smelter DisplayNameMenu]] "Ore."),
+	DisplayName = T(799033052614, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Smelter DisplayName]] "Ore from Scrap Metal."),
+	DisplayNameMenu = T(817324455946, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Smelter DisplayNameMenu]] "Ore."),
 	Icon = "UI/Icons/Items/scrap_metal",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -7885,11 +7794,11 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "Smelt",
-	Description = T(571948752684, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Furnace Description]] "Smelt Ore from Scrap Metal."),
+	Description = T(969336971796, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Furnace Description]] "Smelt Ore from Scrap Metal."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
-	DisplayName = T(459483147537, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Furnace DisplayName]] "Ore from Scrap Metal."),
-	DisplayNameMenu = T(961454484887, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Furnace DisplayNameMenu]] "Ore."),
+	DisplayName = T(166476111387, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Furnace DisplayName]] "Ore from Scrap Metal."),
+	DisplayNameMenu = T(905352069677, --[[ModItemRecipe MassPrint_Res_OreFromScrapMetal_Furnace DisplayNameMenu]] "Ore."),
 	Icon = "UI/Icons/Items/scrap_metal",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -7913,9 +7822,9 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	BuildCategory = "Generate",
-	Description = T(400229973907, --[[ModItemRecipe MassPrint_Generator_EnergyCrystals Description]] "Generate Energy Crystals."),
+	Description = T(656288687980, --[[ModItemRecipe MassPrint_Generator_EnergyCrystals Description]] "Generate Energy Crystals."),
 	DeviceWorkTime = 960000,
-	DisplayName = T(414362296524, --[[ModItemRecipe MassPrint_Generator_EnergyCrystals DisplayName]] "Energy Crystals"),
+	DisplayName = T(948306138317, --[[ModItemRecipe MassPrint_Generator_EnergyCrystals DisplayName]] "Energy Crystals"),
 	Icon = "UI/Icons/Build Menu/Plants/enegy_crystals",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -8006,7 +7915,7 @@ PlaceObj('ModItemStoryBit', {
 	Category = "Tick",
 	Enabled = true,
 	NotificationPriority = "Critical",
-	NotificationText = T(654657698366, --[[ModItemStoryBit MassPrint_StoryBit_Electrical NotificationText]] "Power Grid Enhancements"),
+	NotificationText = T(505006885170, --[[ModItemStoryBit MassPrint_StoryBit_Electrical NotificationText]] "Power Grid Enhancements"),
 	PopupFxAction = "MessagePopup",
 	Prerequisites = {
 		PlaceObj('CheckSurvivorsWithSkillLevels', {
@@ -8088,8 +7997,8 @@ PlaceObj('ModItemStoryBit', {
 		}),
 	},
 	SelectObject = false,
-	Text = T(992749833782, --[[ModItemStoryBit MassPrint_StoryBit_Electrical Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can further enhance our Power production. A few upgrades are now available for research."),
-	Title = T(727959503953, --[[ModItemStoryBit MassPrint_StoryBit_Electrical Title]] "Power Grid Enhancements"),
+	Text = T(151717753062, --[[ModItemStoryBit MassPrint_StoryBit_Electrical Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can further enhance our Power production. A few upgrades are now available for research."),
+	Title = T(737109696179, --[[ModItemStoryBit MassPrint_StoryBit_Electrical Title]] "Power Grid Enhancements"),
 	UseObjectImage = true,
 	comment = "Responsible for unlocking all Breakthroughs for Power optimization.",
 	group = "Human-related",
@@ -8115,7 +8024,7 @@ PlaceObj('ModItemStoryBit', {
 	Category = "Tick",
 	Enabled = true,
 	NotificationPriority = "Critical",
-	NotificationText = T(632426440486, --[[ModItemStoryBit MassPrint_StoryBit_Sleep NotificationText]] "Perfecting Sleep Patterns"),
+	NotificationText = T(548768168322, --[[ModItemStoryBit MassPrint_StoryBit_Sleep NotificationText]] "Perfecting Sleep Patterns"),
 	PopupFxAction = "MessagePopup",
 	Prerequisites = {
 		PlaceObj('CheckSurvivorsWithSkillLevels', {
@@ -8187,8 +8096,8 @@ PlaceObj('ModItemStoryBit', {
 		}),
 	},
 	SelectObject = false,
-	Text = T(930073231297, --[[ModItemStoryBit MassPrint_StoryBit_Sleep Text]] "After having spent many a sleepless nights burning the midnight oil for our research efforts, I had an epyphany! What if we could reduce our sleep to the bare biological minimum whilst inducing a temporary super human enhancement to our bodies through gene therapy?\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Sleep improvement relevant research optionss.</color>"),
-	Title = T(989991477522, --[[ModItemStoryBit MassPrint_StoryBit_Sleep Title]] "Perfecting Sleep Patterns"),
+	Text = T(783303272163, --[[ModItemStoryBit MassPrint_StoryBit_Sleep Text]] "After having spent many a sleepless nights burning the midnight oil for our research efforts, I had an epyphany! What if we could reduce our sleep to the bare biological minimum whilst inducing a temporary super human enhancement to our bodies through gene therapy?\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Sleep improvement relevant research optionss.</color>"),
+	Title = T(409055337665, --[[ModItemStoryBit MassPrint_StoryBit_Sleep Title]] "Perfecting Sleep Patterns"),
 	UseObjectImage = true,
 	comment = "Responsible for unlocking all Breakthroughs for Sleep optimization.",
 	group = "Human-related",
@@ -8256,7 +8165,7 @@ PlaceObj('ModItemStoryBit', {
 	Category = "Tick",
 	Enabled = true,
 	NotificationPriority = "Critical",
-	NotificationText = T(744005625523, --[[ModItemStoryBit MassPrint_StoryBit_Weapons NotificationText]] "Weapons Improvements"),
+	NotificationText = T(826129770494, --[[ModItemStoryBit MassPrint_StoryBit_Weapons NotificationText]] "Weapons Improvements"),
 	PopupFxAction = "MessagePopup",
 	Prerequisites = {
 		PlaceObj('CheckSurvivorsWithSkillLevels', {
@@ -8346,8 +8255,8 @@ PlaceObj('ModItemStoryBit', {
 		}),
 	},
 	SelectObject = false,
-	Text = T(711024086700, --[[ModItemStoryBit MassPrint_StoryBit_Weapons Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can further enhance our Advanced Weapons. A few upgrades are now available for research."),
-	Title = T(590754603866, --[[ModItemStoryBit MassPrint_StoryBit_Weapons Title]] "Weapons Improvements"),
+	Text = T(963699149260, --[[ModItemStoryBit MassPrint_StoryBit_Weapons Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can further enhance our Advanced Weapons. A few upgrades are now available for research."),
+	Title = T(760136192227, --[[ModItemStoryBit MassPrint_StoryBit_Weapons Title]] "Weapons Improvements"),
 	UseObjectImage = true,
 	comment = "Responsible for unlocking all Breakthroughs for Weapon Improvement.",
 	group = "Human-related",
@@ -8367,7 +8276,7 @@ PlaceObj('ModItemStoryBit', {
 	Category = "Tick",
 	Enabled = true,
 	NotificationPriority = "Critical",
-	NotificationText = T(456699938976, --[[ModItemStoryBit MassPrint_StoryBit_Mechs NotificationText]] "Mech Core Printing"),
+	NotificationText = T(509964716191, --[[ModItemStoryBit MassPrint_StoryBit_Mechs NotificationText]] "Mech Core Printing"),
 	PopupFxAction = "MessagePopup",
 	Prerequisites = {
 		PlaceObj('CheckSurvivorsWithSkillLevels', {
@@ -8430,8 +8339,8 @@ PlaceObj('ModItemStoryBit', {
 		}),
 	},
 	SelectObject = false,
-	Text = T(491750284531, --[[ModItemStoryBit MassPrint_StoryBit_Mechs Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can reverse engineer Mech Cores. This is now available for research."),
-	Title = T(707754099489, --[[ModItemStoryBit MassPrint_StoryBit_Mechs Title]] "Mech Core Printing"),
+	Text = T(273530615202, --[[ModItemStoryBit MassPrint_StoryBit_Mechs Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can reverse engineer Mech Cores. This is now available for research."),
+	Title = T(437145465504, --[[ModItemStoryBit MassPrint_StoryBit_Mechs Title]] "Mech Core Printing"),
 	UseObjectImage = true,
 	comment = "Responsible for unlocking the production of Mech Cores in the Printer.",
 	group = "Human-related",
@@ -8457,7 +8366,7 @@ PlaceObj('ModItemStoryBit', {
 	Category = "Tick",
 	Enabled = true,
 	NotificationPriority = "Critical",
-	NotificationText = T(830728020783, --[[ModItemStoryBit MassPrint_StoryBit_Carbon_Armour_Improved NotificationText]] "Carbon Armour Improvement"),
+	NotificationText = T(925603037615, --[[ModItemStoryBit MassPrint_StoryBit_Carbon_Armour_Improved NotificationText]] "Carbon Armour Improvement"),
 	PopupFxAction = "MessagePopup",
 	Prerequisites = {
 		PlaceObj('CheckSurvivorsWithSkillLevels', {
@@ -8503,8 +8412,8 @@ PlaceObj('ModItemStoryBit', {
 		}),
 	},
 	SelectObject = false,
-	Text = T(216760757616, --[[ModItemStoryBit MassPrint_StoryBit_Carbon_Armour_Improved Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can further enhance our Carbon Armors. A new upgrade is now available for research."),
-	Title = T(169258198926, --[[ModItemStoryBit MassPrint_StoryBit_Carbon_Armour_Improved Title]] "Carbon Armour Improvement"),
+	Text = T(667112890541, --[[ModItemStoryBit MassPrint_StoryBit_Carbon_Armour_Improved Text]] "After having researched Mass Printing and optimized our production chains so much, we believe we can further enhance our Carbon Armors. A new upgrade is now available for research."),
+	Title = T(673120616255, --[[ModItemStoryBit MassPrint_StoryBit_Carbon_Armour_Improved Title]] "Carbon Armour Improvement"),
 	UseObjectImage = true,
 	comment = "Responsible for unlocking Breakthrough for Carbon Armour Improvement.",
 	group = "Human-related",
@@ -8514,8 +8423,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Farms",
 	},
-	Description = T(843837101871, --[[ModItemTech MassPrinting_Genetic_Crop_Engineering Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks Crop Specific Research that unlocks a new crop variant:</style>\n   <color TextEmphasis>Crop that doesn't need replanting after harvesting</color>\n   <color TextEmphasis>Crop with increased Yield</color>\n   <color TextEmphasis>Crop with faster planting time</color>\n   <color TextEmphasis>Crop with faster harvesting time</color>"),
-	DisplayName = T(851487560425, --[[ModItemTech MassPrinting_Genetic_Crop_Engineering DisplayName]] "Crops Genetic Engineering"),
+	Description = T(623588721222, --[[ModItemTech MassPrinting_Genetic_Crop_Engineering Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks Crop Specific Research that unlocks a new crop variant:</style>\n   <color TextEmphasis>Crop that doesn't need replanting after harvesting</color>\n   <color TextEmphasis>Crop with increased Yield</color>\n   <color TextEmphasis>Crop with faster planting time</color>\n   <color TextEmphasis>Crop with faster harvesting time</color>"),
+	DisplayName = T(352364333863, --[[ModItemTech MassPrinting_Genetic_Crop_Engineering DisplayName]] "Crops Genetic Engineering"),
 	Icon = "UI/Icons/Build Menu/Plants/plant_siliconleaf",
 	LockPrerequisites = {
 		PlaceObj('CheckSurvivorsWithSkillLevels', {
@@ -8658,8 +8567,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_Genetic_Engineering_Crops",
 	},
-	Description = T(815370364528, --[[ModItemTech MassPrinting_Genetic_Engineering_GrainGrass Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Grain: x40<image 'UI/Icons/Resources/res_grains' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(185542770359, --[[ModItemTech MassPrinting_Genetic_Engineering_GrainGrass DisplayName]] "Genetic Engineering - Grain Grass"),
+	Description = T(770602719834, --[[ModItemTech MassPrinting_Genetic_Engineering_GrainGrass Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Grain: x40<image 'UI/Icons/Resources/res_grains' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(293617690713, --[[ModItemTech MassPrinting_Genetic_Engineering_GrainGrass DisplayName]] "Genetic Engineering - Grain Grass"),
 	Icon = "UI/Icons/Resources/res_grains",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8700,8 +8609,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_Genetic_Engineering_Crops",
 	},
-	Description = T(453749504895, --[[ModItemTech MassPrinting_Genetic_Engineering_GlitterCaps Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Glitter Caps: x40<image 'UI/Icons/Resources/res_shroom' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(849968007237, --[[ModItemTech MassPrinting_Genetic_Engineering_GlitterCaps DisplayName]] "Genetic Engineering - Glitter Caps"),
+	Description = T(798230561237, --[[ModItemTech MassPrinting_Genetic_Engineering_GlitterCaps Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Glitter Caps: x40<image 'UI/Icons/Resources/res_shroom' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(675570329487, --[[ModItemTech MassPrinting_Genetic_Engineering_GlitterCaps DisplayName]] "Genetic Engineering - Glitter Caps"),
 	Icon = "UI/Icons/Resources/res_shroom",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8742,8 +8651,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_Genetic_Engineering_Crops",
 	},
-	Description = T(517345234194, --[[ModItemTech MassPrinting_Genetic_Engineering_Buttermelon Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Buttermelon: x40<image 'UI/Icons/Resources/res_pumpkin' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(832580753664, --[[ModItemTech MassPrinting_Genetic_Engineering_Buttermelon DisplayName]] "Genetic Engineering - Buttermelon"),
+	Description = T(535652727168, --[[ModItemTech MassPrinting_Genetic_Engineering_Buttermelon Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Buttermelon: x40<image 'UI/Icons/Resources/res_pumpkin' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(521256228281, --[[ModItemTech MassPrinting_Genetic_Engineering_Buttermelon DisplayName]] "Genetic Engineering - Buttermelon"),
 	Icon = "UI/Icons/Resources/res_pumpkin",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8784,8 +8693,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_Genetic_Engineering_Crops",
 	},
-	Description = T(291085646427, --[[ModItemTech MassPrinting_Genetic_Engineering_ChewRoots Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Chew Roots: x40<image 'UI/Icons/Resources/res_potatoes' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(664340588190, --[[ModItemTech MassPrinting_Genetic_Engineering_ChewRoots DisplayName]] "Genetic Engineering - Chew Roots"),
+	Description = T(344091909532, --[[ModItemTech MassPrinting_Genetic_Engineering_ChewRoots Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Chew Roots: x40<image 'UI/Icons/Resources/res_potatoes' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(608750893449, --[[ModItemTech MassPrinting_Genetic_Engineering_ChewRoots DisplayName]] "Genetic Engineering - Chew Roots"),
 	Icon = "UI/Icons/Resources/res_potatoes",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8826,8 +8735,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_Genetic_Engineering_Crops",
 	},
-	Description = T(334185723719, --[[ModItemTech MassPrinting_Genetic_Engineering_RedMeat Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Red Meat: x40<image 'UI/Icons/Resources/res_raw_meatt' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(619272603797, --[[ModItemTech MassPrinting_Genetic_Engineering_RedMeat DisplayName]] "Genetic Engineering - Red Meat"),
+	Description = T(404787184544, --[[ModItemTech MassPrinting_Genetic_Engineering_RedMeat Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Red Meat: x40<image 'UI/Icons/Resources/res_raw_meatt' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(732213418833, --[[ModItemTech MassPrinting_Genetic_Engineering_RedMeat DisplayName]] "Genetic Engineering - Red Meat"),
 	Icon = "UI/Icons/Items/raw_meat",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8868,8 +8777,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"sub_IndustrialFarms",
 	},
-	Description = T(993307228270, --[[ModItemTech MassPrinting_Genetic_Engineering_StoneLeaf Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks</style>\n   Planting of <color TextEmphasis>Stone: x20<image 'UI/Icons/Resources/res_stone_slab' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(484437694179, --[[ModItemTech MassPrinting_Genetic_Engineering_StoneLeaf DisplayName]] "Genetic Engineering - Stone Leaf Plant"),
+	Description = T(941061204178, --[[ModItemTech MassPrinting_Genetic_Engineering_StoneLeaf Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks</style>\n   Planting of <color TextEmphasis>Stone: x20<image 'UI/Icons/Resources/res_stone_slab' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(631753687007, --[[ModItemTech MassPrinting_Genetic_Engineering_StoneLeaf DisplayName]] "Genetic Engineering - Stone Leaf Plant"),
 	Icon = "UI/Icons/Resources/res_stone_slab",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8909,8 +8818,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"sub_IndustrialFarms",
 	},
-	Description = T(631327056755, --[[ModItemTech MassPrinting_Genetic_Engineering_OreLeaf Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks</style>\n   Planting of <color TextEmphasis>Ore: x20<image 'UI/Icons/Items/ore' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(598946553967, --[[ModItemTech MassPrinting_Genetic_Engineering_OreLeaf DisplayName]] "Genetic Engineering - Ore Leaf Plant"),
+	Description = T(588060060143, --[[ModItemTech MassPrinting_Genetic_Engineering_OreLeaf Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks</style>\n   Planting of <color TextEmphasis>Ore: x20<image 'UI/Icons/Items/ore' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(937175125253, --[[ModItemTech MassPrinting_Genetic_Engineering_OreLeaf DisplayName]] "Genetic Engineering - Ore Leaf Plant"),
 	Icon = "UI/Icons/Items/ore",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8950,8 +8859,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"sub_IndustrialFarms",
 	},
-	Description = T(381113973897, --[[ModItemTech MassPrinting_Genetic_Engineering_SiliconLeaf Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks</style>\n   Planting of <color TextEmphasis>Siliconleaf: x15<image 'UI/Icons/Resources/res_silicon' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(159961252919, --[[ModItemTech MassPrinting_Genetic_Engineering_SiliconLeaf DisplayName]] "Genetic Engineering - Silicon Leaf Plant"),
+	Description = T(450957960313, --[[ModItemTech MassPrinting_Genetic_Engineering_SiliconLeaf Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n<style TechSubtitleBlue>Unlocks</style>\n   Planting of <color TextEmphasis>Siliconleaf: x15<image 'UI/Icons/Resources/res_silicon' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(527241557356, --[[ModItemTech MassPrinting_Genetic_Engineering_SiliconLeaf DisplayName]] "Genetic Engineering - Silicon Leaf Plant"),
 	Icon = "UI/Icons/Resources/res_silicon",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -8992,8 +8901,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"sub_IndustrialFarms",
 	},
-	Description = T(200257065758, --[[ModItemTech MassPrinting_Genetic_Engineering_EnergyCrystals Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Energy Crystals: x15<image 'UI/Icons/Resources/res_energy_crystals' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
-	DisplayName = T(933194714769, --[[ModItemTech MassPrinting_Genetic_Engineering_EnergyCrystals DisplayName]] "Genetic Engineering - Energy CrystalsPlant"),
+	Description = T(262180059600, --[[ModItemTech MassPrinting_Genetic_Engineering_EnergyCrystals Description]] "Genetically Engineered Crops have been the staple of all settled worlds across the Galaxy. By devoting some time and resources to studying the intended output, we can create a crop that produces what we need.\n\n   Planting of <color TextEmphasis>Energy Crystals: x15<image 'UI/Icons/Resources/res_energy_crystals' 1100></color>\n   <color TextEmphasis>Doesn't need replanting after harvesting</color>"),
+	DisplayName = T(502452194672, --[[ModItemTech MassPrinting_Genetic_Engineering_EnergyCrystals DisplayName]] "Genetic Engineering - Energy CrystalsPlant"),
 	Icon = "UI/Icons/Resources/res_energy_crystals",
 	InputResources = {
 		PlaceObj('ResAmount', {
@@ -9031,8 +8940,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(566915249658, --[[ModItemTech MassPrintingResearch Description]] "With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Liquid fuel</color>: <image 'UI/Icons/Resources/res_grains' 1100> -> <image 'UI/Icons/Items/oil' 1100> x100, x1000\n   <color TextEmphasis>Metal Alloys</color>: <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_metal_ingot' 1100> x100\n   <color TextEmphasis>Metal Alloys</color>: <image 'UI/Icons/Resources/res_scrap_metal' 1100> -> <image 'UI/Icons/Resources/res_metal_ingot' 1100> x100\n   <color TextEmphasis>Scrap Metal</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Resources/res_scrap_metal' 1100> x100\n   <color TextEmphasis>Synthetics</color>: <image 'UI/Icons/Resources/res_grains' 1100> -> <image 'UI/Icons/Resources/res_synthetics' 1100> x100, x1000\n   <color TextEmphasis>Nanotubes</color>: <image 'UI/Icons/Resources/res_grains' 1100> + <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> x100, x1000\n   <color TextEmphasis>Medkit</color>: <image 'UI/Icons/Resources/res_grains' 1100> + <image 'UI/Icons/Resources/res_cotton_cloth' 1100> -> <image 'UI/Icons/Resources/res_med_kit' 1100> x10, x100\n\n   * Manufactured in the 3D Printer"),
-	DisplayName = T(726164268986, --[[ModItemTech MassPrintingResearch DisplayName]] "Mass Printing"),
+	Description = T(628000739310, --[[ModItemTech MassPrintingResearch Description]] "With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Liquid fuel</color>: <image 'UI/Icons/Resources/res_grains' 1100> -> <image 'UI/Icons/Items/oil' 1100> x100, x1000\n   <color TextEmphasis>Metal Alloys</color>: <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_metal_ingot' 1100> x100\n   <color TextEmphasis>Metal Alloys</color>: <image 'UI/Icons/Resources/res_scrap_metal' 1100> -> <image 'UI/Icons/Resources/res_metal_ingot' 1100> x100\n   <color TextEmphasis>Scrap Metal</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Resources/res_scrap_metal' 1100> x100\n   <color TextEmphasis>Synthetics</color>: <image 'UI/Icons/Resources/res_grains' 1100> -> <image 'UI/Icons/Resources/res_synthetics' 1100> x100, x1000\n   <color TextEmphasis>Nanotubes</color>: <image 'UI/Icons/Resources/res_grains' 1100> + <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> x100, x1000\n   <color TextEmphasis>Medkit</color>: <image 'UI/Icons/Resources/res_grains' 1100> + <image 'UI/Icons/Resources/res_cotton_cloth' 1100> -> <image 'UI/Icons/Resources/res_med_kit' 1100> x10, x100\n\n   * Manufactured in the 3D Printer"),
+	DisplayName = T(835296037968, --[[ModItemTech MassPrintingResearch DisplayName]] "Mass Printing"),
 	Icon = "UI/Icons/Research/liquid_fuel",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -9304,8 +9213,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(702613537896, --[[ModItemTech MassPrinting_WinterClothes_Research Description]] "With a dedicated printer design for clothing, we can now print clothes straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Fur Cap</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_hat_3' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Sweater</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image 'UI/Icons/Resources/res_shirt_cotton' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Fur Coat</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_fur_coat' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Thermal Pants</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_pants_nylon' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Boots</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_shoes_boots' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Clothing 3D Printer"),
-	DisplayName = T(313956568857, --[[ModItemTech MassPrinting_WinterClothes_Research DisplayName]] "Mass Printing Winter Clothing"),
+	Description = T(171017210215, --[[ModItemTech MassPrinting_WinterClothes_Research Description]] "With a dedicated printer design for clothing, we can now print clothes straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Fur Cap</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_hat_3' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Sweater</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image 'UI/Icons/Resources/res_shirt_cotton' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Fur Coat</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_fur_coat' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Thermal Pants</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_pants_nylon' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Boots</color>: <image 'UI/Icons/Resources/res_leathers' 1100> & <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_shoes_boots' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Clothing 3D Printer"),
+	DisplayName = T(455770614976, --[[ModItemTech MassPrinting_WinterClothes_Research DisplayName]] "Mass Printing Winter Clothing"),
 	Icon = "UI/Icons/Items/fur_coat",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -9419,8 +9328,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(910507657192, --[[ModItemTech MassPrinting_MidSeasonClothes_Research Description]] "With a dedicated printer design for clothing, we can now print clothes straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Beanie</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_hat_2' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Shirt</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image 'UI/Icons/Resources/res_shirt_blue' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Coat</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> -> <image\n   'UI/Icons/Resources/res_coat' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Pants</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_pants_dark' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Sneakers</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_shoes_nylon' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Clothing 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(681166845420, --[[ModItemTech MassPrinting_MidSeasonClothes_Research DisplayName]] "Mass Printing MidSeason Clothing"),
+	Description = T(881541400053, --[[ModItemTech MassPrinting_MidSeasonClothes_Research Description]] "With a dedicated printer design for clothing, we can now print clothes straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Beanie</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_hat_2' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Shirt</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image 'UI/Icons/Resources/res_shirt_blue' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Coat</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> -> <image\n   'UI/Icons/Resources/res_coat' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Pants</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_pants_dark' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Sneakers</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_shoes_nylon' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Clothing 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(834098934076, --[[ModItemTech MassPrinting_MidSeasonClothes_Research DisplayName]] "Mass Printing MidSeason Clothing"),
 	Icon = "UI/Icons/Items/shirt_blue",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -9534,8 +9443,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(356568941506, --[[ModItemTech MassPrinting_SummerClothes_Research Description]] "With a dedicated printer design for clothing, we can now print clothes straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Straw Hat</color>: <image 'UI/Icons/Resources/res_hay' 1100> -> <image\n   'UI/Icons/Resources/res_hat_straw' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Baseball cap</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> -> <image\n   'UI/Icons/Resources/res_hat' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>T-Shirt</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image 'UI/Icons/Resources/res_tshirt' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Jacket</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> -> <image\n   'UI/Icons/Resources/res_jacket' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Summer Pants</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_pants_cotton' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Summer Shoes</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_shoes_leather' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Clothing 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(471434579134, --[[ModItemTech MassPrinting_SummerClothes_Research DisplayName]] "Mass Printing Summer Clothing"),
+	Description = T(206793503960, --[[ModItemTech MassPrinting_SummerClothes_Research Description]] "With a dedicated printer design for clothing, we can now print clothes straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Straw Hat</color>: <image 'UI/Icons/Resources/res_hay' 1100> -> <image\n   'UI/Icons/Resources/res_hat_straw' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Baseball cap</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> -> <image\n   'UI/Icons/Resources/res_hat' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>T-Shirt</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image 'UI/Icons/Resources/res_tshirt' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Jacket</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> -> <image\n   'UI/Icons/Resources/res_jacket' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Summer Pants</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_pants_cotton' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Summer Shoes</color>: <image 'UI/Icons/Resources/res_fabrics_cloth' 1100> -> <image\n   'UI/Icons/Resources/res_shoes_leather' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Clothing 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(533699064533, --[[ModItemTech MassPrinting_SummerClothes_Research DisplayName]] "Mass Printing Summer Clothing"),
 	Icon = "UI/Icons/Items/tshirt",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -9661,8 +9570,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(846273792226, --[[ModItemTech MassPrinting_Battery_Perfection Description]] "Our batteries are not working as efficient as they could. Some fine tuning and software engineering could double the amount of power stored inside.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Doubled capacity in all Batteries</color>"),
-	DisplayName = T(231240559316, --[[ModItemTech MassPrinting_Battery_Perfection DisplayName]] "Battery optimization"),
+	Description = T(850315435498, --[[ModItemTech MassPrinting_Battery_Perfection Description]] "Our batteries are not working as efficient as they could. Some fine tuning and software engineering could double the amount of power stored inside.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Doubled capacity in all Batteries</color>"),
+	DisplayName = T(213492505535, --[[ModItemTech MassPrinting_Battery_Perfection DisplayName]] "Battery optimization"),
 	Icon = "UI/Icons/Research/power_battery_optimization",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -9721,8 +9630,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(871226079613, --[[ModItemTech MassPrinting_Sleep_Perfection Description]] "Now that we've been here a while we can perfect our sleeping patterns to properly match the planet's environment.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Gene Therapy beds</color>: \n10(<image 'UI/Icons/Resources/res_cotton_cloth' 1100>/<image 'UI/Icons/Items/synthetics' 1100>) 10<image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> 5<image 'UI/Icons/Items/scrap_electronics' 1100> 1<image 'UI/Icons/Items/cpu_cores' 1100> 15<image 'UI/Icons/Resources/res_electricity' 1100>"),
-	DisplayName = T(107776791384, --[[ModItemTech MassPrinting_Sleep_Perfection DisplayName]] "Sleep Minimization"),
+	Description = T(204516709182, --[[ModItemTech MassPrinting_Sleep_Perfection Description]] "Now that we've been here a while we can perfect our sleeping patterns to properly match the planet's environment.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Gene Therapy beds</color>: \n10(<image 'UI/Icons/Resources/res_cotton_cloth' 1100>/<image 'UI/Icons/Items/synthetics' 1100>) 10<image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> 5<image 'UI/Icons/Items/scrap_electronics' 1100> 1<image 'UI/Icons/Items/cpu_cores' 1100> 15<image 'UI/Icons/Resources/res_electricity' 1100>"),
+	DisplayName = T(231199847802, --[[ModItemTech MassPrinting_Sleep_Perfection DisplayName]] "Sleep Minimization"),
 	Icon = "UI/Icons/Research/sleep_training",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -9798,8 +9707,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(378175125946, --[[ModItemTech MassPrinting_SkinbarkDrying_Research Description]] "With minor improvements to the drying rack, we will be able to also dry Skinbark into Veggie Leather.\n\n<style TechSubtitleBlue>Unlocks</style>\n<color TextEmphasis>Electronic drying racks, both Large and Small</color>\n   <color TextEmphasis>Improved drying times</color>\n   <color TextEmphasis>Needs electricity to operate</color>\n   <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>\n   * Manufactured in the upgraded drying racks"),
-	DisplayName = T(511469308306, --[[ModItemTech MassPrinting_SkinbarkDrying_Research DisplayName]] "Skinbark Drying"),
+	Description = T(635266080470, --[[ModItemTech MassPrinting_SkinbarkDrying_Research Description]] "With minor improvements to the drying rack, we will be able to also dry Skinbark into Veggie Leather.\n\n<style TechSubtitleBlue>Unlocks</style>\n<color TextEmphasis>Electronic drying racks, both Large and Small</color>\n   <color TextEmphasis>Improved drying times</color>\n   <color TextEmphasis>Needs electricity to operate</color>\n   <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>\n   * Manufactured in the upgraded drying racks"),
+	DisplayName = T(169757966282, --[[ModItemTech MassPrinting_SkinbarkDrying_Research DisplayName]] "Skinbark Drying"),
 	Icon = "UI/Icons/Resources/res_veggie_leather",
 	LockPrerequisites = {
 		PlaceObj('CheckResourceUnlocked', {
@@ -9843,8 +9752,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(911833397382, --[[ModItemTech MassPrintingResearch_Leathers Description]] "With a dedicated printer design for clothing, we can now print leather armours straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n\n   <color TextEmphasis>Leather Helm</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Armor</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Pants</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Boots</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_boots' 1100> <color TextEmphasis>x10</color>\n   \n   <color TextEmphasis>Veggie Helm</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Armor</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Pants</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Boots</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_boots' 1100> <color TextEmphasis>x10</color>\n      \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(176966925510, --[[ModItemTech MassPrintingResearch_Leathers DisplayName]] "Mass Print Leather Armor sets"),
+	Description = T(241543520926, --[[ModItemTech MassPrintingResearch_Leathers Description]] "With a dedicated printer design for clothing, we can now print leather armours straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n\n   <color TextEmphasis>Leather Helm</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Armor</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Pants</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Boots</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_boots' 1100> <color TextEmphasis>x10</color>\n   \n   <color TextEmphasis>Veggie Helm</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Armor</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Pants</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Boots</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_boots' 1100> <color TextEmphasis>x10</color>\n      \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(157802284285, --[[ModItemTech MassPrintingResearch_Leathers DisplayName]] "Mass Print Leather Armor sets"),
 	Icon = "UI/Icons/Items/leather_armor",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10029,8 +9938,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(700513672971, --[[ModItemTech MassPrintingResearch_Synthetics Description]] "With significant improvements to the underlying printer, we will be able to mass produce <style TechSubtitleBlue>synthetic armour sets</style>.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Synthetic Helm</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Synthetic Armor</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Synthetic Pants</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Synthetic Pants</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_boots' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(685397548728, --[[ModItemTech MassPrintingResearch_Synthetics DisplayName]] "Mass Print Synthetic Armour"),
+	Description = T(821686866269, --[[ModItemTech MassPrintingResearch_Synthetics Description]] "With significant improvements to the underlying printer, we will be able to mass produce <style TechSubtitleBlue>synthetic armour sets</style>.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Synthetic Helm</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Synthetic Armor</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Synthetic Pants</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Synthetic Pants</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> & <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Items/synthetic_boots' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(659401977058, --[[ModItemTech MassPrintingResearch_Synthetics DisplayName]] "Mass Print Synthetic Armour"),
 	Icon = "UI/Icons/Items/synthetic_armor",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10128,8 +10037,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(867216550125, --[[ModItemTech MassPrintingResearch_Carbons Description]] "With significant improvements to the underlying printer, we will be able to mass produce <style TechSubtitleBlue>carbon armour sets</style>.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Carbon Helm</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Resources/carbon_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Armor</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Pants</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Boots</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_boots' 1100> <color TextEmphasis>x10</color>\n      \n   <color TextEmphasis>Carbon Helm 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Resources/carbon_helm_improved' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Armor 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_armor_improved' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Pants 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_pants_improved' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Boots 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_boots_improved' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(113797966226, --[[ModItemTech MassPrintingResearch_Carbons DisplayName]] "Mass Print Carbons"),
+	Description = T(797635790528, --[[ModItemTech MassPrintingResearch_Carbons Description]] "With significant improvements to the underlying printer, we will be able to mass produce <style TechSubtitleBlue>carbon armour sets</style>.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Carbon Helm</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Resources/carbon_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Armor</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Pants</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Boots</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_boots' 1100> <color TextEmphasis>x10</color>\n      \n   <color TextEmphasis>Carbon Helm 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Resources/carbon_helm_improved' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Armor 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_armor_improved' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Pants 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_pants_improved' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Carbon Boots 2.0</color>: <image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> -> <image 'UI/Icons/Items/carbon_boots_improved' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(264677926235, --[[ModItemTech MassPrintingResearch_Carbons DisplayName]] "Mass Print Carbons"),
 	Icon = "UI/Icons/Items/carbon_armor",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10251,8 +10160,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(794295537037, --[[ModItemTech MassPrintingResearch_Weapons Description]] "With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Basic Weapons</color> <image 'UI/Icons/Resources/res_spear' 1100><image 'UI/Icons/Resources/res_short_bow' 1100><image 'UI/Icons/Resources/res_crossbow' 1100><image 'UI/Icons/Resources/res_pacifier' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Advanced Weapons</color>: <image 'UI/Icons/Resources/res_laser_pike' 1100><image 'UI/Icons/Resources/res_laser_sword' 1100><image 'UI/Icons/Resources/res_crossbow' 1100><image 'UI/Icons/Resources/res_carbon_crossbow' 1100> <image 'UI/Icons/Resources/res_laser_blaster' 1100><image 'UI/Icons/Resources/res_laser_blaster_improved' 1100><image 'UI/Icons/Resources/res_pulse_riffle' 1100><image 'UI/Icons/Resources/res_pulse_riffle_improved' 1100><image 'UI/Icons/Resources/res_railgun_sniper' 1100><image 'UI/Icons/Resources/res_railgun_sniper_improved' 1100><image 'Mod/H5Xfcfc/Images/download_1_44x44 3.png' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(711837532504, --[[ModItemTech MassPrintingResearch_Weapons DisplayName]] "Mass Print Weaponry"),
+	Description = T(466802972269, --[[ModItemTech MassPrintingResearch_Weapons Description]] "With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Basic Weapons</color> <image 'UI/Icons/Resources/res_spear' 1100><image 'UI/Icons/Resources/res_short_bow' 1100><image 'UI/Icons/Resources/res_crossbow' 1100><image 'UI/Icons/Resources/res_pacifier' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Advanced Weapons</color>: <image 'UI/Icons/Resources/res_laser_pike' 1100><image 'UI/Icons/Resources/res_laser_sword' 1100><image 'UI/Icons/Resources/res_crossbow' 1100><image 'UI/Icons/Resources/res_carbon_crossbow' 1100> <image 'UI/Icons/Resources/res_laser_blaster' 1100><image 'UI/Icons/Resources/res_laser_blaster_improved' 1100><image 'UI/Icons/Resources/res_pulse_riffle' 1100><image 'UI/Icons/Resources/res_pulse_riffle_improved' 1100><image 'UI/Icons/Resources/res_railgun_sniper' 1100><image 'UI/Icons/Resources/res_railgun_sniper_improved' 1100><image 'Mod/H5Xfcfc/Images/download_1_44x44 3.png' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(436060724400, --[[ModItemTech MassPrintingResearch_Weapons DisplayName]] "Mass Print Weaponry"),
 	Icon = "UI/Icons/Items/railgun_sniper_improved",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10451,8 +10360,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(899774909872, --[[ModItemTech MassPrinting_MechCores Description]] "Now that we have reverse engineered the coveted Mech cores, we can expand our 3D printing capabilities to mass print them.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Mech Core</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> & <image 'UI/Icons/Resources/res_energy_crystals' 1100>  -> <image 'UI/Icons/Resources/res_mech_core' 1100> <color TextEmphasis>x10</color>\n\n   * Manufactured in the 3D Printer"),
-	DisplayName = T(659635125577, --[[ModItemTech MassPrinting_MechCores DisplayName]] "Mass Printing Mech Cores"),
+	Description = T(874374336816, --[[ModItemTech MassPrinting_MechCores Description]] "Now that we have reverse engineered the coveted Mech cores, we can expand our 3D printing capabilities to mass print them.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Mech Core</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> & <image 'UI/Icons/Resources/res_energy_crystals' 1100>  -> <image 'UI/Icons/Resources/res_mech_core' 1100> <color TextEmphasis>x10</color>\n\n   * Manufactured in the 3D Printer"),
+	DisplayName = T(189608032819, --[[ModItemTech MassPrinting_MechCores DisplayName]] "Mass Printing Mech Cores"),
 	Icon = "UI/Icons/Research/mech_cores",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10539,8 +10448,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(326333947953, --[[ModItemTech MassPrinting_Electronics_Research Description]] "With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Electronics</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/scrap_electronics' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>CPU Cores</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/cpu_cores' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Power Cells</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> & <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'UI/Icons/Items/power_cell' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>AI Cores</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/ai_core' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Fabricator Matrix</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/matter_generator' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Spare Parts</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/spare_parts' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(622697263660, --[[ModItemTech MassPrinting_Electronics_Research DisplayName]] "Mass Printing Electronics"),
+	Description = T(505676713427, --[[ModItemTech MassPrinting_Electronics_Research Description]] "With significant improvements to the underlying printer, we will be able to mass produce items straight from raw ingredients.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Electronics</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/scrap_electronics' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>CPU Cores</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/cpu_cores' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Power Cells</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> & <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'UI/Icons/Items/power_cell' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>AI Cores</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/ai_core' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Fabricator Matrix</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/matter_generator' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Spare Parts</color>: <image 'UI/Icons/Resources/res_ore' 1100> & <image 'UI/Icons/Resources/res_silicon' 1100> -> <image 'UI/Icons/Items/spare_parts' 1100> <color TextEmphasis>x10</color>\n   \n   * Manufactured in the 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(622625819080, --[[ModItemTech MassPrinting_Electronics_Research DisplayName]] "Mass Printing Electronics"),
 	Icon = "UI/Icons/Research/electronics",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10652,8 +10561,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(455551338836, --[[ModItemTech MassPrint_RapidPulse-RifleResearch Description]] "The <color TextEmphasis>Rapid Pulse Rifle</color> uses the electric energy of a power cell to magnetize and shoot out a concentrated beam of energy at high velocity. The Dual-Core controlled targeting assistance provides <color TextEmphasis>longest range</color>, <color TextEmphasis>deadliest accuracy</color> and <color TextEmphasis>maximum firing rate</color>. This weapon is the perfect mix between an Assault Rifle and Sniper rifle.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Rapid Pulse rifle</color>: 35<image 'UI/Icons/Resources/res_metal_ingot' 1100> 35<image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> 10 <image 'UI/Icons/Resources/res_scrap_electronics' 1100> 2 <image 'UI/Icons/Resources/res_cpu_cores' 1100> 2<image 'UI/Icons/Resources/res_power_cell' 1100> -> 1<image 'Mod/H5Xfcfc/Images/download_1_44x44.png' 1100>\n   <color TextEmphasis>Rapid Pulse rifle</color>: <image 'UI/Icons/Resources/res_ore' 1100> <image 'UI/Icons/Resources/res_grain' 1100>  <image 'UI/Icons/Resources/res_silicon' 1100> <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'Mod/H5Xfcfc/Images/download_1_44x44.png' 1100> <color TextEmphasis>x10</color>\n   \n* crafted on Soldering benches\n** Manufactured in the Equipment 3D Printer\n*** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(799716094753, --[[ModItemTech MassPrint_RapidPulse-RifleResearch DisplayName]] "Rapid Pulse Rifle"),
+	Description = T(927995816533, --[[ModItemTech MassPrint_RapidPulse-RifleResearch Description]] "The <color TextEmphasis>Rapid Pulse Rifle</color> uses the electric energy of a power cell to magnetize and shoot out a concentrated beam of energy at high velocity. The Dual-Core controlled targeting assistance provides <color TextEmphasis>longest range</color>, <color TextEmphasis>deadliest accuracy</color> and <color TextEmphasis>maximum firing rate</color>. This weapon is the perfect mix between an Assault Rifle and Sniper rifle.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Rapid Pulse rifle</color>: 35<image 'UI/Icons/Resources/res_metal_ingot' 1100> 35<image 'UI/Icons/Resources/res_carbon_nanotubes' 1100> 10 <image 'UI/Icons/Resources/res_scrap_electronics' 1100> 2 <image 'UI/Icons/Resources/res_cpu_cores' 1100> 2<image 'UI/Icons/Resources/res_power_cell' 1100> -> 1<image 'Mod/H5Xfcfc/Images/download_1_44x44.png' 1100>\n   <color TextEmphasis>Rapid Pulse rifle</color>: <image 'UI/Icons/Resources/res_ore' 1100> <image 'UI/Icons/Resources/res_grain' 1100>  <image 'UI/Icons/Resources/res_silicon' 1100> <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'Mod/H5Xfcfc/Images/download_1_44x44.png' 1100> <color TextEmphasis>x10</color>\n   \n* crafted on Soldering benches\n** Manufactured in the Equipment 3D Printer\n*** Recipes still require to have been manually crafted before they are enabled for use"),
+	DisplayName = T(431821662699, --[[ModItemTech MassPrint_RapidPulse-RifleResearch DisplayName]] "Rapid Pulse Rifle"),
 	Icon = "Mod/H5Xfcfc/Images/download_1_44x44.png",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10713,8 +10622,8 @@ PlaceObj('ModItemTech', {
 }),
 PlaceObj('ModItemTech', {
 	AllowedInScenarios = set( "CrashLanding", "Robots", "Trading" ),
-	Description = T(816338888056, --[[ModItemTech MassPrint_MatterGenerators Description]] "The fabricator matrices are intricate components that can transform energy into matter. The precise workings of these matrices are only known to a select few, but a 500-page manual on how to produce them is available in most semi-decent emergency survival kits. All we need is someone willing to sit down and read the manual.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Fabricator matrix</color>: 50<image 'UI/Icons/Resources/res_metal_ingot' 1100> 5<image 'UI/Icons/Resources/res_cpu_cores' 1100> -> 1<image 'UI/Icons/Resources/res_matter_generator' 1100>\n   * crafted on Soldering benches"),
-	DisplayName = T(177555302904, --[[ModItemTech MassPrint_MatterGenerators DisplayName]] "Fabricator matrixes"),
+	Description = T(931128710001, --[[ModItemTech MassPrint_MatterGenerators Description]] "The fabricator matrices are intricate components that can transform energy into matter. The precise workings of these matrices are only known to a select few, but a 500-page manual on how to produce them is available in most semi-decent emergency survival kits. All we need is someone willing to sit down and read the manual.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Fabricator matrix</color>: 50<image 'UI/Icons/Resources/res_metal_ingot' 1100> 5<image 'UI/Icons/Resources/res_cpu_cores' 1100> -> 1<image 'UI/Icons/Resources/res_matter_generator' 1100>\n   * crafted on Soldering benches"),
+	DisplayName = T(284106342663, --[[ModItemTech MassPrint_MatterGenerators DisplayName]] "Fabricator matrixes"),
 	Icon = "UI/Icons/Research/matter_generators",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10774,8 +10683,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Devices",
 	},
-	Description = T(204197281107, --[[ModItemTech MassPrint_FoodGenerator Description]] "Food fabricators utilize highly complex matter-generating matrices that can transform energy into hot meals. Acquiring such a matrix is the most complicated aspect, as the remaining tasks involve designing the machine's frame and user interface. The matrix itself already contains the necessary routines to produce several simple meals.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Food fabricator</color>: 1<image 'UI/Icons/Resources/res_matter_generator' 1100> 10<image 'UI/Icons/Resources/res_metal_ingot' 1100> 20<image 'UI/Icons/Resources/res_electricity' 1100>"),
-	DisplayName = T(298432554683, --[[ModItemTech MassPrint_FoodGenerator DisplayName]] "MP Food fabricators"),
+	Description = T(211473370104, --[[ModItemTech MassPrint_FoodGenerator Description]] "Food fabricators utilize highly complex matter-generating matrices that can transform energy into hot meals. Acquiring such a matrix is the most complicated aspect, as the remaining tasks involve designing the machine's frame and user interface. The matrix itself already contains the necessary routines to produce several simple meals.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Food fabricator</color>: 1<image 'UI/Icons/Resources/res_matter_generator' 1100> 10<image 'UI/Icons/Resources/res_metal_ingot' 1100> 20<image 'UI/Icons/Resources/res_electricity' 1100>"),
+	DisplayName = T(538004786239, --[[ModItemTech MassPrint_FoodGenerator DisplayName]] "MP Food fabricators"),
 	Icon = "UI/Icons/Research/food_generating",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10823,8 +10732,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Devices",
 	},
-	Description = T(254774534783, --[[ModItemTech MassPrint_IndustrialGenerator Description]] "Material fabricators utilize complex matter-generating matrices to produce raw materials such as stone, wood, and metal from energy. While obtaining the matrix can be challenging, designing the device and user interface is relatively simple. The matrix contains algorithms for creating basic materials, but programming is necessary for more intricate ones. Despite its intricacy, the fabricator is exceptionally advantageous in numerous industries.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Material fabricator</color>: 1<image 'UI/Icons/Resources/res_matter_generator' 1100> 10<image 'UI/Icons/Resources/res_metal_ingot' 1100> 30<image 'UI/Icons/Resources/res_electricity' 1100>"),
-	DisplayName = T(379059047746, --[[ModItemTech MassPrint_IndustrialGenerator DisplayName]] "MP Material fabricators"),
+	Description = T(609800059993, --[[ModItemTech MassPrint_IndustrialGenerator Description]] "Material fabricators utilize complex matter-generating matrices to produce raw materials such as stone, wood, and metal from energy. While obtaining the matrix can be challenging, designing the device and user interface is relatively simple. The matrix contains algorithms for creating basic materials, but programming is necessary for more intricate ones. Despite its intricacy, the fabricator is exceptionally advantageous in numerous industries.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Material fabricator</color>: 1<image 'UI/Icons/Resources/res_matter_generator' 1100> 10<image 'UI/Icons/Resources/res_metal_ingot' 1100> 30<image 'UI/Icons/Resources/res_electricity' 1100>"),
+	DisplayName = T(732930777576, --[[ModItemTech MassPrint_IndustrialGenerator DisplayName]] "MP Material fabricators"),
 	Icon = "UI/Icons/Research/industrial_generators",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10872,8 +10781,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Devices",
 	},
-	Description = T(885481830650, --[[ModItemTech MassPrint_IndustrialGenerator_Fuel Description]] "Material fabricators are like the handymen of the future. They're great at building basic stuff, but don't expect them to whip up a batch of liquid fuel anytime soon. That's like asking your grandma to make sushi - it's just not in her wheelhouse. Crafting a routine for a fabricator to make liquid fuel takes serious brain power, like rocket scientist-level smarts.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Liquid fuel</color>: -> 50<image 'UI/Icons/Resources/res_oil' 1100>"),
-	DisplayName = T(322424154639, --[[ModItemTech MassPrint_IndustrialGenerator_Fuel DisplayName]] "Liquid fuel fabrication"),
+	Description = T(597759356749, --[[ModItemTech MassPrint_IndustrialGenerator_Fuel Description]] "Material fabricators are like the handymen of the future. They're great at building basic stuff, but don't expect them to whip up a batch of liquid fuel anytime soon. That's like asking your grandma to make sushi - it's just not in her wheelhouse. Crafting a routine for a fabricator to make liquid fuel takes serious brain power, like rocket scientist-level smarts.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Liquid fuel</color>: -> 50<image 'UI/Icons/Resources/res_oil' 1100>"),
+	DisplayName = T(821079804323, --[[ModItemTech MassPrint_IndustrialGenerator_Fuel DisplayName]] "Liquid fuel fabrication"),
 	Icon = "UI/Icons/Research/industrial_generator_fuel",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10909,8 +10818,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Devices",
 	},
-	Description = T(674478227699, --[[ModItemTech MassPrint_IndustrialGenerator_Silicon Description]] "Material fabricators can't make everything, but they can produce silicon, a crucial ingredient in cutting-edge tech. Crafting a program for the fabricator to create silicon takes serious technical knowledge. Don't expect your average Joe to whip up a recipe for the fabricator, or you might end up with low-grade sand instead!\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Silicon</color>: -> 30<image 'UI/Icons/Resources/res_silicon' 1100>"),
-	DisplayName = T(166335572889, --[[ModItemTech MassPrint_IndustrialGenerator_Silicon DisplayName]] "MP Silicon fabrication"),
+	Description = T(453643324001, --[[ModItemTech MassPrint_IndustrialGenerator_Silicon Description]] "Material fabricators can't make everything, but they can produce silicon, a crucial ingredient in cutting-edge tech. Crafting a program for the fabricator to create silicon takes serious technical knowledge. Don't expect your average Joe to whip up a recipe for the fabricator, or you might end up with low-grade sand instead!\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Silicon</color>: -> 30<image 'UI/Icons/Resources/res_silicon' 1100>"),
+	DisplayName = T(356515563407, --[[ModItemTech MassPrint_IndustrialGenerator_Silicon DisplayName]] "MP Silicon fabrication"),
 	Icon = "UI/Icons/Research/industrial_generators_silicon",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10946,8 +10855,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Devices",
 	},
-	Description = T(112211334822, --[[ModItemTech MassPrint_IndustrialGenerator_EnergyCrystals Description]] "Material fabricators can't make everything, but they can produce energy crystals, a crucial ingredient in powering cutting-edge tech. Crafting a program for the fabricator to create silicon takes serious technical knowledge. Don't expect your average Joe to whip up a recipe for the fabricator, or you might end up with low-grade sand instead!\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Energy Crystals</color>: -> 50<image 'UI/Icons/Build Menu/Plants/enegy_crystals' 1100>"),
-	DisplayName = T(772413213072, --[[ModItemTech MassPrint_IndustrialGenerator_EnergyCrystals DisplayName]] "MP Energy Crystal fabrication"),
+	Description = T(492972646205, --[[ModItemTech MassPrint_IndustrialGenerator_EnergyCrystals Description]] "Material fabricators can't make everything, but they can produce energy crystals, a crucial ingredient in powering cutting-edge tech. Crafting a program for the fabricator to create silicon takes serious technical knowledge. Don't expect your average Joe to whip up a recipe for the fabricator, or you might end up with low-grade sand instead!\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Energy Crystals</color>: -> 50<image 'UI/Icons/Build Menu/Plants/enegy_crystals' 1100>"),
+	DisplayName = T(606863500825, --[[ModItemTech MassPrint_IndustrialGenerator_EnergyCrystals DisplayName]] "MP Energy Crystal fabrication"),
 	Icon = "UI/Icons/Research/industrial_generators",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -10984,8 +10893,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Devices",
 	},
-	Description = T(531155925379, --[[ModItemTech MassPrint_FoodGenerator_Chefs Description]] "Let's spend some more time on writing routines for the fabricator matrixes and teach them how to generate the most exquisite meals!\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Generating Chef's meals in Food fabricators</color>"),
-	DisplayName = T(861481393446, --[[ModItemTech MassPrint_FoodGenerator_Chefs DisplayName]] "MP Chef's meals fabrication"),
+	Description = T(853441957544, --[[ModItemTech MassPrint_FoodGenerator_Chefs Description]] "Let's spend some more time on writing routines for the fabricator matrixes and teach them how to generate the most exquisite meals!\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Generating Chef's meals in Food fabricators</color>"),
+	DisplayName = T(931799333223, --[[ModItemTech MassPrint_FoodGenerator_Chefs DisplayName]] "MP Chef's meals fabrication"),
 	Icon = "UI/Icons/Research/food_generating_chefs",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11051,8 +10960,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Devices",
 	},
-	Description = T(740819597684, --[[ModItemTech MassPrint_FoodGenerator_Tasty Description]] "Simply knowing how to construct food fabricators is not sufficient. People will quickly tire of the limited meal options provided by the fabricator matrix. To satisfy everyone's preferences, we should invest time in developing new routines for the matrix, which will allow for the creation of more complex and flavorful meals.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Generating tasty meals in Food fabricators</color>"),
-	DisplayName = T(190019484442, --[[ModItemTech MassPrint_FoodGenerator_Tasty DisplayName]] "MP Tasty meals fabrication"),
+	Description = T(316754995668, --[[ModItemTech MassPrint_FoodGenerator_Tasty Description]] "Simply knowing how to construct food fabricators is not sufficient. People will quickly tire of the limited meal options provided by the fabricator matrix. To satisfy everyone's preferences, we should invest time in developing new routines for the matrix, which will allow for the creation of more complex and flavorful meals.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Generating tasty meals in Food fabricators</color>"),
+	DisplayName = T(713655505246, --[[ModItemTech MassPrint_FoodGenerator_Tasty DisplayName]] "MP Tasty meals fabrication"),
 	Icon = "UI/Icons/Research/food_generating_tasty",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11120,8 +11029,8 @@ PlaceObj('ModItemTech', {
 	}),
 }),
 PlaceObj('ModItemTech', {
-	Description = T(879172244656, --[[ModItemTech MassPrint_Research_MassPrint_Tools Description]] "We can now expand our Mass Printing capabilities towards Toolsmithing. \n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Survival kit</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> <image 'UI/Icons/Resources/res_emergency_rations' 1100> -> <image 'UI/Icons/Resources/res_survival_backpack' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Harvesting tools</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Resources/res_harvesting_tools' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Earplugs</color>: <image 'UI/Icons/Resources/res_cotton_cloth' 1100> -> <image 'UI/Icons/Resources/res_earplugs.png' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Good luck charm</color>: <image 'UI/Icons/Resources/res_construction_materials' 1100> -> <image 'UI/Icons/Resources/res_good_luck_charm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>EM Umbrella</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'UI/Icons/Resources/res_em_umbrella' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>EMP Grenades</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'UI/Icons/Resources/res_emp_grenades' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Grenades</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_grenades' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Night goggles</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_scrap_electronics' 1100> -> <image 'UI/Icons/Resources/res_night_goggles' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Respirator mask</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_respirator_mask' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Signal flares</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_oil' 1100> -> <image 'UI/Icons/Resources/res_signal_flare' 1100> <color TextEmphasis>x10</color>\n	  \n* Manufactured in the 3D Printer\n"),
-	DisplayName = T(507666090481, --[[ModItemTech MassPrint_Research_MassPrint_Tools DisplayName]] "Mass Print Tools"),
+	Description = T(636453166869, --[[ModItemTech MassPrint_Research_MassPrint_Tools Description]] "We can now expand our Mass Printing capabilities towards Toolsmithing. \n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Survival kit</color>: <image 'UI/Icons/Resources/res_fabrics_all' 1100> <image 'UI/Icons/Resources/res_emergency_rations' 1100> -> <image 'UI/Icons/Resources/res_survival_backpack' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Harvesting tools</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> -> <image 'UI/Icons/Resources/res_harvesting_tools' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Earplugs</color>: <image 'UI/Icons/Resources/res_cotton_cloth' 1100> -> <image 'UI/Icons/Resources/res_earplugs.png' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Good luck charm</color>: <image 'UI/Icons/Resources/res_construction_materials' 1100> -> <image 'UI/Icons/Resources/res_good_luck_charm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>EM Umbrella</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'UI/Icons/Resources/res_em_umbrella' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>EMP Grenades</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_energy_crystals' 1100> -> <image 'UI/Icons/Resources/res_emp_grenades' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Grenades</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_grenades' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Night goggles</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_scrap_electronics' 1100> -> <image 'UI/Icons/Resources/res_night_goggles' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Respirator mask</color>: <image 'UI/Icons/Resources/res_synthetics' 1100> <image 'UI/Icons/Resources/res_ore' 1100> -> <image 'UI/Icons/Resources/res_respirator_mask' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Signal flares</color>: <image 'UI/Icons/Resources/res_metal_ingot' 1100> <image 'UI/Icons/Resources/res_oil' 1100> -> <image 'UI/Icons/Resources/res_signal_flare' 1100> <color TextEmphasis>x10</color>\n	  \n* Manufactured in the 3D Printer\n"),
+	DisplayName = T(913489610858, --[[ModItemTech MassPrint_Research_MassPrint_Tools DisplayName]] "Mass Print Tools"),
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
 			Tech = "MassPrintingResearch",
@@ -11260,8 +11169,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Power",
 	},
-	Description = T(603693350589, --[[ModItemTech MassPrint_LightningRods Description]] "Lightning strikes are unpredictable but easy to catch. A tall enough metal rod would suffice.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Massive Lightning rod</color>: 25<image 'UI/Icons/Resources/res_metal_ingot' 1100>"),
-	DisplayName = T(841804556045, --[[ModItemTech MassPrint_LightningRods DisplayName]] "Massive Lightning rods"),
+	Description = T(394721571471, --[[ModItemTech MassPrint_LightningRods Description]] "Lightning strikes are unpredictable but easy to catch. A tall enough metal rod would suffice.\n\n<style TechSubtitleBlue>Unlocks</style>\n   <color TextEmphasis>Massive Lightning rod</color>: 25<image 'UI/Icons/Resources/res_metal_ingot' 1100>"),
+	DisplayName = T(850585368604, --[[ModItemTech MassPrint_LightningRods DisplayName]] "Massive Lightning rods"),
 	Icon = "UI/Icons/Research/lighting_rods",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11290,8 +11199,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_StoragePitMenu",
 	},
-	Description = T(200073658977, --[[ModItemTech MassPrint_Storage_Stage_1 Description]] "Improve your stockpiles storage capacity and slightly refrigerate its contents by digging deeper into the soil.\n\n<style TechSubtitleBlue>Requires stockpiling any construction material:</style>\n  <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_scrap_metal' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_wood_trunk' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_stone_slab' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_sticks' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_hay' 1100>"),
-	DisplayName = T(166270732009, --[[ModItemTech MassPrint_Storage_Stage_1 DisplayName]] "Underground Storage"),
+	Description = T(886850963584, --[[ModItemTech MassPrint_Storage_Stage_1 Description]] "Improve your stockpiles storage capacity and slightly refrigerate its contents by digging deeper into the soil.\n\n<style TechSubtitleBlue>Requires stockpiling any construction material:</style>\n  <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_scrap_metal' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_wood_trunk' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_stone_slab' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_sticks' 1100> OR <color TextEmphasis>x100</color> <image 'UI/Icons/Resources/res_hay' 1100>"),
+	DisplayName = T(864146491782, --[[ModItemTech MassPrint_Storage_Stage_1 DisplayName]] "Underground Storage"),
 	Icon = "UI/Icons/Build Menu/storage_pile",
 	LockPrerequisites = {
 		PlaceObj('CheckOR', {
@@ -11360,7 +11269,7 @@ PlaceObj('ModItemTech', {
 		}),
 	},
 	ResearchPoints = 12000,
-	TradeDescription = T(702110225628, --[[ModItemTech MassPrint_Storage_Stage_1 TradeDescription]] "Improve your stockpiles storage capacity and slightly refrigerate its contents by digging deeper into the soil."),
+	TradeDescription = T(701043058431, --[[ModItemTech MassPrint_Storage_Stage_1 TradeDescription]] "Improve your stockpiles storage capacity and slightly refrigerate its contents by digging deeper into the soil."),
 	group = "Construction",
 	id = "MassPrint_Storage_Stage_1",
 	money_value = 6000000,
@@ -11391,8 +11300,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_StoragePitMenu",
 	},
-	Description = T(178109004505, --[[ModItemTech MassPrint_Storage_Stage_2 Description]] "Further expand your stockpiles storage capacity and greatly refrigerate its contents by digging deeper into the soil."),
-	DisplayName = T(870141989950, --[[ModItemTech MassPrint_Storage_Stage_2 DisplayName]] "Expanded Underground Storage"),
+	Description = T(707074944561, --[[ModItemTech MassPrint_Storage_Stage_2 Description]] "Further expand your stockpiles storage capacity and greatly refrigerate its contents by digging deeper into the soil."),
+	DisplayName = T(412609634929, --[[ModItemTech MassPrint_Storage_Stage_2 DisplayName]] "Expanded Underground Storage"),
 	Icon = "UI/Icons/Build Menu/storage_pile",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11400,7 +11309,7 @@ PlaceObj('ModItemTech', {
 		}),
 	},
 	ResearchPoints = 48000,
-	TradeDescription = T(877400807707, --[[ModItemTech MassPrint_Storage_Stage_2 TradeDescription]] "Improve your stockpiles storage capacity and greatly refrigerate its contents by digging deeper into the soil."),
+	TradeDescription = T(926071354946, --[[ModItemTech MassPrint_Storage_Stage_2 TradeDescription]] "Improve your stockpiles storage capacity and greatly refrigerate its contents by digging deeper into the soil."),
 	group = "Construction",
 	id = "MassPrint_Storage_Stage_2",
 	money_value = 6000000,
@@ -11420,8 +11329,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_StoragePitMenu",
 	},
-	Description = T(571197511792, --[[ModItemTech MassPrint_Storage_Stage_3 Description]] "Maximize your stockpiles storage capacity and freeze its contents by digging deeper into the soil."),
-	DisplayName = T(811918733042, --[[ModItemTech MassPrint_Storage_Stage_3 DisplayName]] "Maximized Underground Storage"),
+	Description = T(766731806007, --[[ModItemTech MassPrint_Storage_Stage_3 Description]] "Maximize your stockpiles storage capacity and freeze its contents by digging deeper into the soil."),
+	DisplayName = T(594618611960, --[[ModItemTech MassPrint_Storage_Stage_3 DisplayName]] "Maximized Underground Storage"),
 	Icon = "UI/Icons/Build Menu/storage_pile",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11436,7 +11345,7 @@ PlaceObj('ModItemTech', {
 		}),
 	},
 	ResearchPoints = 96000,
-	TradeDescription = T(800854541532, --[[ModItemTech MassPrint_Storage_Stage_3 TradeDescription]] "Maximize your stockpiles storage capacity and freeze its contents by digging deeper into the soil."),
+	TradeDescription = T(353681633689, --[[ModItemTech MassPrint_Storage_Stage_3 TradeDescription]] "Maximize your stockpiles storage capacity and freeze its contents by digging deeper into the soil."),
 	group = "Construction",
 	id = "MassPrint_Storage_Stage_3",
 	money_value = 7000000,
@@ -11456,8 +11365,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_ImprovedPowerMenu",
 	},
-	Description = T(369451072364, --[[ModItemTech MassPrint_Solar_Panel_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your solar panel efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks The Smart Solar Panel:</style>\n\n  Generates <color TextEmphasis>100 </color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	DisplayName = T(397467444789, --[[ModItemTech MassPrint_Solar_Panel_Smart DisplayName]] "Smart Solar Panel"),
+	Description = T(309823530185, --[[ModItemTech MassPrint_Solar_Panel_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your solar panel efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks The Smart Solar Panel:</style>\n\n  Generates <color TextEmphasis>100 </color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	DisplayName = T(578321424303, --[[ModItemTech MassPrint_Solar_Panel_Smart DisplayName]] "Smart Solar Panel"),
 	Icon = "UI/Icons/Build Menu/solar_panel",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11533,8 +11442,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_ImprovedPowerMenu",
 	},
-	Description = T(830935903667, --[[ModItemTech MassPrint_Improved_Solar_Panel_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your improved solar panel efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks The Smart Improved Solar Panel:</style>\n\n  Generates <color TextEmphasis>200 </color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	DisplayName = T(278232502784, --[[ModItemTech MassPrint_Improved_Solar_Panel_Smart DisplayName]] "Smart Improved Solar Panel"),
+	Description = T(913941045546, --[[ModItemTech MassPrint_Improved_Solar_Panel_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your improved solar panel efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks The Smart Improved Solar Panel:</style>\n\n  Generates <color TextEmphasis>200 </color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	DisplayName = T(738964677426, --[[ModItemTech MassPrint_Improved_Solar_Panel_Smart DisplayName]] "Smart Improved Solar Panel"),
 	Icon = "UI/Icons/Build Menu/improved_solar_panel",
 	LockPrerequisites = {
 		PlaceObj('CheckSurvivorsWithSkillLevels', {
@@ -11597,8 +11506,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_ImprovedPowerMenu",
 	},
-	Description = T(163111266230, --[[ModItemTech MassPrint_Solar_Panel_Graphene Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your graphene solar panel efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Graphene Solar Panel:</style>\n\n  Generates <color TextEmphasis>400 </color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	DisplayName = T(940272034015, --[[ModItemTech MassPrint_Solar_Panel_Graphene DisplayName]] "Smart Graphene Panel"),
+	Description = T(354635281637, --[[ModItemTech MassPrint_Solar_Panel_Graphene Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your graphene solar panel efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Graphene Solar Panel:</style>\n\n  Generates <color TextEmphasis>400 </color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	DisplayName = T(137512701887, --[[ModItemTech MassPrint_Solar_Panel_Graphene DisplayName]] "Smart Graphene Panel"),
 	Icon = "UI/Icons/Build Menu/graphene_solar_panel",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11652,8 +11561,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_ImprovedPowerMenu",
 	},
-	Description = T(402280200964, --[[ModItemTech MassPrint_Wind_Turbine_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Wind Turbine efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Wind Turbine:</style>\n\n  Generates <color TextEmphasis>up to 200 </color><image 'UI/Icons/Resources/res_electricity' 1100> when there's wind.\n\n  <color TextEmphasis>Slightly reduces the wind strenght needed to achieve full potential</color>"),
-	DisplayName = T(363630562441, --[[ModItemTech MassPrint_Wind_Turbine_Smart DisplayName]] "Smart Wind Turbines"),
+	Description = T(583648151032, --[[ModItemTech MassPrint_Wind_Turbine_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Wind Turbine efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Wind Turbine:</style>\n\n  Generates <color TextEmphasis>up to 200 </color><image 'UI/Icons/Resources/res_electricity' 1100> when there's wind.\n\n  <color TextEmphasis>Slightly reduces the wind strenght needed to achieve full potential</color>"),
+	DisplayName = T(313539545951, --[[ModItemTech MassPrint_Wind_Turbine_Smart DisplayName]] "Smart Wind Turbines"),
 	Icon = "UI/Icons/Build Menu/wind_turbine",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11729,8 +11638,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_ImprovedPowerMenu",
 	},
-	Description = T(643601333529, --[[ModItemTech MassPrint_Wind_Turbine_Carbon_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Carbon Wind Turbine efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Carbon Wind Turbine:</style>\n\n  Generates <color TextEmphasis>up to 400 </color><image 'UI/Icons/Resources/res_electricity' 1100> when there's wind.\n\n  <color TextEmphasis>Greatly reduces the wind strenght needed to achieve full potential</color>"),
-	DisplayName = T(938112236835, --[[ModItemTech MassPrint_Wind_Turbine_Carbon_Smart DisplayName]] "Smart Carbon Wind Turbines"),
+	Description = T(647172891442, --[[ModItemTech MassPrint_Wind_Turbine_Carbon_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Carbon Wind Turbine efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Carbon Wind Turbine:</style>\n\n  Generates <color TextEmphasis>up to 400 </color><image 'UI/Icons/Resources/res_electricity' 1100> when there's wind.\n\n  <color TextEmphasis>Greatly reduces the wind strenght needed to achieve full potential</color>"),
+	DisplayName = T(737333160073, --[[ModItemTech MassPrint_Wind_Turbine_Carbon_Smart DisplayName]] "Smart Carbon Wind Turbines"),
 	Icon = "UI/Icons/Build Menu/wind_turbine_carbon",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11784,8 +11693,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_ImprovedPowerMenu",
 	},
-	Description = T(284775907143, --[[ModItemTech MassPrint_DieselGenerator_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Diesel Generator efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Diesel Generator:</style>\n\n  Generates <color TextEmphasis>250 </color><image 'UI/Icons/Resources/res_electricity' 1100> whilst burning off <image 'UI/Icons/Resources/res_oil' 1100>."),
-	DisplayName = T(896953266027, --[[ModItemTech MassPrint_DieselGenerator_Smart DisplayName]] "Smart Diesel generators"),
+	Description = T(810655583949, --[[ModItemTech MassPrint_DieselGenerator_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Diesel Generator efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Diesel Generator:</style>\n\n  Generates <color TextEmphasis>250 </color><image 'UI/Icons/Resources/res_electricity' 1100> whilst burning off <image 'UI/Icons/Resources/res_oil' 1100>."),
+	DisplayName = T(296311590305, --[[ModItemTech MassPrint_DieselGenerator_Smart DisplayName]] "Smart Diesel generators"),
 	Icon = "UI/Icons/Build Menu/diesel_generator",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11849,8 +11758,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Defense",
 	},
-	Description = T(119315173703, --[[ModItemTech MassPrint_Sensors_Smart Description]] "Adding a some basic AI Algorithms, you will optimize your Motion Sensor Radius.\n\n<style TechSubtitleBlue>Unlocks the Smart Motion Sensor:</style>\n\n  Increased Radius <color TextEmphasis>1.5x </color>."),
-	DisplayName = T(674723539633, --[[ModItemTech MassPrint_Sensors_Smart DisplayName]] "Smart Motion Sensor"),
+	Description = T(203659972554, --[[ModItemTech MassPrint_Sensors_Smart Description]] "Adding a some basic AI Algorithms, you will optimize your Motion Sensor Radius.\n\n<style TechSubtitleBlue>Unlocks the Smart Motion Sensor:</style>\n\n  Increased Radius <color TextEmphasis>1.5x </color>."),
+	DisplayName = T(106335444639, --[[ModItemTech MassPrint_Sensors_Smart DisplayName]] "Smart Motion Sensor"),
 	Icon = "UI/Icons/Build Menu/infrared_detector",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11909,8 +11818,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"MassPrint_ImprovedPowerMenu",
 	},
-	Description = T(294435167944, --[[ModItemTech MassPrint_PowerCellGenerator_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Power Cell Generator efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Power Cell Generator:</style>\n\n  Generates <color TextEmphasis>500 </color><image 'UI/Icons/Resources/res_electricity' 1100> whilst burning off <image 'UI/Icons/Resources/res_power_cell' 1100>."),
-	DisplayName = T(397279517666, --[[ModItemTech MassPrint_PowerCellGenerator_Smart DisplayName]] "Smart Power Cell generators"),
+	Description = T(270246620869, --[[ModItemTech MassPrint_PowerCellGenerator_Smart Description]] "Adding a built-in CPU and some basic AI Algorithms, you will optimize your Power Cell Generator efficiency and durability.\n\n<style TechSubtitleBlue>Unlocks the Smart Power Cell Generator:</style>\n\n  Generates <color TextEmphasis>500 </color><image 'UI/Icons/Resources/res_electricity' 1100> whilst burning off <image 'UI/Icons/Resources/res_power_cell' 1100>."),
+	DisplayName = T(714947759557, --[[ModItemTech MassPrint_PowerCellGenerator_Smart DisplayName]] "Smart Power Cell generators"),
 	Icon = "UI/Icons/Build Menu/power_cell_generator",
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
@@ -11977,8 +11886,8 @@ PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
 		"Animals",
 	},
-	Description = T(230248205318, --[[ModItemTech MassPrint_Composting Description]] "<style TechSubtitleBlue>Unlocks the Composter:</style>\n\n  Composts <color TextEmphasis>Food items </color><image 'UI/Icons/Resources/res_food' 1100> into <color TextEmphasis>Manure</color> <image 'UI/Icons/Resources/res_manure' 1100>."),
-	DisplayName = T(499548341757, --[[ModItemTech MassPrint_Composting DisplayName]] "Composting"),
+	Description = T(236616552626, --[[ModItemTech MassPrint_Composting Description]] "<style TechSubtitleBlue>Unlocks the Composter:</style>\n\n  Composts <color TextEmphasis>Food items </color><image 'UI/Icons/Resources/res_food' 1100> into <color TextEmphasis>Manure</color> <image 'UI/Icons/Resources/res_manure' 1100>."),
+	DisplayName = T(811766391940, --[[ModItemTech MassPrint_Composting DisplayName]] "Composting"),
 	Icon = "UI/Icons/Resources/res_manure",
 	LockPrerequisites = {
 		PlaceObj('CheckResourceUnlocked', {
@@ -11995,7 +11904,7 @@ PlaceObj('ModItemTech', {
 		}),
 	},
 	ResearchPoints = 6000,
-	TradeDescription = T(910609953861, --[[ModItemTech MassPrint_Composting TradeDescription]] "Enables composting <color TextEmphasis>Food items </color><image 'UI/Icons/Resources/res_food' 1100_> into <color TextEmphasis>Manure</color> <image 'UI/Icons/Resources/res_manure' 1100>"),
+	TradeDescription = T(929951978878, --[[ModItemTech MassPrint_Composting TradeDescription]] "Enables composting <color TextEmphasis>Food items </color><image 'UI/Icons/Resources/res_food' 1100_> into <color TextEmphasis>Manure</color> <image 'UI/Icons/Resources/res_manure' 1100>"),
 	group = "Resources",
 	id = "MassPrint_Composting",
 	money_value = 10000000,
@@ -12136,9 +12045,9 @@ PlaceObj('ModItemWeaponResource', {
 	carry_scale = 90,
 	carry_spot = "Tool",
 	carry_type = "HandsClose",
-	description = T(218572908891, --[[ModItemWeaponResource MassPrint_RapidPulse_Rifle description]] "Advanced ranged weapon. Deals a lot of damage with high attack rate."),
-	display_name = T(217425392847, --[[ModItemWeaponResource MassPrint_RapidPulse_Rifle display_name]] "Rapid Pulse Rifle"),
-	display_name_pl = T(541644906024, --[[ModItemWeaponResource MassPrint_RapidPulse_Rifle display_name_pl]] "Rapid Pulse Rifle"),
+	description = T(289628280445, --[[ModItemWeaponResource MassPrint_RapidPulse_Rifle description]] "Advanced ranged weapon. Deals a lot of damage with high attack rate."),
+	display_name = T(728701143949, --[[ModItemWeaponResource MassPrint_RapidPulse_Rifle display_name]] "Rapid Pulse Rifle"),
+	display_name_pl = T(235227474470, --[[ModItemWeaponResource MassPrint_RapidPulse_Rifle display_name_pl]] "Rapid Pulse Rifle"),
 	group = "Weapons_Human",
 	icon = "Mod/H5Xfcfc/Images/download_1_44x44 3.png",
 	id = "MassPrint_RapidPulse_Rifle",

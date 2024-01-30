@@ -6,13 +6,18 @@ DefineClass.MassPrint_Carbon_Wind_Smart = {
 
 	object_class = "WindTurbineBuilding",
 	LockState = "hidden",
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Wind_Turbine_Carbon_Smart",
+		}),
+	},
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(567297108059, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name]] "Smart Carbon Wind Turbine"),
-	description = T(614848352795, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart description]] "Adding a built-in multi-core CPU, advanced AI algorithms, lighter carbon fiber materials and automatic self-aligning servo-motors to optimize the wind turbine operations giving maximized Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 400</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed.\n\nCosts: <color TextEmphasis>5</color><image 'UI/Icons/Resources/res_scrap_electronics' 1100> <color TextEmphasis>2</color><image 'UI/Icons/Resources/res_cpu_cores' 1100> <color TextEmphasis>40</color><image 'UI/Icons/Resources/res_carbon_nanotubes' 1100>"),
-	menu_display_name = T(850122279696, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart menu_display_name]] "Smart Carbon Wind Turbine"),
+	display_name = T(836318541266, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name]] "Smart Carbon Wind Turbine"),
+	description = T(416501334684, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart description]] "Adding a built-in multi-core CPU, advanced AI algorithms, lighter carbon fiber materials and automatic self-aligning servo-motors to optimize the wind turbine operations giving maximized Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 400</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed.\n\nCosts: <color TextEmphasis>5</color><image 'UI/Icons/Resources/res_scrap_electronics' 1100> <color TextEmphasis>2</color><image 'UI/Icons/Resources/res_cpu_cores' 1100> <color TextEmphasis>40</color><image 'UI/Icons/Resources/res_carbon_nanotubes' 1100>"),
+	menu_display_name = T(431585572219, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart menu_display_name]] "Smart Carbon Wind Turbine"),
 	BuildMenuIcon = "UI/Icons/Build Menu/wind_turbine_carbon",
 	BuildMenuPos = 12,
-	display_name_pl = T(928067976141, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name_pl]] "Smart Carbon Wind Turbines"),
+	display_name_pl = T(291272434313, --[[ModItemBuildingCompositeDef MassPrint_Carbon_Wind_Smart display_name_pl]] "Smart Carbon Wind Turbines"),
 	entity = "WindTurbineCarbone",
 	labels = {
 		"PowerSources",

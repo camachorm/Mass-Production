@@ -6,14 +6,19 @@ DefineClass.MassPrint_Graphene_Solar_Panel_Smart = {
 
 	object_class = "SolarPanelAutomated",
 	LockState = "hidden",
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Solar_Panel_Graphene",
+		}),
+	},
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(627806329885, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name]] "Smart Graphene Solar Panel"),
-	description = T(670943309038, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, the best AI algorithms and the new graphene solar cells gives the best possible Power Production & Durability.\n\nGenerates <color TextEmphasis>300</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	menu_display_name = T(210067198314, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart menu_display_name]] "Smart Graphene Solar Panel"),
+	display_name = T(976821217076, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name]] "Smart Graphene Solar Panel"),
+	description = T(530231828145, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, the best AI algorithms and the new graphene solar cells gives the best possible Power Production & Durability.\n\nGenerates <color TextEmphasis>300</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	menu_display_name = T(460560050353, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart menu_display_name]] "Smart Graphene Solar Panel"),
 	BuildMenuIcon = "UI/Icons/Build Menu/graphene_solar_panel",
 	BuildMenuPos = 3,
-	display_name_pl = T(351980305109, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_pl]] "Smart Graphene solar panels"),
-	display_name_short = T(293718827950, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_short]] "Smart Graphene panel"),
+	display_name_pl = T(258627603136, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_pl]] "Smart Graphene solar panels"),
+	display_name_short = T(264794831557, --[[ModItemBuildingCompositeDef MassPrint_Graphene_Solar_Panel_Smart display_name_short]] "Smart Graphene panel"),
 	entity = "GraphenSolarPanel",
 	labels = {
 		"PowerSources",

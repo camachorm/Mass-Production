@@ -6,14 +6,19 @@ DefineClass.MassPrint_Improved_Solar_Panel_Smart = {
 
 	object_class = "Building",
 	LockState = "hidden",
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Improved_Solar_Panel_Smart",
+		}),
+	},
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(953365187427, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name]] "Smart Improved Solar Panel"),
-	description = T(283307119584, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, better AI algorithms and improved solar cells increases Power Production & Durability even further.\n\nGenerates <color TextEmphasis>200</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
-	menu_display_name = T(571704750084, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart menu_display_name]] "Smart Imp. Solar Panel"),
+	display_name = T(379819750178, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name]] "Smart Improved Solar Panel"),
+	description = T(562102172384, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart description]] "Adding a built-in dual-core CPU, better AI algorithms and improved solar cells increases Power Production & Durability even further.\n\nGenerates <color TextEmphasis>200</color><image 'UI/Icons/Resources/res_electricity' 1100> during the day."),
+	menu_display_name = T(387482673629, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart menu_display_name]] "Smart Imp. Solar Panel"),
 	BuildMenuIcon = "UI/Icons/Build Menu/improved_solar_panel",
 	BuildMenuPos = 2,
-	display_name_pl = T(787752248004, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_pl]] "Smart Improved solar panels"),
-	display_name_short = T(477256454854, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_short]] "Smart Imp. Solar panel"),
+	display_name_pl = T(264864932354, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_pl]] "Smart Improved solar panels"),
+	display_name_short = T(530118212562, --[[ModItemBuildingCompositeDef MassPrint_Improved_Solar_Panel_Smart display_name_short]] "Smart Imp. Solar panel"),
 	entity = "ImprovedSolarPanel",
 	labels = {
 		"PowerSources",

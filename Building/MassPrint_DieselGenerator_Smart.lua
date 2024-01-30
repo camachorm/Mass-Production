@@ -6,15 +6,20 @@ DefineClass.MassPrint_DieselGenerator_Smart = {
 
 	object_class = "Building",
 	LockState = "hidden",
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_DieselGenerator_Smart",
+		}),
+	},
 	unload_anim_hands = "standing_DropDown_Hands",
 	load_anim_hands = "standing_PickUp_Hands",
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(794204593729, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name]] "Smart Diesel generator"),
-	description = T(584262371052, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
-	menu_display_name = T(425209277094, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart menu_display_name]] "Smart Diesel Generator"),
+	display_name = T(957224522709, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name]] "Smart Diesel generator"),
+	description = T(190098982784, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart description]] "Adding a built-in CPU and basic AI algorithms to optimize the diesel generator operations you get increased Power Production & Durability with the same Resource Consumption.\n\nGenerates <color TextEmphasis>250</color> <image 'UI/Icons/Resources/res_electricity' 1100> while burning fuel."),
+	menu_display_name = T(991731990603, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart menu_display_name]] "Smart Diesel Generator"),
 	BuildMenuIcon = "UI/Icons/Build Menu/diesel_generator",
 	BuildMenuPos = 8,
-	display_name_pl = T(358492789369, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name_pl]] "Smart Diesel generators"),
+	display_name_pl = T(411059444205, --[[ModItemBuildingCompositeDef MassPrint_DieselGenerator_Smart display_name_pl]] "Smart Diesel generators"),
 	entity = "DieselGenerator",
 	labels = {
 		"PowerSources",

@@ -6,13 +6,18 @@ DefineClass.MassPrint_Wind_Smart = {
 
 	object_class = "WindTurbineBuilding",
 	LockState = "hidden",
+	LockPrerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "MassPrint_Wind_Turbine_Smart",
+		}),
+	},
 	BuildMenuCategory = "MassPrint_ImprovedPowerMenu",
-	display_name = T(395251241818, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name]] "Smart Wind turbine"),
-	description = T(379588626703, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart description]] "Adding a built-in CPU, basic AI algorithms and some self-aligning servo-motors to optimize the wind turbine operations giving improved Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 200</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed."),
-	menu_display_name = T(181142285960, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart menu_display_name]] "Smart Wind turbine"),
+	display_name = T(607791790073, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name]] "Smart Wind turbine"),
+	description = T(555802211167, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart description]] "Adding a built-in CPU, basic AI algorithms and some self-aligning servo-motors to optimize the wind turbine operations giving improved Power Production & Durability.\n\nGenerates <color TextEmphasis>up to 200</color> <image 'UI/Icons/Resources/res_electricity' 1100> depending on wind speed."),
+	menu_display_name = T(677949409839, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart menu_display_name]] "Smart Wind turbine"),
 	BuildMenuIcon = "UI/Icons/Build Menu/wind_turbine",
 	BuildMenuPos = 11,
-	display_name_pl = T(669770393175, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name_pl]] "Smart Wind turbines"),
+	display_name_pl = T(585822260825, --[[ModItemBuildingCompositeDef MassPrint_Wind_Smart display_name_pl]] "Smart Wind turbines"),
 	entity = "WindTurbine",
 	labels = {
 		"PowerSources",
