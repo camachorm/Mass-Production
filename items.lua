@@ -8912,6 +8912,78 @@ PlaceObj('ModItemTech', {
 		LockState = "locked",
 		PresetId = "MassPrint_Genetic_Engineering_Crops",
 	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "hidden",
+		PresetId = "MassPrint_Resources_Filaments_Structural_10",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "locked",
+		PresetId = "MassPrint_Resources_Filaments_Structural_10",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "hidden",
+		PresetId = "MassPrint_Resources_Filaments_Structural_100",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "locked",
+		PresetId = "MassPrint_Resources_Filaments_Structural_100",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "hidden",
+		PresetId = "MassPrint_Resources_Filaments_Circuitry_10",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "locked",
+		PresetId = "MassPrint_Resources_Filaments_Circuitry_10",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "hidden",
+		PresetId = "MassPrint_Resources_Filaments_Circuitry_100",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "locked",
+		PresetId = "MassPrint_Resources_Filaments_Circuitry_100",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "hidden",
+		PresetId = "MassPrint_Resources_Filaments_Energy_10",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "locked",
+		PresetId = "MassPrint_Resources_Filaments_Energy_10",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "hidden",
+		PresetId = "MassPrint_Resources_Filaments_Energy_100",
+	}),
+	PlaceObj('RemoveLockedState', {
+		Class = "ModItemRecipe",
+		Group = "Printer",
+		LockState = "locked",
+		PresetId = "MassPrint_Resources_Filaments_Energy_100",
+	}),
 }),
 PlaceObj('ModItemTech', {
 	BuildMenuCategoryHighlights = {
