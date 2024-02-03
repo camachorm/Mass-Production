@@ -56,14 +56,6 @@ PlaceObj('ModItemBuildCategory', {
 	id = "MassPrint_WinterClothing_Category",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(219702984953, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory ActionText |gender-variants]] "Print"),
-	Description = T(174958554774, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory Description]] "Print Leather and Veggie Leather armor sets."),
-	DisplayName = T(754578239035, --[[ModItemBuildCategory Default MassPrint_Leathers_RecipeCategory DisplayName]] "Basic Armor"),
-	Icon = "UI/Icons/Items/leather_armor",
-	SortKey = 200,
-	id = "MassPrint_Leathers_RecipeCategory",
-}),
-PlaceObj('ModItemBuildCategory', {
 	ActionText = T(917568220168, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory ActionText |gender-variants]] "Print"),
 	Description = T(570936861943, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory Description]] "Print Synthetic and Carbon Armour sets."),
 	DisplayName = T(874579112205, --[[ModItemBuildCategory Default MassPrint_AdvArmor_RecipeCategory DisplayName]] "Adv. Armour"),
@@ -4012,8 +4004,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_helm",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 200000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 20000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4053,8 +4045,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_armor",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 400000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 40000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4094,8 +4086,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_pants",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 300000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 30000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4135,8 +4127,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_boots",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 200000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 20000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4176,8 +4168,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_helm_improved",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 200000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 25000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4217,8 +4209,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_armor_improved",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 400000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 45000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4258,8 +4250,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_pants_improved",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 300000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 35000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4298,8 +4290,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_boots_improved",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 200000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 25000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4339,12 +4331,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/synthetic_helm",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Synthetics",
-			'amount', 100000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 10000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4384,12 +4372,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/synthetic_pants",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Synthetics",
-			'amount', 200000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 15000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4429,12 +4413,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/synthetic_armor",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Synthetics",
-			'amount', 300000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 20000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4474,12 +4454,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/synthetic_boots",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Synthetics",
-			'amount', 100000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 10000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4508,335 +4484,6 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	ActivityDuration = 240000,
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(828991020871, --[[ModItemRecipe MassPrint_Armor_Leather_Helm Description]] "Craft a light armor piece from leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(922011083684, --[[ModItemRecipe MassPrint_Armor_Leather_Helm DisplayName]] "Leather helmet"),
-	FailChance = 10,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/leather_helm",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "LeatherDry",
-			'amount', 200000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "LeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Hat_Leather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1010,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_Leather_Helm",
-}),
-PlaceObj('ModItemRecipe', {
-	ActivityDuration = 720000,
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(926080757089, --[[ModItemRecipe MassPrint_Armor_Leather_Armour Description]] "Craft a light armor piece from leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(898441030009, --[[ModItemRecipe MassPrint_Armor_Leather_Armour DisplayName]] "Leather vest"),
-	FailChance = 15,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/leather_armor",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "LeatherDry",
-			'amount', 400000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch_Leathers",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "LeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Jacket_Leather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1020,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_Leather_Armour",
-}),
-PlaceObj('ModItemRecipe', {
-	ActivityDuration = 480000,
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(255732769062, --[[ModItemRecipe MassPrint_Armor_Leather_Pants Description]] "Craft a light armor piece from leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(583226759889, --[[ModItemRecipe MassPrint_Armor_Leather_Pants DisplayName]] "Leather leggings"),
-	FailChance = 15,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/leather_pants",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "LeatherDry",
-			'amount', 300000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "LeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Pants_Leather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1030,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_Leather_Pants",
-}),
-PlaceObj('ModItemRecipe', {
-	Activity = "Tailoring",
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(149668968093, --[[ModItemRecipe MassPrint_Armor_Leather_Boots Description]] "Craft a light armor piece from leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(588804767740, --[[ModItemRecipe MassPrint_Armor_Leather_Boots DisplayName]] "Leather boots"),
-	FailChance = 15,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/leather_boots",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "LeatherDry",
-			'amount', 200000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "LeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MakeUntilMultiplier = 10,
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Shoes_Leather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1040,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_Leather_Boots",
-}),
-PlaceObj('ModItemRecipe', {
-	ActivityDuration = 240000,
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(114315250890, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Helm Description]] "Craft a light armor piece from veggie leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(123055828540, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Helm DisplayName]] "Veggie helmet"),
-	FailChance = 10,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/veggie_leather_helm",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "VeggieLeather",
-			'amount', 200000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "VeggieLeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Hat_VeggieLeather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1010,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_VeggieLeather_Helm",
-}),
-PlaceObj('ModItemRecipe', {
-	ActivityDuration = 720000,
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(271292384004, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Armour Description]] "Craft a light armor piece from veggie leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(456059653897, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Armour DisplayName]] "Veggie vest"),
-	FailChance = 15,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/veggie_leather_armor",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "VeggieLeather",
-			'amount', 400000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch_Leathers",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "VeggieLeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Jacket_VeggieLeather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1020,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_VeggieLeather_Armour",
-}),
-PlaceObj('ModItemRecipe', {
-	ActivityDuration = 480000,
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(792246399184, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Pants Description]] "Craft a light armor piece from veggie leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(226977500945, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Pants DisplayName]] "Veggie leggings"),
-	FailChance = 15,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/veggie_leather_pants",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "VeggieLeather",
-			'amount', 300000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "VeggieLeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Pants_VeggieLeather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1030,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_VeggieLeather_Pants",
-}),
-PlaceObj('ModItemRecipe', {
-	ActivityDuration = 480000,
-	ActivityXPGrade = "Crafting_High",
-	BuildCategory = "MassPrint_Leathers_RecipeCategory",
-	Description = T(113427152029, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Boots Description]] "Craft a light armor piece from veggie leather."),
-	DestroyOnFail = false,
-	DeviceWorkTime = 240000,
-	DisplayName = T(624321159521, --[[ModItemRecipe MassPrint_Armor_VeggieLeather_Boots DisplayName]] "Veggie boots"),
-	FailChance = 15,
-	GuaranteedSuccessLevel = 6,
-	Icon = "UI/Icons/Items/veggie_leather_boots",
-	InputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "VeggieLeather",
-			'amount', 200000,
-		}),
-	},
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "VeggieLeatherArmors",
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 3,
-	OutputResources = {
-		PlaceObj('ResAmount', {
-			'resource', "Armor_Shoes_VeggieLeather",
-			'amount', 10000,
-		}),
-	},
-	RequiredDeviceInterfaces = {
-		"MassPrint_EquipmentPrinter_DeviceInterface",
-	},
-	SortKey = 1040,
-	Unfinished = true,
-	group = "Printer",
-	id = "MassPrint_Armor_VeggieLeather_Boots",
-}),
-PlaceObj('ModItemRecipe', {
-	ActivityDuration = 240000,
 	BuildCategory = "MassPrint_Weapons_RecipeCategory",
 	Description = T(681611630482, --[[ModItemRecipe MassPrint_BWpn_Spear Description]] "Smith a crude spear with wooden handle and scrap metal blade."),
 	DestroyOnFail = false,
@@ -4847,12 +4494,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/spear",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Wood",
-			'amount', 100000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "ScrapMetal",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 10000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4888,12 +4531,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/crossbow",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Wood",
-			'amount', 100000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 20000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4930,12 +4569,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/short_bow",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Sticks",
-			'amount', 200000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "FabricsAll",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 15000,
 		}),
 	},
 	LockPrerequisites = {
@@ -4973,16 +4608,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/pacifier",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Wood",
-			'amount', 100000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Metal",
-			'amount', 100000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "MedHealingBalm",
-			'amount', 2000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 5000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5023,8 +4650,8 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/carbon_crossbow",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Grain",
-			'amount', 300000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 15000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5064,16 +4691,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/laser_pike",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "CarbonNanotubes",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 10000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 5000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 3000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5114,16 +4741,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/laser_blaster",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 350000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 18000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 450000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 22000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "EnergyCrystals",
-			'amount', 300000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 15000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5164,16 +4791,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/laser_sword",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Grain",
-			'amount', 100000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 15000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 300000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 10000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 200000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 5000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5217,16 +4844,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/pulse_riffle",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 500000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 25000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 400000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 20000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "EnergyCrystals",
-			'amount', 600000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 30000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5267,20 +4894,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/railgun_sniper",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Grain",
-			'amount', 200000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 13000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 350000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 450000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 23000,
 		}),
 		PlaceObj('ResAmount', {
 			'resource', "EnergyCrystals",
-			'amount', 300000,
+			'amount', 15000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5321,16 +4944,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/laser_blaster_improved",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 700000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 35000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 400000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 20000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "EnergyCrystals",
-			'amount', 600000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 30000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5371,16 +4994,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/pulse_riffle_improved",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 1000000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 50000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 800000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 40000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "EnergyCrystals",
-			'amount', 1200000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 55000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5421,20 +5044,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "UI/Icons/Items/railgun_sniper_improved",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Grain",
-			'amount', 400000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 35000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 700000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 45000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 900000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "EnergyCrystals",
-			'amount', 1200000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 60000,
 		}),
 	},
 	LockPrerequisites = {
@@ -5528,20 +5147,16 @@ PlaceObj('ModItemRecipe', {
 	Icon = "Mod/H5Xfcfc/Images/download_1_44x44.png",
 	InputResources = {
 		PlaceObj('ResAmount', {
-			'resource', "Ore",
-			'amount', 1150000,
+			'resource', "MassPrint_Resources_Filaments_Structural",
+			'amount', 53000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "Silicon",
-			'amount', 1500000,
+			'resource', "MassPrint_Resources_Filaments_Circuitry",
+			'amount', 75000,
 		}),
 		PlaceObj('ResAmount', {
-			'resource', "EnergyCrystals",
-			'amount', 600000,
-		}),
-		PlaceObj('ResAmount', {
-			'resource', "Grain",
-			'amount', 350000,
+			'resource', "MassPrint_Resources_Filaments_Energy",
+			'amount', 30000,
 		}),
 	},
 	LockPrerequisites = {
@@ -10192,12 +9807,6 @@ PlaceObj('ModItemTech', {
 		Class = "Tech",
 		Group = "Defense",
 		LockState = "hidden",
-		PresetId = "MassPrintingResearch_Leathers",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Tech",
-		Group = "Defense",
-		LockState = "hidden",
 		PresetId = "MassPrintingResearch_Carbons",
 	}),
 	PlaceObj('RemoveLockedState', {
@@ -10247,12 +9856,6 @@ PlaceObj('ModItemTech', {
 		Group = "Breakthroughs",
 		LockState = "locked",
 		PresetId = "ElectronicComponentsPrinting",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Tech",
-		Group = "Defense",
-		LockState = "locked",
-		PresetId = "MassPrintingResearch_Leathers",
 	}),
 	PlaceObj('RemoveLockedState', {
 		Class = "Tech",
@@ -10930,192 +10533,6 @@ PlaceObj('ModItemTech', {
 		Group = "Devices",
 		LockState = "hidden",
 		PresetId = "MassPrint_Upgraded_Small_Drying_Rack",
-	}),
-}),
-PlaceObj('ModItemTech', {
-	Description = T(451093748547, --[[ModItemTech MassPrintingResearch_Leathers Description]] "With a dedicated printer design for clothing, we can now print leather armours straight from raw resources\n\n<style TechSubtitleBlue>Unlocks</style>\n\n   <color TextEmphasis>Leather Helm</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Armor</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Pants</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Leather Boots</color>: <image 'UI/Icons/Resources/res_dry_leather' 1100> -> <image 'UI/Icons/Resources/leather_boots' 1100> <color TextEmphasis>x10</color>\n   \n   <color TextEmphasis>Veggie Helm</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_helm' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Armor</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_armor' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Pants</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_pants' 1100> <color TextEmphasis>x10</color>\n   <color TextEmphasis>Veggie Boots</color>: <image 'UI/Icons/Resources/res_veggie_leather' 1100> -> <image 'UI/Icons/Resources/veggie_leather_boots' 1100> <color TextEmphasis>x10</color>\n      \n   * Manufactured in the Equipment 3D Printer\n   ** Recipes still require to have been manually crafted before they are enabled for use"),
-	DisplayName = T(553743034100, --[[ModItemTech MassPrintingResearch_Leathers DisplayName]] "Mass Print Leather Armor sets"),
-	Icon = "UI/Icons/Items/leather_armor",
-	LockPrerequisites = {
-		PlaceObj('CheckTech', {
-			Tech = "MassPrintingResearch",
-		}),
-		PlaceObj('CheckTech', {
-			Tech = "CarbonPrinting",
-		}),
-		PlaceObj('CheckOR', {
-			Conditions = {
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Hat_Leather",
-					ResourceGroup = "Equipment",
-				}),
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Hat_VeggieLeather",
-					ResourceGroup = "Equipment",
-				}),
-			},
-		}),
-		PlaceObj('CheckOR', {
-			Conditions = {
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Jacket_Leather",
-					ResourceGroup = "Equipment",
-				}),
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Jacket_VeggieLeather",
-					ResourceGroup = "Equipment",
-				}),
-			},
-		}),
-		PlaceObj('CheckOR', {
-			Conditions = {
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Pants_Leather",
-					ResourceGroup = "Equipment",
-				}),
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Pants_VeggieLeather",
-					ResourceGroup = "Equipment",
-				}),
-			},
-		}),
-		PlaceObj('CheckOR', {
-			Conditions = {
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Shoes_VeggieLeather",
-					ResourceGroup = "Equipment",
-				}),
-				PlaceObj('CheckResourceUnlocked', {
-					Resource = "Armor_Shoes_Leather",
-					ResourceGroup = "Equipment",
-				}),
-			},
-		}),
-		PlaceObj('CheckOR', {
-			Conditions = {
-				PlaceObj('CheckTech', {
-					Tech = "LeatherArmors",
-				}),
-				PlaceObj('CheckTech', {
-					Tech = "VeggieLeatherArmors",
-				}),
-			},
-		}),
-	},
-	LockState = "hidden",
-	MinSkillLevel = 8,
-	ResearchPoints = 96000,
-	SortKey = 30,
-	group = "Defense",
-	id = "MassPrintingResearch_Leathers",
-	money_value = 25000000,
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_Leather_Helm",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_Leather_Helm",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_Leather_Armour",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_Leather_Armour",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_Leather_Pants",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_Leather_Pants",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_Leather_Boots",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_Leather_Boots",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_VeggieLeather_Helm",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_VeggieLeather_Helm",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_VeggieLeather_Armour",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_VeggieLeather_Armour",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_VeggieLeather_Pants",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_VeggieLeather_Pants",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Armor_VeggieLeather_Boots",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Armor_VeggieLeather_Boots",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "BuildingCompositeDef",
-		Group = "Devices",
-		LockState = "hidden",
-		PresetId = "MassEquipmentPrinter3D",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "BuildingCompositeDef",
-		Group = "Devices",
-		LockState = "locked",
-		PresetId = "MassEquipmentPrinter3D",
 	}),
 }),
 PlaceObj('ModItemTech', {
@@ -12320,18 +11737,6 @@ PlaceObj('ModItemTech', {
 		Group = "Printer",
 		LockState = "hidden",
 		PresetId = "MassPrint_Tools_SignalFlares_10",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "locked",
-		PresetId = "MassPrint_Tools_SurvivalKit_10",
-	}),
-	PlaceObj('RemoveLockedState', {
-		Class = "Recipe",
-		Group = "Printer",
-		LockState = "hidden",
-		PresetId = "MassPrint_Tools_SurvivalKit_10",
 	}),
 	PlaceObj('RemoveLockedState', {
 		Class = "Recipe",
