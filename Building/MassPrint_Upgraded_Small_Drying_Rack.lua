@@ -11,13 +11,13 @@ DefineClass.MassPrint_Upgraded_Small_Drying_Rack = {
 	TreatStorageAsDevice = true,
 	ClosedStorage = true,
 	BuildMenuCategory = "sub_DryingRacksSmall",
-	display_name = T(274384263938, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name]] "Electronic drying rack"),
-	description = T(857086316098, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack description]] "Dries raw resources over time. Has built-in roof which slows down the drying process but allows products to be stored longer before spoiling.\nHas built-in heating to speed up the normal drying process and support drying Skinbark as well.\n\nTransforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meatt' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>."),
-	menu_display_name = T(496226958103, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack menu_display_name]] "Electronic drying rack"),
+	display_name = T(311121855325, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name]] "Electronic drying rack"),
+	description = T(916564682033, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack description]] "Dries raw resources over time. Has built-in roof which slows down the drying process but allows products to be stored longer before spoiling.\nHas built-in heating to speed up the normal drying process and support drying Skinbark as well.\n\nTransforms <color TextEmphasis>Raw red meat</color><image 'UI/Icons/Resources/res_raw_meatt' 1100> into <color TextEmphasis>Dried meat</color><image 'UI/Icons/Resources/res_dry_meat' 1100>, and <color TextEmphasis>Hides</color><image 'UI/Icons/Resources/res_raw_leather' 1100> into <color TextEmphasis>Leather</color><image 'UI/Icons/Resources/res_dry_leather' 1100>, and <color TextEmphasis>Skinbark</color><image 'UI/Icons/Resources/res_payah_bark' 1100> into <color TextEmphasis>Veggie Leather</color><image 'UI/Icons/Resources/res_veggie_leather' 1100>."),
+	menu_display_name = T(763646656258, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack menu_display_name]] "Electronic drying rack"),
 	BuildMenuIcon = "UI/Icons/Build Menu/small_drying_rack_scrap",
 	BuildMenuPos = 8,
-	display_name_pl = T(766593400088, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_pl]] "Electronic drying racks"),
-	display_name_short = T(484259583975, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_short]] "Small electronic drying rack"),
+	display_name_pl = T(144489704272, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_pl]] "Electronic drying racks"),
+	display_name_short = T(328597973006, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack display_name_short]] "Small electronic drying rack"),
 	entity = "Skin_Rag_03",
 	labels = {
 		"BerserkTargets",
@@ -50,7 +50,7 @@ DefineClass.MassPrint_Upgraded_Small_Drying_Rack = {
 	PowerConsumption = 5000,
 	HasSmartConnection = true,
 	TransformMetaProp = "drying_progress",
-	TransformDisplayName = T(539228315535, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack TransformDisplayName]] "Drying"),
+	TransformDisplayName = T(671208350241, --[[ModItemBuildingCompositeDef MassPrint_Upgraded_Small_Drying_Rack TransformDisplayName]] "Drying"),
 	TransformDefinitions = {
 		PlaceObj('ResTransform', {
 			'InputResource', "RawMeat",
