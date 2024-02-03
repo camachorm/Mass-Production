@@ -7,7 +7,7 @@ return PlaceObj('ModDef', {
 	'author', "Godboss",
 	'version_major', 2,
 	'version_minor', 3,
-	'version', 1365,
+	'version', 1372,
 	'lua_revision', 233360,
 	'saved_with_revision', 347716,
 	'code', {
@@ -44,7 +44,7 @@ return PlaceObj('ModDef', {
 		"Building/MassPrint_Fuel_Generator.lua",
 	},
 	'has_data', true,
-	'saved', 1706975351,
+	'saved', 1706975539,
 	'code_hash', -1344337210633936983,
 	'steam_id', "2958775360",
 	'TagBuildings', true,

@@ -6376,7 +6376,7 @@ PlaceObj('ModItemRecipe', {
 	RequiredDeviceInterfaces = {
 		"Printer3DInterface",
 	},
-	SortKey = 31,
+	SortKey = 30,
 	Unfinished = true,
 	group = "Printer",
 	id = "MassPrint_Res_Carbon_Tubes_100",
@@ -6410,7 +6410,7 @@ PlaceObj('ModItemRecipe', {
 	RequiredDeviceInterfaces = {
 		"Printer3DInterface",
 	},
-	SortKey = 32,
+	SortKey = 30,
 	Unfinished = true,
 	group = "Printer",
 	id = "MassPrint_Res_Carbon_Tubes_1000",
@@ -8170,7 +8170,7 @@ PlaceObj('ModItemRecipe', {
 	RequiredDeviceInterfaces = {
 		"Printer3DInterface",
 	},
-	SortKey = 21,
+	SortKey = 20,
 	Unfinished = true,
 	group = "Printer",
 	id = "MassPrint_Resources_Filaments_Energy_100",
