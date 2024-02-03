@@ -8,9 +8,9 @@ PlaceObj('ModItemBuildCategory', {
 	id = "MassPrint_Components_RecipeCategory",
 }),
 PlaceObj('ModItemBuildCategory', {
-	ActionText = T(858924816911, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category ActionText |gender-variants]] "Print tools"),
-	Description = T(870310887665, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category Description]] "Print Survival Tools."),
-	DisplayName = T(895742452733, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category DisplayName]] "Tools"),
+	ActionText = T(858924816911, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category ActionText |gender-variants]] "Print"),
+	Description = T(870310887665, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category Description]] "Print Survival Equipment."),
+	DisplayName = T(895742452733, --[[ModItemBuildCategory Default MassPrint_ToolsRecipe_Category DisplayName]] "Equipment"),
 	Icon = "UI/Icons/Infopanels/device_craft_tools",
 	SortKey = 1,
 	id = "MassPrint_ToolsRecipe_Category",
@@ -5129,7 +5129,7 @@ PlaceObj('ModItemRecipe', {
 	RequiredDeviceInterfaces = {
 		"AdvancedCraftingInterface",
 	},
-	SortKey = 41,
+	SortKey = 52,
 	Unfinished = true,
 	group = "Weapons",
 	id = "MassPrint_AWpn_RapidPulse_RifleRecipe",
@@ -5180,7 +5180,7 @@ PlaceObj('ModItemRecipe', {
 	RequiredDeviceInterfaces = {
 		"MassPrint_EquipmentPrinter_DeviceInterface",
 	},
-	SortKey = 41,
+	SortKey = 52,
 	Unfinished = true,
 	group = "Printer",
 	id = "MassPrint_AWpn_RapidPulse_RifleRecipe_Printer",
@@ -7790,7 +7790,7 @@ PlaceObj('ModItemRecipe', {
 }),
 PlaceObj('ModItemRecipe', {
 	ActivityDuration = 240000,
-	BuildCategory = "CraftInPrinter",
+	BuildCategory = "MassPrint_ToolsRecipe_Category",
 	Description = T(776129772736, --[[ModItemRecipe MassPrint_Tools_MedKits_10 Description]] "Prints universal kits containing antibiotics and bandages."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
@@ -7833,14 +7833,14 @@ PlaceObj('ModItemRecipe', {
 	RequiredDeviceInterfaces = {
 		"Printer3DInterface",
 	},
-	SortKey = 35,
+	SortKey = 1,
 	Unfinished = true,
 	group = "Printer",
 	id = "MassPrint_Tools_MedKits_10",
 }),
 PlaceObj('ModItemRecipe', {
 	ActivityDuration = 240000,
-	BuildCategory = "CraftInPrinter",
+	BuildCategory = "MassPrint_ToolsRecipe_Category",
 	Description = T(678696692437, --[[ModItemRecipe MassPrint_Tools_MedKits_100 Description]] "Prints universal kits containing antibiotics and bandages."),
 	DestroyOnFail = false,
 	DeviceWorkTime = 240000,
@@ -7884,7 +7884,7 @@ PlaceObj('ModItemRecipe', {
 	RequiredDeviceInterfaces = {
 		"Printer3DInterface",
 	},
-	SortKey = 35,
+	SortKey = 2,
 	Unfinished = true,
 	group = "Printer",
 	id = "MassPrint_Tools_MedKits_100",
