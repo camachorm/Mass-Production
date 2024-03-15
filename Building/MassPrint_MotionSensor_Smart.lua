@@ -6,6 +6,11 @@ DefineClass.MassPrint_MotionSensor_Smart = {
 
 	object_class = "Building",
 	LockState = "hidden",
+	Prerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "Sensors",
+		}),
+	},
 	LockPrerequisites = {
 		PlaceObj('CheckTech', {
 			Tech = "MassPrint_Sensors_Smart",

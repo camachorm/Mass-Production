@@ -2125,6 +2125,11 @@ PlaceObj('ModItemBuildingCompositeDef', {
 	NonWorkingIndState = "idle",
 	PowerComponent = true,
 	PowerConsumption = 9000,
+	Prerequisites = {
+		PlaceObj('CheckTech', {
+			Tech = "Sensors",
+		}),
+	},
 	ProximitySwitchColor = 4293186370,
 	ProximitySwitchComponent = true,
 	ProximitySwitchFilter = function (self, obj)
@@ -12448,15 +12453,15 @@ PlaceObj('ModItemTech', {
 	money_value = 30000000,
 	PlaceObj('RemoveLockedState', {
 		Class = "ModItemBuildingCompositeDef",
-		Group = "Power",
+		Group = "Defense",
 		LockState = "hidden",
-		PresetId = "MassPrint_DieselGenerator_Smart",
+		PresetId = "MassPrint_MotionSensor_Smart",
 	}),
 	PlaceObj('RemoveLockedState', {
 		Class = "ModItemBuildingCompositeDef",
-		Group = "Power",
+		Group = "Defense",
 		LockState = "locked",
-		PresetId = "MassPrint_DieselGenerator_Smart",
+		PresetId = "MassPrint_MotionSensor_Smart",
 	}),
 }),
 PlaceObj('ModItemTech', {

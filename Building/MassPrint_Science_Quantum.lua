@@ -4,7 +4,6 @@ DefineClass.MassPrint_Science_Quantum = {
 	__generated_by_class = "ModItemBuildingCompositeDef",
 
 
-	__copy_group = "Science",
 	object_class = "ResearchTerminalBase",
 	LockState = "hidden",
 	BuildMenuCategory = "Science",
