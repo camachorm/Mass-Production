@@ -7,7 +7,7 @@ return PlaceObj('ModDef', {
 	'author', "Godboss",
 	'version_major', 2,
 	'version_minor', 3,
-	'version', 1402,
+	'version', 1403,
 	'lua_revision', 233360,
 	'saved_with_revision', 347716,
 	'code', {
@@ -45,7 +45,7 @@ return PlaceObj('ModDef', {
 		"Building/MassPrint_Science_Quantum.lua",
 	},
 	'has_data', true,
-	'saved', 1710500197,
+	'saved', 1710500247,
 	'code_hash', -8942655772446574002,
 	'steam_id', "2958775360",
 	'TagBuildings', true,
